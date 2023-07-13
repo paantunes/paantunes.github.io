@@ -205,5 +205,5 @@ Ochoa, S., Pino, J., Baloian, N., Antunes, P., and Herskovic, V. 2012. “Some O
 Simões, D., Antunes, P., and Pino, J. 2012. “Humanistic Approach to the Representation of Business Processes.” in 16th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Wuhan, China: IEEE. pp. 655–665. ISBN: 978-1-4673-1211-0. DOI: https://doi.org/10.1109/CSCWD.2012.6221888. CORE B. h5-index 15. [ResearchGate](https://www.researchgate.net/publication/230559180_Humanistic_Approach_to_the_Representation_of_Business_Processes). [GitHub](https://paantunes.github.io/assets/pdf/12-cscwd-bpm.pdf).
 
 
-[2011 and earlier](publications2)
+[2011 and earlier](publications2.markdown)
 ---------------------------------
