@@ -38,83 +38,86 @@ Carriço, L. 2000. “Conceptual Maps for the Representation of Organisational K
 Ms Theses
 ---------
 
-[1] R. Madeira, ‘Integração de serviços de assinatura digital, com base em regras de interoperabilidade’, M.Sc. Thesis, FCUL, 2023.
 
-[2] A. Artiom, ‘DevOps: Implementação do Modelo Devops em Equipa de Desenvolvimento’, M.Sc. Thesis, FCUL, 2022. [Online]. Available: http://hdl.handle.net/10451/56773
+Madeira, R. 2023. “Integração de Serviços de Assinatura Digital, Com Base Em Regras de Interoperabilidade,” M.Sc. Thesis. FCUL.
 
-[3] S. Tenanoia, ‘Applying the 3C model (communication, coordination, collaboration) to analyse the role of technology in emergency management’, Master in Information Management - Research Project/Thesis, VUW, 2017.
+Artiom, A. 2022. “DevOps: Implementação Do Modelo Devops Em Equipa de Desenvolvimento,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/56773).
 
-[4] G. Chang Yin, ‘A comparative study of applying the storytelling method to the human ethics committee application process’, Master in Information Management - Research Project/Thesis, VUW, 2016.
+Tenanoia, S. 2017. “Applying the 3C Model (Communication, Coordination, Collaboration) to Analyse the Role of Technology in Emergency Management,” Master in Information Management - Research Project/Thesis. VUW.
 
-[5] G. Chang Yin, ‘Service Failure Classification in the Control/Response Framework’, Honours Research Project, VUW, 2015.
+Chang Yin, G. 2016. “A Comparative Study of Applying the Storytelling Method to the Human Ethics Committee Application Process,” Master in Information Management - Research Project/Thesis. VUW.
 
-[6] A. Durga, ‘Integrating Social Media and Business Process Improvement: Value Propositions and Opportunities for Corporates’, Master in Information Management - Research Project/Thesis, VUW, 2014. [Online]. Available: https://ulisboa-my.sharepoint.com/:b:/g/personal/padantunes_fc_ul_pt/EXhUEd3KQMdKkFnNoi2lO84ByahOX4XOsUxFTPgwmjmHPw?e=aLA7dj
+Chang Yin, G. 2015. “Service Failure Classification in the Control/Response Framework,” Honours Research Project. VUW.
 
-[7] D. Kenny, ‘How Do Business People Rank Requirements Representations For Information Systems?’, Master in Information Management - Research Project/Thesis, VUW, 2013.
+Durga, A. 2014. “Integrating Social Media and Business Process Improvement: Value Propositions and Opportunities for Corporates,” Master in Information Management - Research Project/Thesis. VUW.
 
-[8] J. Natalio, ‘Desenvolvimento de um Framework de Business Performance Management’, M.Sc. Thesis, FCUL, 2011. [Online]. Available: http://hdl.handle.net/10451/9151
+Kenny, D. 2013. “How Do Business People Rank Requirements Representations For Information Systems?,” Master in Information Management - Research Project/Thesis. VUW.
 
-[9] S. Fernandes, ‘Sistema de Ajuda Contextualizada Online’, M.Sc. Thesis, FCUL, 2011. [Online]. Available: http://hdl.handle.net/10451/8048
+Fernandes, S. 2011. “Sistema de Ajuda Contextualizada Online,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/8048).
 
-[10] R. Vilhena, ‘Desenvolvimento de uma Aplicação para Monitorização da Actividade Funcional em Base de Dados Oracle’, M.Sc. Thesis, FCUL, 2010. [Online]. Available: http://hdl.handle.net/10451/5490
+Natalio, J. 2011. “Desenvolvimento de Um Framework de Business Performance Management,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/9151).
 
-[11] A. Martins, ‘Avaliação de um Protótipo de Suporte a Reuniões Electrónicas Através da Metodologia Perceived Value’, M.Sc. Thesis, FCUL, 2010. [Online]. Available: http://hdl.handle.net/10451/4623
+Leal, M. 2010. “Hazard Logging and Management System,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/5511).
 
-[12] M. Leal, ‘Hazard Logging and Management System’, M.Sc. Thesis, FCUL, 2010. [Online]. Available: http://hdl.handle.net/10451/5511
+Martins, A. 2010. “Avaliação de Um Protótipo de Suporte a Reuniões Electrónicas Através Da Metodologia Perceived Value,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/4623).
 
-[13] G. Linhares, ‘Suporte por Computador a Negociação Colaborativa nas Revisões Técnicas Formais’, M.Sc. Thesis, UFRJ, Brazil, 2009. [Online]. Available: https://ulisboa-my.sharepoint.com/:b:/g/personal/padantunes_fc_ul_pt/EbtgFoIwsptEqKVj5XaKW6kBRuRdB83DBoLV-7Wt32Mj8Q?e=jPhpn6
+Vilhena, R. 2010. “Desenvolvimento de Uma Aplicação Para Monitorização Da Actividade Funcional Em Base de Dados Oracle,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/5490).
 
-[14] M. Severino, ‘Gestão de Recursos de clientes Utilizando Tecnologia Siebel’, M.Sc. Thesis, FCUL, 2008. [Online]. Available: http://hdl.handle.net/10451/15239
+Linhares, G. 2009. “Suporte Por Computador a Negociação Colaborativa Nas Revisões Técnicas Formais,” M.Sc. Thesis. Brazil: UFRJ.
 
-[15] J. Pereira, ‘Implementação de funcionalidades numa solução de notação de risco para operações de crédito numa instituição financeira’, M.Sc. Thesis, FCUL, 2008. [Online]. Available: http://hdl.handle.net/10451/6212
+Pereira, J. 2008. “Implementação de Funcionalidades Numa Solução de Notação de Risco Para Operações de Crédito Numa Instituição Financeira,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/6212).
 
-[16] H. Vicente, ‘Planeamento Estratégico de Sistemas de Informação’, M.Sc. Thesis, FCUL, 2007. [Online]. Available: https://biblios.ciencias.ulisboa.pt/detalhes/58237
+Severino, M. 2008. “Gestão de Recursos de Clientes Utilizando Tecnologia Siebel,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/15239).
 
-[17] F. Simões, ‘Auditoria de Sistemas de Votação Electrónica: Uma Proposta de Arquitectura e Protótipo de Simulação’, M.Sc. Thesis, FCUL, 2007. [Online]. Available: https://biblios.ciencias.ulisboa.pt/detalhes/33142
+Honorato, T. 2007. “Ferramentas de Suporte à Gestão,” M.Sc. Thesis. FCUL. [URL](https://biblios.ciencias.ulisboa.pt/detalhes/58238).
 
-[18] S. Silva, ‘Modelação de Processos Alternativos de Conflito Utilizando a Técnica de StoryTelling’, M.Sc. Thesis, IST, 2007.
+Silva, S. 2007. “Modelação de Processos Alternativos de Conflito Utilizando a Técnica de StoryTelling,” M.Sc. Thesis. IST.
 
-[19] T. Honorato, ‘Ferramentas de Suporte à Gestão’, M.Sc. Thesis, FCUL, 2007. [Online]. Available: https://biblios.ciencias.ulisboa.pt/detalhes/58238
+Simões, F. 2007. “Auditoria de Sistemas de Votação Electrónica: Uma Proposta de Arquitectura e Protótipo de Simulação,” M.Sc. Thesis. FCUL. [URL](https://biblios.ciencias.ulisboa.pt/detalhes/33142).
 
-[20] L. Pereira, ‘Reuniões electrónicas com PDA’, M.Sc. Thesis, FCUL, 2006. [Online]. Available: https://biblios.ciencias.ulisboa.pt/detalhes/58239
+Vicente, H. 2007. “Planeamento Estratégico de Sistemas de Informação,” M.Sc. Thesis. FCUL. [URL](https://biblios.ciencias.ulisboa.pt/detalhes/58237).
 
-[21] J. Ramires, ‘Negociação de requisitos no processo de desenvolvimento de software’, M.Sc. Thesis, FCUL, 2004. [Online]. Available: https://biblios.ciencias.ulisboa.pt/detalhes/33373
+Pereira, L. 2006. “Reuniões Electrónicas Com PDA,” M.Sc. Thesis. FCUL. [URL](https://biblios.ciencias.ulisboa.pt/detalhes/58239).
 
-[22] M. André, ‘Ambiente colaborativo para recolha de dados geológicos e produção cartográfica’, M.Sc. Thesis, FCUL, 2004. [Online]. Available: https://biblios.ciencias.ulisboa.pt/detalhes/58240
+André, M. 2004. “Ambiente Colaborativo Para Recolha de Dados Geológicos e Produção Cartográfica,” M.Sc. Thesis. FCUL. [URL](https://biblios.ciencias.ulisboa.pt/detalhes/58240).
 
-[23] T. Ho, ‘Ferramentas de Suporte à Facilitação em Processos de Decisão em Grupo’, M.Sc. Thesis, IST, 2000.
+Ramires, J. 2004. “Negociação de Requisitos No Processo de Desenvolvimento de Software,” M.Sc. Thesis. FCUL. [URL](https://biblios.ciencias.ulisboa.pt/detalhes/33373).
 
-[24] N. Gonçalves, ‘Uma Ferramenta para a Exploração de Casos em Processos de Tomada de Decisão’, M.Sc. Thesis, IST, 2000.
+Gonçalves, N. 2000. “Uma Ferramenta Para a Exploração de Casos Em Processos de Tomada de Decisão,” M.Sc. Thesis. IST.
 
-[25] M. Melo, ‘Restructuring the web application interface’, M.Sc. Thesis, FCUL, ongoing.
+Ho, T. 2000. “Ferramentas de Suporte à Facilitação Em Processos de Decisão Em Grupo,” M.Sc. Thesis. IST.
 
-[26] J. Lopes, ‘Desenvolvimento de solução de gestão de risco para uma aplicação SaaS de revenda de software na Cloud’, M.Sc. Thesis, FCUL, ongoing.
+Guilherme, B. ongoing. “Improving Website User Experience with Dynamic Sidebars,” M.Sc. Thesis. FCUL.
 
-[27] B. Guilherme, ‘Improving Website User Experience with Dynamic Sidebars’, M.Sc. Thesis, FCUL, ongoing.
+Lopes, J. ongoing. “Desenvolvimento de Solução de Gestão de Risco Para Uma Aplicação SaaS de Revenda de Software Na Cloud,” M.Sc. Thesis. FCUL.
+
+Melo, M. ongoing. “Restructuring the Web Application Interface,” M.Sc. Thesis. FCUL.
+
 
 Grad Theses
 -----------
 
-[1] J. Silva, ‘Garantia de Receita’, Final Course Project, FCUL, 2006.
 
-[2] B. Garcia, ‘SAP CRM’, Final Course Project, FCUL, 2005.
+Silva, J. 2006. “Garantia de Receita,” Final Course Project. FCUL.
 
-[3] B. Bento, ‘Web Applications’, Final Course Project, FCUL, 2005.
+Bento, B. 2005. “Web Applications,” Final Course Project. FCUL.
 
-[4] A. Pichstein, ‘Gestão de projectos’, Final Course Project, FCUL, 2003.
+Garcia, B. 2005. “SAP CRM,” Final Course Project. FCUL.
 
-[5] D. Gomes, ‘Tarântula - Sistema de Recolha de Documentos na WWW’, Final Course Project, FCUL, 2001.
+Pichstein, A. 2003. “Gestão de Projectos,” Final Course Project. FCUL.
 
-[6] J. Canário and R. Silva, ‘Planeamento de Reuniões Electrónicas’, Final Course Project, IST, 2001.
+Canário, J., and Silva, R. 2001. “Planeamento de Reuniões Electrónicas,” Final Course Project. IST.
 
-[7] C. Pereira and D. Barcelos, ‘Facilitação Remota de Grupos Electrónicos’, Final Course Project, IST, 2000.
+Gomes, D. 2001. “Tarântula - Sistema de Recolha de Documentos Na WWW,” Final Course Project. FCUL.
 
-[8] R. Ferreira and S. Giva, ‘Megagest’, Final Course Project, IST, 2000.
+Ferreira, R., and Giva, S. 2000. “Megagest,” Final Course Project. IST.
 
-[9] N. Barrocas, ‘Ferramentas de Apoio ao Planeamento e Condução de Reuniões Electrónicas’, Final Course Project, IST, 1999.
+Pereira, C., and Barcelos, D. 2000. “Facilitação Remota de Grupos Electrónicos,” Final Course Project. IST.
 
-[10] A. Oliveira and P. Ferraz, ‘Monitorização de Grupo Utilizando Tecnologias WWW’, Final Course Project, IST, 1998.
+Barrocas, N. 1999. “Ferramentas de Apoio Ao Planeamento e Condução de Reuniões Electrónicas,” Final Course Project. IST.
 
-[11] N. Nunes and P. Anes, ‘Sistema de Suporte e Gestão de Interacções de Grupo Same-Time/Different-Place’, Final Course Project, IST, 1998.
+Nunes, N., and Anes, P. 1998. “Sistema de Suporte e Gestão de Interacções de Grupo Same-Time/Different-Place,” Final Course Project. IST.
 
-[12] C. Alves and D. Silva, ‘Suporte e Controlo da Interacção em Sistemas de Trabalho Cooperativo’, Final Course Project, IST, 1997.
+Oliveira, A., and Ferraz, P. 1998. “Monitorização de Grupo Utilizando Tecnologias WWW,” Final Course Project. IST.
+
+Alves, C., and Silva, D. 1997. “Suporte e Controlo Da Interacção Em Sistemas de Trabalho Cooperativo,” Final Course Project. IST.
