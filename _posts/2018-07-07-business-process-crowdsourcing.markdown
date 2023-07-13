@@ -6,7 +6,7 @@ date:   2023-07-13 12:12:59 +0100
 categories: jekyll update
 ---
 
-[(pdf version)](crowdsourcing.pdf)
+[(pdf version)](/assets/pdf/crowdsourcing.pdf)
 
 Business process crowdsourcing concerns the integration of the crowdsourcing strategy and business process management. Crowdsourcing is often an ad-hoc endeavor, e.g., allowing crowd workers to perform simple, independent tasks. Business process crowdsourcing empowers organizations to use crowdsourcing on a long-term, recurrent basis.
 
