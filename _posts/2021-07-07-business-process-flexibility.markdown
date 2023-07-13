@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Business Process Flexibility"
+author: "Pedro Antunes"
 date:   2023-07-13 12:12:59 +0100
 categories: jekyll update
 ---
 
-[in pdf](assets/pdf/process-flexibility.pdf)
+[(pdf version)](assets/pdf/process-flexibility.pdf)
 
 Business process management is mainly recognized for its capacity to manage ‘regular’ flows. However, real-world contexts often make it impossible to effectively follow the ‘regular’ flow. Therefore, increasing business process flexibility is paramount to fully realize business process management.
 
