@@ -10,8 +10,13 @@ Contact
 =======
 
 Pedro Antunes
+
 Department of Informatics
+
 Faculty of Sciences of the University of Lisbon
+
 Campo Grande
+
 Lisbon, Portugal
+
 padantunes@fc.ul.pt
