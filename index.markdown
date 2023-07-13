@@ -25,4 +25,4 @@ Profile
 Details
 =======
 
-[CV (long)]({% link /assets/pdf/cv-long-3.pdf %})
+- [CV (long)]({% link /assets/pdf/cv-long-3.pdf %})
