@@ -27,3 +27,5 @@ Scholar Profile: [link] (https://scholar.google.com/citations?user=MBIvX78AAAAJ&
 Scopus Author ID: 8402688100
 
 WoS Researcher ID: B-8664-2008
+
+[CV in long format] ({% link /assets/pdf/cv-long-3.pdf %})
