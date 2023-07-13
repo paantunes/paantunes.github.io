@@ -16,13 +16,13 @@ Profile
 
 Ciência ID: 8816-50B9-2BD1
 
-DBLP: https://dblp.org/pid/97/768.html
+DBLP: [link] https://dblp.org/pid/97/768.html
 
 ORCID ID: 0000-0002-5411-8798. https://orcid.org/ 0000-0002-5411-8798
 
-Research Gate: https://www.researchgate.net/profile/Pedro-Antunes-25
+Research Gate: [link] https://www.researchgate.net/profile/Pedro-Antunes-25
 
-Scholar Profile: https://scholar.google.com/citations?user=MBIvX78AAAAJ&hl=en
+Scholar Profile: [link] https://scholar.google.com/citations?user=MBIvX78AAAAJ&hl=en
 
 Scopus Author ID: 8402688100
 
