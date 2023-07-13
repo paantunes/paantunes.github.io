@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Older Publications
+permalink: /old_pubs/
 ---
 
 
 Older Publications
 ==================
-
 
 
 Antunes, P. 2011. “BPM and Exception Handling: Focus on Organizational Resilience.” IEEE Transactions on Systems, Man, and Cybernetics Part C: Applications and Reviews (41:3). pp. 383–392. ISSN: 1094-6977. DOI: https://doi.org/10.1109/TSMCC.2010.2062504. WoS Q1. SCIMAGO Q1. SCOPUS Q1. CORE B. Citations: 50. [ResearchGate](https://www.researchgate.net/publication/224169352_BPM_and_Exception_Handling_Focus_on_Organizational_Resilience). [GitHub](https://paantunes.github.io/assets/pdf/11-ieee-smc.pdf).
