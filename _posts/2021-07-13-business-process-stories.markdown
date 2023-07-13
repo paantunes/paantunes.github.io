@@ -6,7 +6,7 @@ date:   2021-07-13 12:12:59 +0100
 categories: jekyll update
 ---
 
-![figure](/assets/process-story.jpg)
+![figure](/assets/img/process-story.jpg)
 
 [(pdf version)](/assets/pdf/process-stories.pdf)
 
