@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![photo](/assets/img/paa8.jpg "Title")
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Education
+Habilitation in Informatics Engineering (University of Lisbon)
+PhD in Computer Engineering (Technical University of Lisbon)
+MSc in Computer Engineering (Technical University of Lisbon)
+Degree in Electrical and Computer Engineering (Technical University of Lisbon)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Affiliations
+2020 – today	Associate Professor with Habilitation. Faculty of Sciences of the University of Lisbon. Department of Informatics
+2012 – 2020	Associate Professor. Victoria University of Wellington. Victoria Business School. School of Information Management
+2009 – 2012	Associate Professor with Habilitation. University of Lisbon. Faculty of Sciences. Department of Informatics
+2005 – 2008	Associate Professor. University of Lisbon. Faculty of Sciences. Department of Informatics
+2000 – 2005	Auxiliary Professor. University of Lisbon. Faculty of Sciences. Department of Informatics
+1998 – 1999	Auxiliary Professor. Technical University of Lisbon. Instituto Superior Técnico. Department of Informatics Engineering
