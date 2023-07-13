@@ -35,111 +35,219 @@ Timeline
 --------
 
 2022–2023: Business Organization and Management. Master in Informatics Engineering, FCUL/PT
+
 2022–2023: Information Systems Analysis and Design. Degree in Informatics Engineering, FCUL/PT
+
 2022–2023: Product Conception. Degree in Information and Communications Technology, FCUL/PT
+
 2022–2023: Web Applications. Master in Informatics Engineering, FCUL/PT
+
 2021–2022: Business Organization and Management. Master in Informatics Engineering, FCUL/PT
+
 2021–2022: Information Systems Analysis and Design. Degree in Informatics Engineering, FCUL/PT
+
 2021–2022: Product Conception. Degree in Information and Communications Technology, FCUL/PT
+
 2021–2022: Web Applications. Master in Informatics Engineering, FCUL/PT
+
 2020–2021: Business Organization and Management. Master in Informatics Engineering, FCUL/PT
+
 2020–2021: Information Systems Analysis and Design. Degree in Informatics Engineering, FCUL/PT
+
 2020–2021: Product Conception. Degree in Information and Communications Technology, FCUL/PT
+
 2020–2021: Web Applications. Master in Informatics Engineering, FCUL/PT
+
 2020: Business Process Design. Bachelor of Commerce, VUW/NZ
+
 2020: Design Science Studio. Bachelor of Commerce/Honours, VUW/NZ
+
 2020: User Experience Design. Bachelor of Commerce, VUW/NZ
+
 2019: Application Development. Bachelor of Commerce, VUW/NZ
+
 2019: Business Process Design. Bachelor of Commerce, VUW/NZ
+
 2019: Design Science Studio. Bachelor of Commerce/Honours, VUW/NZ
+
 2019: User Experience Design. Bachelor of Commerce, VUW/NZ
+
 2018: Business Process Design. Bachelor of Commerce, VUW/NZ
+
 2018: Experimental and Design Science Research Strategies. PhD Programme, VUW/NZ
+
 2018: (sabbatical leave)
+
 2018: User Experience Design. Bachelor of Commerce, VUW/NZ
+
 2017: Application Development. Bachelor of Commerce, VUW/NZ
+
 2017: Business Process Design. Bachelor of Commerce, VUW/NZ
+
 2017: Design Science Studio. Bachelor of Commerce/Honours, VUW/NZ
+
 2017: Experimental and Design Science Research Strategies. PhD Programme, VUW/NZ
+
 2017: User Experience Design. Bachelor of Commerce, VUW/NZ
+
 2016: Application Development. Bachelor of Commerce, VUW/NZ
+
 2016: Business Process Design. Bachelor of Commerce, VUW/NZ
+
 2016: Enterprise Systems. Masters in Information Management, VUW/NZ
+
 2016: Experimental and Design Science Research Strategies. PhD Programme, VUW/NZ
+
 2016: User Experience Design. Bachelor of Commerce, VUW/NZ
+
 2015: Advanced Systems Analysis. Bachelor of Commerce, VUW/NZ
+
 2015: Application Development. Bachelor of Commerce, VUW/NZ
+
 2015: Business Process Design. Bachelor of Commerce, VUW/NZ
+
 2015: Experimental and Design Science Research Strategies. PhD Programme, VUW/NZ
+
 2015: Project in Information Systems / Project in E-Commerce. Bachelor of Commerce, VUW/NZ
+
 2015: User Experience Design. Bachelor of Commerce, VUW/NZ
+
 2015: User Experience Design. Bachelor of Commerce, VUW/NZ
+
 2014: Advanced Systems Analysis. Bachelor of Commerce, VUW/NZ
+
 2014: Enterprise Systems. Masters in Information Management, VUW/NZ
+
 2014: Introduction to Internet Design and Development. Bachelor of Commerce, VUW/NZ
+
 2013: Advanced Systems Analysis. Bachelor of Commerce, VUW/NZ
+
 2013: Business Application Programming. Bachelor of Commerce, VUW/NZ
+
 2013: Introduction to Internet Design and Development. Bachelor of Commerce, VUW/NZ
+
 2012: Advanced Systems Analysis. Bachelor of Commerce, VUW/NZ
+
 2012: Enterprise Systems. Masters in Information Management, VUW/NZ
+
 2011–2012: Information Systems Project. Degree in Informatics Engineering, FCUL/PT
+
 2011–2012: Product and Process Innovation I. Masters in Product Design, UL-Faculty of Arts/PT
+
 2010–2011: Organisational Behavior. Masters in Informatics Engineering, FCUL/PT
+
 2010–2011: Product and Process Innovation II. Masters in Product Design, UL-Faculty of Arts/PT
+
 2010–2011: (sabbatical leave)
+
 2009–2010: Human Error and Systems Safety. Masters in Informatics Engineering, FCUL/PT
+
 2009–2010: Organisational Behavior. Masters in Informatics Engineering, FCUL/PT
+
 2009–2010: Product and Process Innovation I. Masters in Product Design, UL-Faculty of Arts/PT
+
 2009–2010: (sabbatical leave)
+
 2008–2009: Human Error and Systems Safety. Masters in Informatics Engineering, FCUL/PT
+
 2008–2009: Organisational Behavior. Masters in Informatics Engineering, FCUL/PT
+
 2008–2009: Product and Process Innovation I. Masters in Product Design, UL-Faculty of Arts/PT
+
 2008–2009: Product and Process Innovation II. Masters in Product Design, UL-Faculty of Arts/PT
+
 2008–2009: Product Design. Masters in Informatics Engineering, FCUL/PT
+
 2008–2009: Systems Analysis and Design. Degree in Informatics Engineering, FCUL/PT
+
 2007–2008: Cooperative Work and Organizational Computing. Masters in Informatics Engineering, FCUL/PT
+
 2007–2008: Human Error and Systems Safety. Masters in Informatics Engineering, FCUL/PT
+
 2007–2008: Organisational Behavior. Masters in Informatics Engineering, FCUL/PT
+
 2007–2008: Systems Analysis and Design. Degree in Informatics Engineering, FCUL/PT
+
 2006–2007: Cooperative Work and Organizational Computing. Masters in Informatics Engineering, FCUL/PT
+
 2006–2007: Human Error and Systems Safety. Masters in Informatics Engineering, FCUL/PT
+
 2006–2007: Organisational Behavior. Masters in Informatics Engineering, FCUL/PT
+
 2006–2007: Systems Analysis and Design. Degree in Informatics Engineering, FCUL/PT
+
 2005–2006: Cooperative Work and Organizational Computing. Degree in Informatics Engineering, FCUL/PT
+
 2005–2006: (sabbatical leave)
+
 2004–2005: Cooperative Work and Organizational Computing. Degree in Informatics Engineering, FCUL/PT
+
 2004–2005: Human-Computer Interaction. Degree in Informatics Engineering, FCUL/PT
+
 2004–2005: Information Systems Project. Degree in Informatics Engineering, FCUL/PT
+
 2004–2005: Product Engineering. Masters in Informatics, FCUL/PT
+
 2004–2005: (sabbatical leave)
+
 2004–2005: Socio-Technical Systems Design. PhD Programme, Departamento de Ciencias de la Computación, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile/CL (as Invited Lecturer)
+
 2003–2004: Cooperative Work and Organizational Computing. Degree in Informatics Engineering, FCUL/PT
+
 2003–2004: Human-Computer Interaction. Degree in Informatics Engineering, FCUL/PT
+
 2003–2004: Information Systems Project. Degree in Informatics Engineering, FCUL/PT
+
 2002–2003: Information Systems Project. Degree in Informatics Engineering, FCUL/PT
+
 2002–2003: Systems Analysis. Degree in Informatics, FCUL/PT
+
 2001–2002: Cooperative Work and Organizational Computing. Degree in Informatics, FCUL/PT
+
 2001–2002: Information Systems Project. Degree in Informatics, FCUL/PT
+
 2001–2002: Systems Analysis. Degree in Informatics, FCUL/PT
+
 2000–2001: Cooperative Work and Organizational Computing. Degree in Informatics, FCUL/PT
+
 2000–2001: Information Systems Project. Degree in Informatics, FCUL/PT
+
 2000–2001: Systems Analysis. Degree in Informatics, FCUL/PT
+
 1999–2000: Fundamentals of Information Systems and Databases. Degree in Informatics, FCUL/PT
+
 1999–2000: Human-Computer Interaction. Degree in Informatics, FCUL/PT
+
 1999–2000: Operating Systems. Degree in Informatics and Computer Engineering, IST/PT
+
 1999–2000: Software Development Processes. Degree in Informatics, FCUL/PT
+
 1998–1999: Cooperative Work. Masters in Electrical and Computer Engineering, IST/PT
+
 1998–1999: Hypermedia. Masters in Electrical and Computer Engineering, IST/PT
+
 1998–1999: Software Engineering. Degree in Informatics and Computer Engineering, IST/PT
+
 1997–1998: Hypermedia. Masters in Electrical and Computer Engineering, IST/PT
+
 1997–1998: Programming. Degree in Informatics and Computer Engineering, IST/PT
+
 1997–1998: Software Engineering. Degree in Informatics and Computer Engineering, IST/PT
+
 1996–1997: Software Engineering. Degree in Informatics and Computer Engineering, IST/PT
+
 1992–1993: Digital Systems. Degree in Electrical and Computer Engineering, IST/PT
+
 1992–1993: Microprocessors. Degree in Electrical and Computer Engineering, IST/PT
+
 1991–1992: Digital Systems. Degree in Electrical and Computer Engineering, IST/PT
+
 1991–1992: Microprocessors. Degree in Electrical and Computer Engineering, IST/PT
+
 1990–1991: Digital Systems. Degree in Electrical and Computer Engineering, IST/PT
+
 1990–1991: Microprocessors. Degree in Electrical and Computer Engineering, IST/PT
+
 1989–1990: Digital Systems. Degree in Electrical and Computer Engineering, IST/PT
+
 1989–1990: Microprocessors. Degree in Electrical and Computer Engineering, IST/PT
