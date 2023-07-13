@@ -29,14 +29,23 @@ Additional resources
 --------------------
 
 -[(Cornershop stories)](/assets/pdf/cornershop-stories.pdf)
+
 -[(Cornershop official process)](/assets/pdf/cornershop-official.pdf)
--[(HEC story 1)](/assets/pdf/HEC1.pdf)
--[(HEC story 2)](/assets/pdf/HEC2.pdf)
--[(HEC story 3)](/assets/pdf/HEC3.pdf)
+
+-[(HEC story 1)](/assets/pdf/HEC01.pdf)
+
+-[(HEC story 2)](/assets/pdf/HEC02.pdf)
+
+-[(HEC story 3)](/assets/pdf/HEC03.pdf)
+
 -[(Sysadmin Image Preparation story)](/assets/pdf/sysadmin-image-preparation.pdf)
+
 -[(Sysadmin New Image story)](/assets/pdf/sysadmin-new-image.pdf)
+
 -[(Sysadmin New Semester story)](/assets/pdf/sysadmin-new-semester.pdf)
+
 -[(Sysadmin Software Requirements story)](/assets/pdf/sysadmin-software-requirements.pdf)
+
 -[(Sysadmin System Update story)](/assets/pdf/sysadmin-system-update.pdf)
 
 References
