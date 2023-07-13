@@ -12,25 +12,27 @@ Highlights
 PhD Theses
 ----------
 
-[1] I. Ushaka, ‘An exploratory design science study on theory testing using crowdsourcing’, Ph.D. Thesis, VUW, 2019. [Online]. Available: https://ulisboa-my.sharepoint.com/:b:/g/personal/padantunes_fc_ul_pt/Ea-uYV979ORBrlJj-LgsYSgB8g3TLLHeMEwIoXnwoB5Byw?e=cAToFR
 
-[2] F. Leite, ‘Development and Evaluation of a Method Supporting Auto-Representation in Judicial Systems using Visual Narrative (In Portuguese: Desenvolvimento e Avaliação de um Método para Autorepresentação em Sistemas Judiciais utilizando a Narrativa Visual)’, Ph.D. Thesis, ISCTE, 2019. [Online]. Available: https://ulisboa-my.sharepoint.com/:b:/g/personal/padantunes_fc_ul_pt/EdxQCb9IgNxDq-ma48w-xnYBg6tt3yEJpfGdt0TVa-_ACg?e=4RfPXv
+Leite, F. 2019. “Development and Evaluation of a Method Supporting Auto-Representation in Judicial Systems Using Visual Narrative (In Portuguese: Desenvolvimento e Avaliação de Um Método Para Autorepresentação Em Sistemas Judiciais Utilizando a Narrativa Visual),” Ph.D. Thesis. ISCTE.
 
-[3] H. Yang, ‘In A Quest to Solve Information System Agility Problems A SaaS Experience’, Ph.D. Thesis, VUW, 2018. [Online]. Available: https://ulisboa-my.sharepoint.com/:b:/g/personal/padantunes_fc_ul_pt/ES25DlfCrwpBhWTVJh6RImcB4Jz9Nl80iry2z-uPc7c3sA?e=d76YJ4
+Ushaka, I. 2019. “An Exploratory Design Science Study on Theory Testing Using Crowdsourcing,” Ph.D. Thesis. VUW. 2020 PHIS-NZ Award for Best PhD Thesis in Information Systems in New Zealand.
 
-[4] D. Simões, ‘An End-User Approach to Business Process Modeling’, Ph.D. Thesis, FCUL, 2017. [Online]. Available: http://hdl.handle.net/10451/28485
+Yang, H. 2018. “In A Quest to Solve Information System Agility Problems A SaaS Experience,” Ph.D. Thesis. VUW. 2019 PHIS-NZ Award for Best PhD Thesis in Information Systems in New Zealand.
 
-[5] N. Thuan, ‘Establishing Crowdsourcing as an Organisational Business Process: A Design Science Approach’, Ph.D. Thesis, VUW, 2016. [Online]. Available: https://ulisboa-my.sharepoint.com/:b:/g/personal/padantunes_fc_ul_pt/EZRFpzYpW6BCvzyAs1pSrwkBjknqJ1NN64ID-xgi_BoAhw?e=1sJ2pU
+Simões, D. 2017. “An End-User Approach to Business Process Modeling,” Ph.D. Thesis. FCUL. [URL](http://hdl.handle.net/10451/28485).
 
-[6] C. Sapateiro, ‘Evaluating Mobile Collaborative Applications Support of Teamwork in Critical Incidents Response Management’, Ph.D. Thesis, FCUL, 2013. [Online]. Available: https://biblios.ciencias.ulisboa.pt/detalhes/58244
+Thuan, N. 2016. “Establishing Crowdsourcing as an Organisational Business Process: A Design Science Approach,” Ph.D. Thesis. VUW. 2017 PHIS-NZ award for best thesis in Information Systems in New Zealand. 2017 Dean’s Award for Doctoral Achievement. 2014 PGSA Postgraduate Research Excellence Award.
 
-[7] A. Ferreira, ‘Evaluating Groupware Usability at the Cognitive Level of Human Action’, Ph.D. Thesis, FCUL, 2010. [Online]. Available: https://ulisboa-my.sharepoint.com/:b:/g/personal/padantunes_fc_ul_pt/Ec_o0t034UFKj4a6eYqs5VMBc5MoM56BWvROOTF_R7Bs3g?e=GF6L6L
+Sapateiro, C. 2013. “Evaluating Mobile Collaborative Applications Support of Teamwork in Critical Incidents Response Management,” Ph.D. Thesis. FCUL. [URL](https://biblios.ciencias.ulisboa.pt/detalhes/58244).
 
-[8] H. Mourão, ‘Supporting Effective Unexpected Exception Handling in Workflow Management Systems within Organizational Contexts’, Ph.D. Thesis, FCUL, 2008. [Online]. Available: http://hdl.handle.net/10451/1677
+Ferreira, A. 2010. “Evaluating Groupware Usability at the Cognitive Level of Human Action,” Ph.D. Thesis. FCUL.
 
-[9] C. J. Costa, ‘Organisational Integration of Meeting Results (in Portuguese)’, Ph.D. Thesis, ISCTE, 2002. [Online]. Available: https://ulisboa-my.sharepoint.com/:b:/g/personal/padantunes_fc_ul_pt/EdFuhsjCzMxGtALTUrOu6c8BNTglJ1weEK6RCi8hj6beAw?e=kldrWr
+Mourão, H. 2008. “Supporting Effective Unexpected Exception Handling in Workflow Management Systems within Organizational Contexts,” Ph.D. Thesis. FCUL. [URL](http://hdl.handle.net/10451/1677).
 
-[10] L. Carriço, ‘Conceptual Maps for the Representation of Organisational Knowledge (in Portuguese)’, Ph.D. Thesis, IST, 2000.
+Costa, C. J. 2002. “Organisational Integration of Meeting Results (in Portuguese),” Ph.D. Thesis. ISCTE.
+
+Carriço, L. 2000. “Conceptual Maps for the Representation of Organisational Knowledge (in Portuguese),” Ph.D. Thesis. IST.
+
 
 
 Ms Theses
