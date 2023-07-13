@@ -29,3 +29,12 @@ permalink: /awards/
 ![photo](/assets/img/acis-award.jpg "Title")
 
 ![photo](/assets/img/thci-award.jpg "Best Reviewer Award")
+
+Related - Students' Awards
+--------------------------
+
+2020: Best New Zealand PhD Thesis in Information Systems - Awarded by PHIS-NZ to Ijeoma Ushaka
+
+2019: Best New Zealand PhD Thesis in Information Systems - Awarded by PHIS-NZ to Haibo Yang
+
+2017: Best New Zealand PhD Thesis in Information Systems - Awarded by PHIS-NZ to Thuan Nguyen
