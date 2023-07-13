@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+![photo](/assets/img/talk1.jpg)
+
 Key Courses
 -----------
 
