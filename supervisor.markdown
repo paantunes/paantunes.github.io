@@ -4,6 +4,8 @@ title: Supervisor
 permalink: /supervisor/
 ---
 
+![photo](/assets/img/talk1.jpg)
+
 Highlights
 ----------
 

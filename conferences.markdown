@@ -4,7 +4,7 @@ title: Conferences
 permalink: /conferences/
 ---
 
-![photo](/assets/img/talk1.jpg)
+![photo](/assets/img/talk2.jpg)
 
 Organizing & Chairing
 ---------------------
