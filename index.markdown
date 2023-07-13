@@ -14,3 +14,11 @@ Pedro Antunes is mainly interested in the creation of innovative, first-of-a-kin
 
 Highlights
 ==========
+
+[Design Sciences](assets/pdf/design-science.pdf)
+
+[Business Process Flexibility](assets/pdf/process-flexibility.pdf)
+
+[Business Process Stories](assets/pdf/process-stories.pdf)
+
+[Business Process Crowdsourcing](assets/pdf/22-crowdsourcing.pdf)
