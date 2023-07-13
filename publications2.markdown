@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Older Publications
-permalink: /old_pubs/
+permalink: /publications2/
 ---
 
 
