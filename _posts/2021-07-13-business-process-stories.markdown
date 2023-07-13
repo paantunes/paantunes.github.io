@@ -25,6 +25,20 @@ Bringing further process stories to the mainstream, I investigated how business 
 
 The most recent research related to process stories has been looking at their theoretical foundations and impacts on process flexibility. In a conceptual study, I discuss the theoretical foundations of business processes and how different conceptualizations influence process flexibility [10], [11]. I suggest that process stories help uncovering different process conceptualizations and their impacts on process flexibility. I also contribute to increase organizational flexibility by identifying the major conceptual shifts necessary to fully support process flexibility.
 
+Additional resources
+--------------------
+
+-[(Cornershop stories)](/assets/pdf/cornershop-stories.pdf)
+-[(Cornershop official process)](/assets/pdf/cornershop-official.pdf)
+-[(HEC story 1)](/assets/pdf/HEC1.pdf)
+-[(HEC story 2)](/assets/pdf/HEC2.pdf)
+-[(HEC story 3)](/assets/pdf/HEC3.pdf)
+-[(Sysadmin Image Preparation story)](/assets/pdf/sysadmin-image-preparation.pdf)
+-[(Sysadmin New Image story)](/assets/pdf/sysadmin-new-image.pdf)
+-[(Sysadmin New Semester story)](/assets/pdf/sysadmin-new-semester.pdf)
+-[(Sysadmin Software Requirements story)](/assets/pdf/sysadmin-software-requirements.pdf)
+-[(Sysadmin System Update story)](/assets/pdf/sysadmin-system-update.pdf)
+
 References
 ----------
 
