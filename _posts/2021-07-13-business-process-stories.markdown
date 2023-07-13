@@ -5,6 +5,8 @@ date:   2023-07-13 12:12:59 +0100
 categories: jekyll update
 ---
 
+[in pdf](assets/pdf/process-stories.pdf)
+
 Business process stories are an innovative method for the elicitation and representation of business processes. Unlike ‘traditional’ process modeling methods (e.g., BPMN), which emphasize formalized, abstract and generalized process representations, process stories capture a diversity of knowledge about how organizations execute their business processes in an informal way.
 
 Process stories combine knowledge about model-based behavior (established routines and rules) with knowledge about context-based behavior (contingent, emergent and improvised activities). Process stories are founded on storytelling theory, which seeks to explain how people make sense of their experiences through stories.

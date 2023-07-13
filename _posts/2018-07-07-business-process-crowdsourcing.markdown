@@ -5,6 +5,8 @@ date:   2023-07-13 12:12:59 +0100
 categories: jekyll update
 ---
 
+[in pdf](assets/pdf/crowdsourcing.pdf)
+
 Business process crowdsourcing concerns the integration of the crowdsourcing strategy and business process management. Crowdsourcing is often an ad-hoc endeavor, e.g., allowing crowd workers to perform simple, independent tasks. Business process crowdsourcing empowers organizations to use crowdsourcing on a long-term, recurrent basis.
 
 We defined an ontology of business process crowdsourcing, which regards crowdsourcing from a business process management perspective [1]. The ontology was built from a literature review on crowdsourcing. The ontology was evaluated against two automated ontologies generated from the same sources. These ontologies provide a holistic view over business process crowdsourcing.

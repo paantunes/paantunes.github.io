@@ -5,6 +5,8 @@ date:   2023-07-13 12:12:59 +0100
 categories: jekyll update
 ---
 
+[in pdf](assets/pdf/process-flexibility.pdf)
+
 Business process management is mainly recognized for its capacity to manage ‘regular’ flows. However, real-world contexts often make it impossible to effectively follow the ‘regular’ flow. Therefore, increasing business process flexibility is paramount to fully realize business process management.
 
 My attention to business process flexibility started with research on how to handle ‘true’ exceptions, which require humans to collaborate to overcome problems unaddressed by ‘regular’ flows. This research led to the development of resilience services supporting the detection, diagnosis, recovery, and escalation of process interventions [1]–[4].

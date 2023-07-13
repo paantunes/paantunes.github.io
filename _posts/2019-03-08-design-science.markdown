@@ -5,7 +5,7 @@ date:   2023-07-13 12:12:59 +0100
 categories: jekyll update
 ---
 
-[pdf doc](assets/pdf/design-science.pdf)
+[in pdf](assets/pdf/design-science.pdf)
 
 Design science is a research paradigm centered on the creation of innovative, first-of-a-kind information systems artifacts. Researchers in design science are still exploring developing the methodological foundations of design science.
 For a long time, I have been adopting design science as the paradigm of choice for supervising doctoral and master research projects [1]–[4]. Design science allows doctoral and master students to focus on stimulating real-world problems, conducting rigorous exploratory and action-oriented research actions, and engendering multiple opportunities for communicating their research in top publications.
