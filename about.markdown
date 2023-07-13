@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![photo](/assets/img/paa8.jpg "Title")
+![photo](/assets/img/stamp.jpg "Title")
 
 Education
 =========
