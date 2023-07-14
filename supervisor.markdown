@@ -95,10 +95,8 @@ Lopes, J. ongoing. “Desenvolvimento de Solução de Gestão de Risco Para Uma 
 Melo, M. ongoing. “Restructuring the Web Application Interface,” M.Sc. Thesis. FCUL.
 
 
-
 Grad Theses
 -----------
-
 
 
 Silva, J. 2006. “Garantia de Receita,” Final Course Project. FCUL. [GitHub](https://paantunes.github.io/assets/pdf/T17.pdf).

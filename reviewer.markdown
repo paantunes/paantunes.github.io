@@ -5,7 +5,7 @@ permalink: /reviewer/
 ---
 
 
-Project Reviews
+Project Reviewer
 ---------------
 
 “External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). Research Initiation Project Competition.”  2023.  Chile.
@@ -89,8 +89,8 @@ Project Reviews
 “Expert Project Evaluator. Chilean National Science and Technology Commission (CONICYT). FONDECYT Program.”  1999.  Chile.
 
 
-Work as Reviewer for Journals (selected)
-----------------------------------------
+Reviewer for Journals (selected)
+-------------------------------
 
 
 - 2023.  Scandinavian Journal of Information Systems.
@@ -170,8 +170,8 @@ Work as Reviewer for Journals (selected)
 - 1999.  ACM Transactions on Information Systems.
 
 
-Work as Reviewer for Conferences (selected)
--------------------------------------------
+Reviewer for Conferences (selected)
+-----------------------------------
 
 
 - 2023.  in European Conference on Information Systems (ECIS).
