@@ -8,7 +8,7 @@ Leadership Roles
 ----------------
 
 
-2022: PhD Program Director. DI/FCUL
+2022-2023: PhD Program Director. DI/FCUL
 
 2022: President of the Electoral Commission of the elections for the Scientific Council. FCUL
 
