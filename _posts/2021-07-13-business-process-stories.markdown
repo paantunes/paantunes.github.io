@@ -28,25 +28,44 @@ The most recent research related to process stories has been looking at their th
 Additional resources
 --------------------
 
--[(Cornershop stories)](/assets/pdf/cornershop-stories.pdf)
+-[Cornershop stories](/assets/pdf/cornershop-stories.pdf)
 
--[(Cornershop official process)](/assets/pdf/cornershop-official.pdf)
+-[Cornershop official process](/assets/pdf/cornershop-official.pdf)
 
--[(HEC story 1)](/assets/pdf/HEC01.pdf)
+-[HEC story 1](/assets/pdf/HEC01.pdf)
 
--[(HEC story 2)](/assets/pdf/HEC02.pdf)
+-[HEC story 2](/assets/pdf/HEC02.pdf)
 
--[(HEC story 3)](/assets/pdf/HEC03.pdf)
+-[HEC story 3](/assets/pdf/HEC03.pdf)
 
--[(Sysadmin Image Preparation story)](/assets/pdf/sysadmin-image-preparation.pdf)
+-[Sysadmin Image Preparation story](/assets/pdf/sysadmin-image-preparation.pdf)
 
--[(Sysadmin New Image story)](/assets/pdf/sysadmin-new-image.pdf)
+-[Sysadmin New Image story](/assets/pdf/sysadmin-new-image.pdf)
 
--[(Sysadmin New Semester story)](/assets/pdf/sysadmin-new-semester.pdf)
+-[Sysadmin New Semester story](/assets/pdf/sysadmin-new-semester.pdf)
 
--[(Sysadmin Software Requirements story)](/assets/pdf/sysadmin-software-requirements.pdf)
+-[Sysadmin Software Requirements story](/assets/pdf/sysadmin-software-requirements.pdf)
 
--[(Sysadmin System Update story)](/assets/pdf/sysadmin-system-update.pdf)
+-[Sysadmin System Update story](/assets/pdf/sysadmin-system-update.pdf)
+
+-[BPMerlin 1](/assets/pdf/bpmerlin-atualizacao.pdf)
+
+-[BPMerlin 2](/assets/pdf/bpmerlin-historias-admin-1.pdf)
+
+-[BPMerlin 3](/assets/pdf/bpmerlin-historias-admin-2.pdf)
+
+-[BPMerlin 4](/assets/pdf/bpmerlin-nova-imagem.pdf)
+
+-[BPMerlin 5](/assets/pdf/bpmerlin-novo-semestre.pdf)
+
+-[BPMerlin 6](/assets/pdf/bpmerlin-preparacao-semestral.pdf)
+
+-[BPMerlin 7](/assets/pdf/bpmerlin-preparation.pdf)
+
+-[BPMerlin 8](/assets/pdf/bpmerlin-preparation-2.pdf)
+
+-[BPMerlin 9](/assets/pdf/bpmerlin-requisitos.pdf)
+
 
 References
 ----------
