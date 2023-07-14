@@ -46,6 +46,7 @@ header_pages:
   - conferences.markdown
   - supervisor.markdown
   - teaching.markdown
+  - reviewer.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
