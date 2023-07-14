@@ -31,7 +31,7 @@ Ferreira, A. 2010. “Evaluating Groupware Usability at the Cognitive Level of H
 
 Mourão, H. 2008. “Supporting Effective Unexpected Exception Handling in Workflow Management Systems within Organizational Contexts,” Ph.D. Thesis. FCUL. [URL](http://hdl.handle.net/10451/1677). [GitHub](https://paantunes.github.io/assets/pdf/T22.pdf).
 
-Costa, C. J. 2002. “Organisational Integration of Meeting Results (in Portuguese),” Ph.D. Thesis. ISCTE. [GitHub](https://paantunes.github.io/assets/pdf/T11.pdf).
+Costa, C. 2002. “Organisational Integration of Meeting Results (in Portuguese),” Ph.D. Thesis. ISCTE. [GitHub](https://paantunes.github.io/assets/pdf/T11.pdf).
 
 Carriço, L. 2000. “Conceptual Maps for the Representation of Organisational Knowledge (in Portuguese),” Ph.D. Thesis. IST.
 
@@ -46,9 +46,9 @@ Artiom, A. 2022. “DevOps: Implementação Do Modelo Devops Em Equipa de Desenv
 
 Tenanoia, S. 2017. “Applying the 3C Model (Communication, Coordination, Collaboration) to Analyse the Role of Technology in Emergency Management,” Master in Information Management - Research Project/Thesis. VUW.
 
-Chang Yin, G. 2016. “A Comparative Study of Applying the Storytelling Method to the Human Ethics Committee Application Process,” Master in Information Management - Research Project/Thesis. VUW.
+Yin, G. 2016. “A Comparative Study of Applying the Storytelling Method to the Human Ethics Committee Application Process,” Master in Information Management - Research Project/Thesis. VUW.
 
-Chang Yin, G. 2015. “Service Failure Classification in the Control/Response Framework,” Honours Research Project. VUW.
+Yin, G. 2015. “Service Failure Classification in the Control/Response Framework,” Honours Research Project. VUW.
 
 Durga, A. 2014. “Integrating Social Media and Business Process Improvement: Value Propositions and Opportunities for Corporates,” Master in Information Management - Research Project/Thesis. VUW. [GitHub](https://paantunes.github.io/assets/pdf/T33.pdf).
 
