@@ -6,8 +6,7 @@ permalink: /contact/
 
 ![photo](/assets/img/atacama.jpg "Title")
 
-Contact
-=======
+# Contact
 
 Pedro Antunes
 

@@ -4,11 +4,9 @@ title: Pubs.
 permalink: /publications/
 ---
 
-publications
-============
+# Publications
 
-2023
-----
+## 2023
 
 
 Antunes, P., Pino, J., Nkhoma, M., and Thuan, N. 2023. “The Composite Approach as a Hybrid Approach to Business Process Modeling: Proposition and Empirical Evaluation.” Business Process Management Journal (ahead-of-print). ISSN: 1463-7154. DOI: https://doi.org/10.1108/BPMJ-11-2022-0569. SCIMAGO Q1. SCOPUS Q1. h5-index 44. ABDC B. [ResearchGate](https://www.researchgate.net/publication/371856410_The_Composite_Approach_as_a_Hybrid_Approach_to_Business_Process_Modeling_Proposition_and_Empirical_Evaluation). [GitHub](https://paantunes.github.io/assets/pdf/23-bpm-composite.pdf).
@@ -20,8 +18,7 @@ Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Des
 Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster). [GitHub](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
 
 
-2022
-----
+## 2022
 
 
 Antunes, P., Johnstone, D., Thuan, N., and Vreede, G. 2022. “Delivering Evidence-Based Management Services: Rising to the Challenge Using Design Science.” Knowledge Management Research & Practice. ISSN: 1477-8238. DOI: https://doi.org/10.1080/14778238.2022.2064350. ABDC A. SCOPUS Q1. h5-index 29. SCIMAGO Q2. WoS Q2. [ResearchGate](https://www.researchgate.net/publication/360310487_Delivering_evidence-based_management_services_rising_to_the_challenge_using_design_science). [GitHub](https://paantunes.github.io/assets/pdf/22-kmrp.pdf).
@@ -40,8 +37,7 @@ Thuan, N., and Antunes, P. 2022. “A Framework for Teaching Work Integrated Lea
 
 
 
-2021
-----
+## 2021
 
 
 Antunes, P., Thuan, N., and Johnstone, D. 2021. “Nature and Purpose of Conceptual Frameworks in Design Science.” Scandinavian Journal of Information Systems (33:2). ISSN: 1901-0990. DOI: https://aisel.aisnet.org/sjis/vol33/iss2/2. CORE A. ABDC A. [ResearchGate](https://www.researchgate.net/publication/352706365_Nature_and_Purpose_of_Conceptual_Frameworks_in_Design_Science). [GitHub](https://paantunes.github.io/assets/pdf/21-sjis.pdf).
@@ -49,8 +45,7 @@ Antunes, P., Thuan, N., and Johnstone, D. 2021. “Nature and Purpose of Concept
 Simona, T., Taupo, T., and Antunes, P. 2021. “A Scoping Review on Agency Collaboration in Emergency Management Based on the 3C Model.” Information Systems Frontiers. ISSN: 1387-3326. DOI: https://doi.org/10.1007/s10796-020-10099-0. CORE A. ABDC A. WoS Q1. SCIMAGO Q1. SCOPUS Q1. h5-index 49. [ResearchGate](https://www.researchgate.net/publication/348161787_A_Scoping_Review_on_Agency_Collaboration_in_Emergency_Management_Based_on_the_3C_Model). [GitHub](https://paantunes.github.io/assets/pdf/21-isf.pdf).
 
 
-2020
-----
+## 2020
 
 
 Antunes, P. 2020. User Experience Design for Business Students. Available on the iBook store. [ResearchGate](https://www.researchgate.net/publication/321627238_User_Experience_Design_for_Business_Students_-_Part_1). [GitHub](https://paantunes.github.io/assets/pdf/20-UXD.pdf).
@@ -60,8 +55,7 @@ Antunes, P., Pino, J., Tate, M., and Barros, A. 2020. “Eliciting Process Knowl
 Thuan, N., Phuong, H., George, M., Nkhoma, M., and Antunes, P. 2020. “Toward an Ontology for Improving Process Flexibility.” in International Conference on Future Data and Security Engineering (FDSE), Quy Nhon, Vietnam. Springer. ISBN: 978-3-030-63924-2. DOI: https://doi.org/10.1007/978-3-030-63924-2_24. h5-index 10. [ResearchGate](https://www.researchgate.net/publication/347067061_Toward_an_Ontology_for_Improving_Process_Flexibility). [GitHub](https://paantunes.github.io/assets/pdf/20-fdse.pdf).
 
 
-2019
-----
+## 2019
 
 
 Antunes, P., Pino, J., and Tate, M. 2019. “Method for Eliciting and Analyzing Business Processes Based on Storytelling Theory.” in Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS). Hawaii: AIS. ISBN: 978-0-9981331-2-6. DOI: https://doi.org/10.24251/HICSS.2019.669. CORE A. h5-index 52. [ResearchGate](https://www.researchgate.net/publication/330441054_Method_for_Eliciting_and_Analyzing_Business_Processes_Based_on_Storytelling_Theory). [GitHub](https://paantunes.github.io/assets/pdf/19-hicss.pdf).
@@ -81,8 +75,7 @@ Leite, F., Antunes, P., Guimarães, N., and Pino, J. 2019. “Method Supporting 
 Thuan, N., Drechsler, A., and Antunes, P. 2019. “Construction of Design Science Research Questions.” Communications of the Association for Information Systems (44). ISSN: 1529-3181. DOI: https://doi.org/10.17705/1CAIS.04420. CORE A. ABDC A. h5-index 30. SCIMAGO Q2. SCOPUS Q2. Citations: 58. [ResearchGate](https://www.researchgate.net/publication/331942554_Construction_of_Design_Science_Research_Questions). [GitHub](https://paantunes.github.io/assets/pdf/19-cais.pdf).
 
 
-2018
-----
+## 2018
 
 
 Antunes, P., Baloian, N., Zurita, G., and Pino, J. 2018. “Supporting People-Driven, Dynamic and Geo-Located Work Processes.” in 10th International Conference on Subject-Oriented Business Process Management (S-BPM ONE). C. Stary (ed.). Linz, Austria: ACM. pp. 137–146. ISBN: 978-1-4503-5360-1. DOI: https://doi.org/10.1145/3178248.3178260. [ResearchGate](https://www.researchgate.net/publication/323973156_Supporting_People-Driven_Dynamic_and_Geo-Located_Work_Processes). [GitHub](https://paantunes.github.io/assets/pdf/18-sbpm.pdf).
@@ -96,8 +89,7 @@ Simões, D., Antunes, P., and Carriço, L. 2018. “Eliciting and Modelling Busi
 Thuan, N., Antunes, P., and Johnstone, D. 2018. “A Decision Tool for Business Process Crowdsourcing: Ontology, Design, and Evaluation.” Group Decision and Negotiation (27:2). pp. 285–312. ISSN: 0926-2644. DOI: https://doi.org/10.1007/s10726-018-9557-y. ABDC A. WoS Q1. SCIMAGO Q1. SCOPUS Q1. h5-index 23. CORE B. [ResearchGate](https://www.researchgate.net/publication/322778407_A_Decision_Tool_for_Business_Process_Crowdsourcing_Ontology_Design_and_Evaluation). [GitHub](https://paantunes.github.io/assets/pdf/18-gdn.pdf).
 
 
-2017
-----
+## 2017
 
 
 Antunes, P., and Cranefield, J. 2017. “Coordination and Simplexity in Modelling Air Traffic Control as a Service: The Case of NAV Portugal.” Knowledge and Process Management (24:4). pp. 277–286. ISSN: 1099-1441. DOI: https://doi.org/10.1002/kpm.1551. JKM A. ABDC B. SCIMAGO Q2. h5-index 18. SCOPUS Q2. [ResearchGate](https://www.researchgate.net/publication/319210951_Coordination_and_simplexity_in_modelling_air_traffic_control_as_a_service_The_case_of_NAV_Portugal). [GitHub](https://paantunes.github.io/assets/pdf/17-kpm.pdf).
@@ -113,8 +105,7 @@ Thuan, N., Antunes, P., and Johnstone, D. 2017. “A Process Model for Establish
 Thuan, N., Swann, D., Chiu, Y., and Antunes, P. 2017. “Understanding and Modelling Organisational Information Flows.” in 21st IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Wellington, New Zealand: IEEE. ISBN: 978-1-5090-6199-0. DOI: https://doi.org/10.1109/CSCWD.2017.8066675. CORE B. h5-index 15. [ResearchGate](https://www.researchgate.net/publication/320657862_Understanding_and_modelling_organisational_information_flows). [GitHub](https://paantunes.github.io/assets/pdf/17-cscwd.pdf).
 
 
-2016
-----
+## 2016
 
 
 De Vreede, G., Antunes, P., Vassileva, J., Gerosa, M., and Wu, K. 2016. “Collaboration Technology in Teams and Organizations: Introduction to the Special Issue.” Information Systems Frontiers (18:1). pp. 1–6. ISSN: 1387-3326. DOI: https://doi.org/10.1007/s10796-016-9632-3. CORE A. ABDC A. h5-index 49. SCOPUS Q1. SCIMAGO Q2. WoS Q2. Citations: 36. [ResearchGate](https://www.researchgate.net/publication/293479918_Collaboration_technology_in_teams_and_organizations_Introduction_to_the_special_issue). [GitHub](https://paantunes.github.io/assets/pdf/16-isf-ed.pdf).
@@ -132,8 +123,7 @@ Thuan, N., Antunes, P., and Johnstone, D. 2016. “Factors Influencing the Decis
 Yang, H., Antunes, P., and Tate, M. 2016. “Towards a Unified Conceptualisation of Agility.” in 20th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Nanchang, China: IEEE. ISBN: 978-1-5090-1915-1. DOI: https://doi.org/10.1109/CSCWD.2016.7566000. CORE B. h5-index 15. [ResearchGate](https://www.researchgate.net/publication/308190764_Towards_a_unified_conceptualisation_of_IS_agility). [GitHub](https://paantunes.github.io/assets/pdf/16-cscwd-ag.pdf).
 
 
-2015
-----
+## 2015
 
 
 Antunes, P., Zurita, G., and Baloian, N. 2015. “Identifying Requirements for Implementing Ad-Hoc Geo-References BPM.” IEEE Latin America Transactions (13:6). pp. 1989–1994. ISSN: 1548-0992. DOI: https://doi.org/10.1109/TLA.2015.7164226. h5-index 25. [ResearchGate](https://www.researchgate.net/publication/280404845_Identifying_Requirements_for_Implementing_ad-hoc_Geo-references_BPM). [GitHub](https://paantunes.github.io/assets/pdf/15-ieee-lat.pdf).
@@ -151,8 +141,7 @@ Thuan, N., Antunes, P., and Johnstone, D. 2015. “A Design Science Method for E
 Thuan, N., Antunes, P., Johnstone, D., and Son, A. 2015. “Building an Enterprise Ontology of Business Process Crowdsourcing: A Design Science Approach.” in 19th Pacific Asia Conference on Information Systems (PACIS). Singapore: AIS. DOI: http://aisel.aisnet.org/pacis2015/112. [ResearchGate](https://www.researchgate.net/publication/280723532_Building_an_Enterprise_Ontology_of_Business_Process_Crowdsourcing_A_Design_Science_Approach). [GitHub](https://paantunes.github.io/assets/pdf/15-pacis-onto.pdf).
 
 
-2014
-----
+## 2014
 
 
 Antunes, P., Herskovic, V., Ochoa, S., and Pino, J. 2014. “Reviewing the Quality of Awareness Support in Collaborative Applications.” Journal of Systems and Software (89). pp. 146–169. ISSN: 0164-1212. DOI: https://doi.org/10.1016/j.jss.2013.11.1078. h-index 61. CORE A. SCOPUS Q1. ABDC B. WoS Q2. SCIMAGO Q2. Citations: 72. [ResearchGate](https://www.researchgate.net/publication/262408368_Reviewing_the_quality_of_awareness_support_in_collaborative_applications). [GitHub](https://paantunes.github.io/assets/pdf/14-jss.pdf).
@@ -172,8 +161,7 @@ Thuan, N., Antunes, P., and Johnstone, D. 2014. “Toward a Nexus Model Supporti
 Thuan, N., Antunes, P., Johnstone, D., and Truong, M. 2014. “An Architecture Utilizing the Crowd for Building an Anti-Virus Knowledge Base.” in 1st International Conference on Future Data and Security Engineering (FDSE). Ho Chi Minh City, Vietnam (Vol. 8860). LNCS. T. Dang, R. Wagner, E. Neuhold, M. Takizawa, and J. Küng (eds.). Heidelberg: Springer. pp. 164–176. ISBN: 978-3-319-12777-4. h5-index 10. [ResearchGate](https://www.researchgate.net/publication/267213086_An_Architecture_Utilizing_the_Crowd_for_Building_an_Anti-virus_Knowledge_Base). [GitHub](https://paantunes.github.io/assets/pdf/14-fdse-av.pdf).
 
 
-2013
-----
+## 2013
 
 
 Antunes, P., Gerosa, M., Sylvester, A., Vassileva, J., and de Vreede, G. 2013. Collaboration and Technology, 19th International Conference, CRIWG 2013 Wellington, New Zealand, October 30 – November 1, 2013 Proceedings. (Vol. 8224). LNCS. Heidelberg: Springer. ISBN: 978-3-642-41346-9. DOI: https://doi.org/10.1007/978-3-642-41347-6.
@@ -189,8 +177,7 @@ Leite, F., Guimarães, N., and Antunes, P. 2013. “Judicial Dialogue - Graphic 
 Thuan, N., Antunes, P., and Johnstone, D. 2013. “Factors Influencing the Decision to Crowdsource.” in Collaboration and Technology, 19th International Conference, Wellington, New Zealand (CRIWG) (Vol. 8224). LNCS. P. Antunes, M. Gerosa, A. Sylvester, J. Vassileva, and G. de Vreede (eds.). Heidelberg: Springer. pp. 110–125. ISBN: 978-3-642-41346-9. Citations: 41. [ResearchGate](https://www.researchgate.net/publication/257840650_Factors_Influencing_the_Decision_to_Crowdsource). [GitHub](https://paantunes.github.io/assets/pdf/13-criwg-cs.pdf).
 
 
-2012
-----
+## 2012
 
 
 Antunes, P., Herskovic, V., Ochoa, S., and Pino, J. 2012. “Structuring Dimensions for Collaborative Systems Evaluation.” ACM Computing Surveys (44:2). ISSN: 0360-0300. DOI: https://doi.org/10.1145/2089125.2089128. CORE A*. WoS Q1. SCIMAGO Q1. h-index 90. SCOPUS Q1. Citations: 107. [ResearchGate](https://www.researchgate.net/publication/228938215_Structuring_Dimensions_for_Collaborative_Systems_Evaluation). [GitHub](https://paantunes.github.io/assets/pdf/12-acm-cs.pdf).
@@ -206,5 +193,4 @@ Ochoa, S., Pino, J., Baloian, N., Antunes, P., and Herskovic, V. 2012. “Some O
 Simões, D., Antunes, P., and Pino, J. 2012. “Humanistic Approach to the Representation of Business Processes.” in 16th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Wuhan, China: IEEE. pp. 655–665. ISBN: 978-1-4673-1211-0. DOI: https://doi.org/10.1109/CSCWD.2012.6221888. CORE B. h5-index 15. [ResearchGate](https://www.researchgate.net/publication/230559180_Humanistic_Approach_to_the_Representation_of_Business_Processes). [GitHub](https://paantunes.github.io/assets/pdf/12-cscwd-bpm.pdf).
 
 
-[2011 and earlier](publications2.markdown)
----------------------------------
+## [2011 and earlier](publications2.markdown)

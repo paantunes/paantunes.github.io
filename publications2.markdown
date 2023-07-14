@@ -5,8 +5,7 @@ permalink: /publications2/
 ---
 
 
-2011 and earlier
-----------------
+# 2011 and earlier
 
 
 Antunes, P. 2011. “BPM and Exception Handling: Focus on Organizational Resilience.” IEEE Transactions on Systems, Man, and Cybernetics Part C: Applications and Reviews (41:3). pp. 383–392. ISSN: 1094-6977. DOI: https://doi.org/10.1109/TSMCC.2010.2062504. WoS Q1. SCIMAGO Q1. SCOPUS Q1. CORE B. Citations: 50. [ResearchGate](https://www.researchgate.net/publication/224169352_BPM_and_Exception_Handling_Focus_on_Organizational_Resilience). [GitHub](https://paantunes.github.io/assets/pdf/11-ieee-smc.pdf).
@@ -257,7 +256,7 @@ Cosquer, F., Antunes, P., and Veríssimo, P. 1996. “Enhancing Dependability of
 
 Penz, F., Antunes, P., and Fonseca, M. 1996. “Feedback in Computer Supported Cooperation Systems: Example of the User Interface Design for a Talk-like Tool.” in The Design of Computer Supported Cooperative Work and Groupware Systems. D. Shapiro, M. Tauber, and R. Traunmueller (eds.). Human Factors in Information Technology, North Holland. ISBN: 0-444-81998-3. Selected papers from the 12th Schaerding International Workshop, The Design of Computer Supported Cooperative Work and Groupware Systems held in Schaerding, Austria, June, 1993. [ResearchGate](https://www.researchgate.net/publication/248598268_Chapter_15_Feedback_in_computer_supported_cooperation_systems_User_interface_design_for_a_talk-like_tool). [GitHub](https://paantunes.github.io/assets/pdf/96-schaerding.pdf).
 
-Antunes, P. 1996. “Organizações, Grupos e Tecnologia: Suporte Computacional a Processos de Interação e Decisão Em Grupo.” IST, Univerity of Lisbon. [GitHub](https://paantunes.github.io/assets/pdf/96-phd.pdf). 
+Antunes, P. 1996. “Organizações, Grupos e Tecnologia: Suporte Computacional a Processos de Interação e Decisão Em Grupo.” IST, Univerity of Lisbon. [GitHub](https://paantunes.github.io/assets/pdf/96-phd.pdf).
 
 Antunes, P., and Guimarães, N. 1995. “Structuring Elements for Group Interaction.” in Second Conference on Concurrent Engineering, Research and Applications (CE). Washington, DC: Concurrent Technologies Corporation. pp. 327–335. ISBN: 0-9642449-1-8. [ResearchGate](https://www.researchgate.net/publication/2322585_Structuring_Elements_for_Group_Interaction). [GitHub](https://paantunes.github.io/assets/pdf/95-ce.pdf).
 

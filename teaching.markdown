@@ -4,13 +4,12 @@ title: Teach.
 permalink: /teaching/
 ---
 
-Teaching
-========
+# Teaching
 
 ![photo](/assets/img/talk1.jpg)
 
-Key Courses
------------
+## Key Courses
+
 
 “Business Organization and Management.” 2020–2023. FCUL/PT. Master course. Synopsis: Develop knowledge about methodologies, processes and tools that generate effective, innovative and useful information systems. There is a particular emphasis on solving complex problems and exploring creative solutions. The adopted approach emphasizes reflection-in-action, using techniques for data gathering in the field, from primary sources, and techniques for active solution exploration, which are supported by rapid prototyping tools. Several design artifacts are generated: problem and solution frameworks, empathy and affinity maps, wireframes, storyboards, and project canvas. Syllabus: Theory: Design thinking, reflection in action, problem framework, needfinding, empathizing, wicked problems, empathy maps, affinity maps, solution framework, evaluation, peer review, storytelling, service model, prototyping, design science, design artifacts, storyboarding, managing design projects, design processes. Practice: Information systems design project. Practical application of information systems design methods, techniques and tools. Development of several design artifacts throughout the project. Group activities, including brainstorming, primary data collection, peer reviews, and demos.
 
@@ -36,8 +35,8 @@ The project assignments are open and will be defined in collaboration with stude
 
 “INFO 102 - Business Application Programming.” 2013. VUW/NZ. Undergraduate course. Synopsis: Perform requirements analysis for web application development. Understand the fundamental characteristics of visual application development platforms. Understand fundamental application development principles. Develop web applications using visual application development platforms. Syllabus: Web basics. Creating a website. Coding basics. From logic to code. Event handling. Web design. HTML and CSS. Methods. Data. Business systems analysis.
 
-Timeline
---------
+## Timeline
+
 
 2022–2023: Business Organization and Management. Master in Informatics Engineering, FCUL/PT
 

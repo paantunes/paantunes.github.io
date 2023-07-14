@@ -4,13 +4,12 @@ title: Confs.
 permalink: /conferences/
 ---
 
-conferences
-===========
+# Conferences
 
 ![photo](/assets/img/talk2.jpg)
 
-Organizing & Chairing
----------------------
+## Organizing & Chairing
+
 
 2020: Panel Member. New Zealand Information Systems Doctoral Consortium (NZISDC). New Zealand: Victoria University of Wellington
 
@@ -57,8 +56,8 @@ Organizing & Chairing
 1999: Program Chair. Fifth International Workshop on Groupware, (CRIWG). Cancun, Mexico
 
 
-Program Committee Member
-------------------------
+## Program Committee Member
+
 
 2023: 14th International S-BPM ONE Conference 2023 (S-BPM). Rostock, Germany
 

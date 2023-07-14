@@ -7,12 +7,11 @@ layout: home
 
 ![photo](/assets/img/shrimp.jpg "Title")
 
-Overview
-========
+# Overview
+
 Pedro Antunes is mainly interested in the creation of innovative, first-of-a-kind information systems artifacts, in particular those involving complex social-technical contexts. He is a strong advocate of design science research and design thinking. His contributions address design theory, meta-theory and methodology. Currently at the Faculty of Sciences of the U. of Lisbon, Portugal. Previously at Victoria U. of Wellington, New Zealand.
 
-Profile
-=======
+# Profile
 
 - [DBLP](https://dblp.org/pid/97/768.html)
 - ORCID ID: 0000-0002-5411-8798 [(link)](https://orcid.org/ 0000-0002-5411-8798)
@@ -22,7 +21,6 @@ Profile
 - WoS Researcher ID: B-8664-2008
 - Ciência ID: 8816-50B9-2BD1
 
-Details
-=======
+# Details
 
 - [CV (long)]({% link /assets/pdf/cv-long-3.pdf %})

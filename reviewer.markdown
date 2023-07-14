@@ -4,11 +4,11 @@ title: Rev.
 permalink: /reviewer/
 ---
 
-Reviewing Work
-==============
+# Reviewing Work
 
-Project Reviewer
----------------
+
+## Project Reviewer
+
 
 2023: External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). Research Initiation Project Competition. Chile
 
@@ -91,8 +91,7 @@ Project Reviewer
 1999: Expert Project Evaluator. Chilean National Science and Technology Commission (CONICYT). FONDECYT Program. Chile
 
 
-Reviewer for Journals (selected)
--------------------------------
+## Reviewer for Journals (selected)
 
 
 2023: Scandinavian Journal of Information Systems. ABDC A
@@ -172,8 +171,8 @@ Reviewer for Journals (selected)
 1999: ACM Transactions on Information Systems. SCIMAGO Q1
 
 
-Reviewer for Conferences (selected)
------------------------------------
+## Reviewer for Conferences (selected)
+
 
 2023: European Conference on Information Systems (ECIS). CORE A
 
