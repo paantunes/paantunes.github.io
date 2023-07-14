@@ -4,6 +4,8 @@ title: Pubs.
 permalink: /publications/
 ---
 
+publications
+============
 
 2023
 ----
