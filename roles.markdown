@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Roles
+title: Rols
 permalink: /roles/
 ---
+
+# Roles
 
 ## Leadership Roles
 
