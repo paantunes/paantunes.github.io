@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: Abot
 permalink: /about/
 ---
+
+# about
 
 ![photo](/assets/img/stamp.jpg "Title")
 

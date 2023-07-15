@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Awards
+title: Awrds
 permalink: /awards/
 ---
+
+# Awards 
 
 2021: 2020 Best Reviewer Award. AIS Transactions on Human-Computer Interaction, Association for Information Systems. SCOPUS Q2
 

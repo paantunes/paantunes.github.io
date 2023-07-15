@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Editorial
+title: Edtrial
 permalink: /editorial/
 ---
 
+# Editorial
 
 2023: Guest Editor. Special Issue on Design Science Education. Journal of Information Systems Education. SCOPUS Q2. h5-index 16
 

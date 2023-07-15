@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Contact
+title: Contct
 permalink: /contact/
 ---
+
+# Contact
 
 ![photo](/assets/img/atacama.jpg "Title")
 
