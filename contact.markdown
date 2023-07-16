@@ -8,7 +8,7 @@ permalink: /contact/
 
 ![photo](/assets/img/atacama.jpg "Title")
 
-## Virtual
+# Virtual
 
 Institutional email: <padantunes@ciencias.ulisboa.pt>  
 Institutional page: <https://ciencias.ulisboa.pt/perfil/padantunes>  

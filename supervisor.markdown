@@ -7,12 +7,12 @@ permalink: /supervisor/
 # Supervisor
 
 
-## Highlights
+# Highlights
 
 
 2016: Victoria’s Supervisor Award. Victoria University of Wellington
 
-## PhD Theses
+# PhD Theses
 
 
 Leite, F. 2019. “Development and Evaluation of a Method Supporting Auto-Representation in Judicial Systems Using Visual Narrative (In Portuguese: Desenvolvimento e Avaliação de Um Método Para Autorepresentação Em Sistemas Judiciais Utilizando a Narrativa Visual),” Ph.D. Thesis. ISCTE. [GitHub](https://paantunes.github.io/assets/pdf/T38.pdf).
@@ -36,7 +36,7 @@ Costa, C. 2002. “Organisational Integration of Meeting Results (in Portuguese)
 Carriço, L. 2000. “Conceptual Maps for the Representation of Organisational Knowledge (in Portuguese),” Ph.D. Thesis. IST.
 
 
-## Ms Theses
+# Ms Theses
 
 
 Madeira, R. 2023. “Integração de Serviços de Assinatura Digital, Com Base Em Regras de Interoperabilidade,” M.Sc. Thesis. FCUL. [GitHub](https://paantunes.github.io/assets/pdf/T40.pdf).
@@ -94,7 +94,7 @@ Lopes, J. ongoing. “Desenvolvimento de Solução de Gestão de Risco Para Uma 
 Melo, M. ongoing. “Restructuring the Web Application Interface,” M.Sc. Thesis. FCUL.
 
 
-## Graduation Theses
+# Graduation Theses
 
 
 Silva, J. 2006. “Garantia de Receita,” Final Course Project. FCUL. [GitHub](https://paantunes.github.io/assets/pdf/T17.pdf).
