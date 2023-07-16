@@ -20,4 +20,6 @@ Campo Grande
 
 Lisbon, Portugal
 
-padantunes@fc.ul.pt
+padantunes@ciencias.ulisboa.pt
+
+https://ciencias.ulisboa.pt/perfil/padantunes
