@@ -26,8 +26,8 @@ permalink: /awards/
 
 
 
-Related - Students' Awards
---------------------------
+# Related - Students' Awards
+
 
 2020: Best New Zealand PhD Thesis in Information Systems - Awarded by PHIS-NZ to Ijeoma Ushaka
 

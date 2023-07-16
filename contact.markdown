@@ -10,13 +10,13 @@ permalink: /contact/
 
 ## Virtual
 
-Institutional email: <padantunes@ciencias.ulisboa.pt>
+Institutional email: <padantunes@ciencias.ulisboa.pt>  
 Institutional page: <https://ciencias.ulisboa.pt/perfil/padantunes>  
 
 # Physical
 
-Pedro Antunes  
+Room 6.3.07  
 Department of Informatics  
 Faculty of Sciences of the University of Lisbon  
-Campo Grande  
+Campo Grande - 1749-016  
 Lisbon, Portugal  
