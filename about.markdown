@@ -23,8 +23,3 @@ Degree in Electrical and Computer Engineering (Technical University of Lisbon)
 2005 – 2008	Associate Professor. University of Lisbon. Faculty of Sciences. Department of Informatics  
 2000 – 2005	Auxiliary Professor. University of Lisbon. Faculty of Sciences. Department of Informatics  
 1998 – 1999	Auxiliary Professor. Technical University of Lisbon. Instituto Superior Técnico. Department of Informatics Engineering
-
-## Other
-
-Institutional email: padantunes@ciencias.ulisboa.pt  
-Institutional page: https://ciencias.ulisboa.pt/perfil/padantunes

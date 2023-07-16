@@ -8,14 +8,15 @@ permalink: /contact/
 
 ![photo](/assets/img/atacama.jpg "Title")
 
-# Physical Address
+## Virtual
 
-Pedro Antunes
+Institutional email: <padantunes@ciencias.ulisboa.pt>
+Institutional page: <https://ciencias.ulisboa.pt/perfil/padantunes>  
 
-Department of Informatics
+# Physical
 
-Faculty of Sciences of the University of Lisbon
-
-Campo Grande
-
-Lisbon, Portugal
+Pedro Antunes  
+Department of Informatics  
+Faculty of Sciences of the University of Lisbon  
+Campo Grande  
+Lisbon, Portugal  
