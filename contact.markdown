@@ -8,7 +8,7 @@ permalink: /contact/
 
 ![photo](/assets/img/atacama.jpg "Title")
 
-# Contact
+# Physical Address
 
 Pedro Antunes
 
@@ -19,7 +19,3 @@ Faculty of Sciences of the University of Lisbon
 Campo Grande
 
 Lisbon, Portugal
-
-padantunes@ciencias.ulisboa.pt
-
-https://ciencias.ulisboa.pt/perfil/padantunes

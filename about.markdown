@@ -8,8 +8,7 @@ permalink: /about/
 
 ![photo](/assets/img/stamp.jpg "Title")
 
-Education
-=========
+## Education
 
 Habilitation in Informatics Engineering (University of Lisbon)
 
@@ -19,8 +18,7 @@ MSc in Computer Engineering (Technical University of Lisbon)
 
 Degree in Electrical and Computer Engineering (Technical University of Lisbon)
 
-Affiliations
-============
+## Affiliations
 
 2020 – today	Associate Professor with Habilitation. Faculty of Sciences of the University of Lisbon. Department of Informatics
 
@@ -33,3 +31,8 @@ Affiliations
 2000 – 2005	Auxiliary Professor. University of Lisbon. Faculty of Sciences. Department of Informatics
 
 1998 – 1999	Auxiliary Professor. Technical University of Lisbon. Instituto Superior Técnico. Department of Informatics Engineering
+
+## Other
+
+Institutional email: padantunes@ciencias.ulisboa.pt
+Institutional page: https://ciencias.ulisboa.pt/perfil/padantunes
