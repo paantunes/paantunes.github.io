@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contct
+title: contct
 permalink: /contact/
 ---
 

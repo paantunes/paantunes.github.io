@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Edtrial
+title: edtor
 permalink: /editorial/
 ---
 

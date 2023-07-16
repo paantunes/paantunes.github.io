@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teach
+title: teach
 permalink: /teaching/
 ---
 
