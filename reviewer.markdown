@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Revs
+title: revwr
 permalink: /reviewer/
 ---
 
-# Reviews
+# Reviewer
 
 
 # Project Reviews
