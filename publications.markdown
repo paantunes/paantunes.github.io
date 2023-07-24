@@ -13,7 +13,7 @@ Antunes, P., Pino, J., Nkhoma, M., and Thuan, N. 2023. “The Composite Approach
 
 Correia, A., Grover, A., Jameel, S., Schneider, D., Antunes, P., and Fonseca, B. 2023. “A Hybrid Human-AI Tool for Scientometric.” Artificial Intelligence Review. ISSN: 0269-2821. DOI: https://doi.org/10.1007/s10462-023-10548-7. SCIMAGO Q1. SCOPUS Q1. WoS Q1. h-index 70. [ResearchGate](https://www.researchgate.net/publication/371984350_A_Hybrid_Human-AI_Tool_for_Scientometric_Analysis). [GitHub](https://paantunes.github.io/assets/pdf/23-air.pdf).
 
-Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Design Science Education.” Journal of Information Systems Education, Special Issue on Design Science Education (to appear). ISSN: 2574-3872. SCIMAGO Q2. ABDC B. h5-index 17. [ResearchGate](https://www.researchgate.net/publication/371902207_Introduction_to_Design_Science_Education). [GitHub](https://paantunes.github.io/assets/pdf/23-jise-editorial.pdf).
+Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Design Science Education.” Journal of Information Systems Education, Special Issue on Design Science Education (34:3). pp. 256–263. ISSN: 2574-3872. SCIMAGO Q2. ABDC B. h5-index 17. [ResearchGate](https://www.researchgate.net/publication/371902207_Introduction_to_Design_Science_Education). [GitHub](https://paantunes.github.io/assets/pdf/23-jise-editorial.pdf).
 
 Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster). [GitHub](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
 
