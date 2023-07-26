@@ -8,6 +8,7 @@ permalink: /publications/
 
 ## 2023
 
+Antunes, P., Johnstone, D., Thuan, N., and Vreede, G. 2023. “Delivering Evidence-Based Management Services: Rising to the Challenge Using Design Science.” Knowledge Management Research & Practice (21:4). pp. 806–821. ISSN: 1477-8238. DOI: https://doi.org/10.1080/14778238.2022.2064350. ABDC A. SCOPUS Q1. h5-index 29. SCIMAGO Q2. WoS Q2. [ResearchGate](https://www.researchgate.net/publication/360310487_Delivering_evidence-based_management_services_rising_to_the_challenge_using_design_science). [GitHub](https://paantunes.github.io/assets/pdf/23-kmrp.pdf).
 
 Antunes, P., Pino, J., Nkhoma, M., and Thuan, N. 2023. “The Composite Approach as a Hybrid Approach to Business Process Modeling: Proposition and Empirical Evaluation.” Business Process Management Journal (ahead-of-print). ISSN: 1463-7154. DOI: https://doi.org/10.1108/BPMJ-11-2022-0569. SCIMAGO Q1. SCOPUS Q1. h5-index 44. ABDC B. [ResearchGate](https://www.researchgate.net/publication/371856410_The_Composite_Approach_as_a_Hybrid_Approach_to_Business_Process_Modeling_Proposition_and_Empirical_Evaluation). [GitHub](https://paantunes.github.io/assets/pdf/23-bpm-composite.pdf).
 
@@ -20,8 +21,6 @@ Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A.
 
 ## 2022
 
-
-Antunes, P., Johnstone, D., Thuan, N., and Vreede, G. 2022. “Delivering Evidence-Based Management Services: Rising to the Challenge Using Design Science.” Knowledge Management Research & Practice. ISSN: 1477-8238. DOI: https://doi.org/10.1080/14778238.2022.2064350. ABDC A. SCOPUS Q1. h5-index 29. SCIMAGO Q2. WoS Q2. [ResearchGate](https://www.researchgate.net/publication/360310487_Delivering_evidence-based_management_services_rising_to_the_challenge_using_design_science). [GitHub](https://paantunes.github.io/assets/pdf/22-kmrp.pdf).
 
 Antunes, P., and Tate, M. 2022. “Examining the Canvas as a Domain-Independent Artifact.” Information Systems and E-Business Management (20). pp. 495–514. ISSN: 1617-9854. DOI: https://doi.org/10.1007/s10257-022-00556-5. h5-index 32. SCIMAGO Q2. WoS Q2. ABDC B. SCOPUS Q2. [ResearchGate](https://www.researchgate.net/publication/360623814_Examining_the_Canvas_as_a_Domain-Independent_Artifact). [GitHub](https://paantunes.github.io/assets/pdf/22-iseb-canvas.pdf).
 
