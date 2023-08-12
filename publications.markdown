@@ -71,7 +71,7 @@ Enwereuzo, I., Antunes, P., Johnstone, D., and de Vreede, G. 2019. “Design and
 
 Leite, F., Antunes, P., Guimarães, N., and Pino, J. 2019. “Method Supporting the Adoption of Visual Stories in Judicial Systems.” in 27th European Conference on Information Systems (ECIS). Stockholm, Sweden: AIS. DOI: https://aisel.aisnet.org/ecis2019_rp/73. **CORE A**. **h5-index 34**. [ResearchGate](https://www.researchgate.net/publication/332879758_METHOD_SUPPORTING_THE_ADOPTION_OF_VISUAL_STORIES_IN_JUDICIAL_SYSTEMS). [GitHub](https://paantunes.github.io/assets/pdf/19-ecis.pdf).
 
-Thuan, N., Drechsler, A., and Antunes, P. 2019. “Construction of Design Science Research Questions.” Communications of the Association for Information Systems (44). ISSN: 1529-3181. DOI: https://doi.org/10.17705/1CAIS.04420. **CORE A**. **ABDC A**. **h5-index 30**. SCIMAGO Q2. SCOPUS Q2. Citations: 58. [ResearchGate](https://www.researchgate.net/publication/331942554_Construction_of_Design_Science_Research_Questions). [GitHub](https://paantunes.github.io/assets/pdf/19-cais.pdf).
+Thuan, N., Drechsler, A., and Antunes, P. 2019. “Construction of Design Science Research Questions.” Communications of the Association for Information Systems (44). ISSN: 1529-3181. DOI: https://doi.org/10.17705/1CAIS.04420. **CORE A**. **ABDC A**. **h5-index 30**. SCIMAGO Q2. SCOPUS Q2. [ResearchGate](https://www.researchgate.net/publication/331942554_Construction_of_Design_Science_Research_Questions). [GitHub](https://paantunes.github.io/assets/pdf/19-cais.pdf).
 
 
 ## 2018
@@ -173,7 +173,7 @@ Herskovic, V., Ochoa, S., Pino, J., Antunes, P., and Ormeño, E. 2013. “Identi
 
 Leite, F., Guimarães, N., and Antunes, P. 2013. “Judicial Dialogue - Graphic Narrative Perspective.” in 1st International Conference on Technologies and Law. I. Portela, P. Gonçalves, M. Cunha, and V. Carvalho (eds.). Porto, Portugal: Polytechnic Institute of Cávado and Ave. pp. 139–146. ISBN: 978-989-98241-3-3. [ResearchGate](https://www.researchgate.net/publication/360911924_Judicial_Dialogue_-Graphic_Narrative_Perspective). [GitHub](https://paantunes.github.io/assets/pdf/13-ict-law.pdf).
 
-Thuan, N., Antunes, P., and Johnstone, D. 2013. “Factors Influencing the Decision to Crowdsource.” in Collaboration and Technology, 19th International Conference, Wellington, New Zealand (CRIWG) (Vol. 8224). LNCS. P. Antunes, M. Gerosa, A. Sylvester, J. Vassileva, and G. de Vreede (eds.). Heidelberg: Springer. pp. 110–125. ISBN: 978-3-642-41346-9. Citations: 41. [ResearchGate](https://www.researchgate.net/publication/257840650_Factors_Influencing_the_Decision_to_Crowdsource). [GitHub](https://paantunes.github.io/assets/pdf/13-criwg-cs.pdf).
+Thuan, N., Antunes, P., and Johnstone, D. 2013. “Factors Influencing the Decision to Crowdsource.” in Collaboration and Technology, 19th International Conference, Wellington, New Zealand (CRIWG) (Vol. 8224). LNCS. P. Antunes, M. Gerosa, A. Sylvester, J. Vassileva, and G. de Vreede (eds.). Heidelberg: Springer. pp. 110–125. ISBN: 978-3-642-41346-9. [ResearchGate](https://www.researchgate.net/publication/257840650_Factors_Influencing_the_Decision_to_Crowdsource). [GitHub](https://paantunes.github.io/assets/pdf/13-criwg-cs.pdf).
 
 
 ## 2012
