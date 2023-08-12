@@ -264,7 +264,11 @@ Antunes, P., and Guimarães, N. 1995. “NGTool - Exploring Mechanisms of Suppor
 
 Antunes, P., Guimarães, N., Segovia, J., and Cardenosa, J. 1995. “Beyond Formal Processes: Augmenting Workflow with Group Interaction Techniques.” in Proceedings of Conference on Organizational Computing Systems (COCS). San Jose, California: ACM. pp. 1–9. ISBN: 0-89791-706-5. DOI: https://doi.org/10.1145/224019.224020. CORE B. [ResearchGate](https://www.researchgate.net/publication/2319779_Beyond_Formal_Processes_Augmenting_Workflow_with_Group_Interaction_Techniques). [GitHub](https://paantunes.github.io/assets/pdf/95-coocs.pdf).
 
-Antunes, P., and Guimarães, N. 1994. “Multiuser Interface Design in CSCW Systems.” Technical University of Lisboa - INESC. [GitHub](https://paantunes.github.io/assets/pdf/94-interface.pdf).
+Antunes, P., and Guimarães, N. 1994. “Multiuser Interface Design in CSCW Systems.” ESPRIT Basic Research Project 6360, Broadcast. Volume: 3, Systems Engineering. Chapter: 4, Cooperative Working. ISSN: 1350-2042. [GitHub](https://paantunes.github.io/assets/pdf/94-interface.pdf).
+
+Chambel, T., Moreno, C., Guimarães, N., and Antunes, P. 1994. “Concepts and Architecture for Loosely Coupled Integration of Hyperbases.” ESPRIT Basic Research Project 6360, Broadcast. Volume: 3, Systems Engineering. Chapter: 4, Cooperative Working. ISSN: 1350-2042. [GitHub](https://paantunes.github.io/assets/pdf/94-hyperbases.pdf).
+
+Antunes, P. 1994. “Cooperative Working.” ESPRIT Basic Research Project 6360, Broadcast. Volume: 3, Systems Engineering. ISSN: 1350-2042. [GitHub](https://paantunes.github.io/assets/pdf/94-chapsum.pdf).
 
 Antunes, P., and Guimarães, N. 1993. “A Distributed Model and Architecture for Interactive Cooperation.” in Proceedings of the 4th Workshop on Future Trends of Distributed Computing Systems (FTDCS). Lisboa, Portugal: IEEE. pp. 143–149. ISBN: 0-8186-4430-3. DOI: https://doi.org/10.1109/FTDCS.1993.344164. [ResearchGate](https://www.researchgate.net/publication/3557868_A_Distributed_Model_and_Architecture_for_Interactive_Cooperation). [GitHub](https://paantunes.github.io/assets/pdf/93-ftdcs.pdf).
 
