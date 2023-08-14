@@ -32,7 +32,7 @@ Thuan, N., Ai-Phuong, H., Nkhoma, M., and Antunes, P. 2022. “Using Process Sto
 
 Thuan, N., and Antunes, P. 2022. “Positioning Design Science as an Educational Tool for Innovation and Problem Solving.” Communications of the Association for Information Systems (51:1). ISSN: 1529-3181. **ABDC A**. **h5-index 30**. SCIMAGO Q2. SCOPUS Q2. [GitHub](https://paantunes.github.io/assets/pdf/22-cais.pdf).
 
-Thuan, N., and Antunes, P. 2022. “A Framework for Teaching Work Integrated Learning Projects.” Times Higher Education Campus Newsletter. [URL](https://www.timeshighereducation.com/campus/framework-teaching-work-integrated-learning-projects).
+Thuan, N., and Antunes, P. 2022. “A Framework for Teaching Work Integrated Learning Projects.” Times Higher Education Campus Newsletter. [GitHub](https://paantunes.github.io/assets/pdf/22-times.pdf). 
 
 
 ## 2021
