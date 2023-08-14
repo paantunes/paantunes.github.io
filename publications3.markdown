@@ -20,7 +20,9 @@ Mourão, H., and Antunes, P. 2004. “Exception Handling through a Workflow.” 
 
 Ramires, J., and Antunes, P. 2004. “Negociação de Requisitos No Modelo SQFD - Software Quality Function Deployment.” in 1ª Conferência Nacional Em Interacção Pessoa-Máquina (INTERACÇÃO). Lisboa, Portugal. pp. 35–44. ISBN: 972-98464-4-8. [PDF](https://paantunes.github.io/assets/pdf/04-interaccao-nego.pdf).
 
-Pinto, R., Simões, F., and Antunes, P. 2004. “Estudo Dos Requisitos Para Um Sistema de Votação Electrónica.” FCUL/PT. [PDF](https://paantunes.github.io/assets/pdf/04-evoto.pdf). 
+Pinto, R., Simões, F., and Antunes, P. 2004. “Estudo Dos Requisitos Para Um Sistema de Votação Electrónica.” FCUL/PT. [PDF](https://paantunes.github.io/assets/pdf/04-evoto.pdf).
+
+Antunes, P., Borges, M., Pino, J., and Carrico, L. 2004. “On the Analysis of Groupware Usability Using Annotated GOMS.” FCUL/PT. [PDF](https://paantunes.github.io/assets/pdf/04-goms.pdf). 
 
 Antunes, P., and Carriço, L. 2003. “Modeling the Information Structures of Meetingware.” in Workshop de Sistemas de Informação Multimédia e Cooperativos (COOPMEDIA). Porto, Portugal. [PDF](https://paantunes.github.io/assets/pdf/03-coopmedia-mware.pdf).
 

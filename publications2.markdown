@@ -192,6 +192,8 @@ Zurita, G., Antunes, P., Baloian, N., and Baytelman, F. 2007. “Applying Sensem
 
 Zurita, G., Baloian, N., Baytelman, F., Farias, A., and Antunes, P. 2007. “A Framework Like a Tool for Specify Motivating Collaborative Learning Participatory Simulations.” in Proceedings of the 2007 11th International Conference on Computer Supported Cooperative Work in Design (CSCWD). Melbourne, Australia: IEEE. pp. 1016–1021. ISBN: 1-4244-0963-2. DOI: 10.1109/CSCWD.2007.4281578. CORE B. h5-index 15. [PDF](https://paantunes.github.io/assets/pdf/07-cscwd-sim.pdf).
 
+Ferreira, A., and Antunes, P. 2007. “Attentive Groupware Systems: A Framework and a Prototype Tool.” FCUL/PT. [PDF](https://paantunes.github.io/assets/pdf/07-attentive.pdf). 
+
 # 2006
 
 Antunes, P., and André, P. 2006. “A Conceptual Framework for the Design of Geo-Collaborative Systems.” Group Decision and Negotiation (15:3). pp. 273–295. ISSN: 0926-2644. DOI: 10.1007/s10726-006-9021-2. **ABDC A**. CORE B. SCIMAGO Q2. h5-index 24. [PDF](https://paantunes.github.io/assets/pdf/06-gdn.pdf).
