@@ -20,6 +20,8 @@ Mourão, H., and Antunes, P. 2004. “Exception Handling through a Workflow.” 
 
 Ramires, J., and Antunes, P. 2004. “Negociação de Requisitos No Modelo SQFD - Software Quality Function Deployment.” in 1ª Conferência Nacional Em Interacção Pessoa-Máquina (INTERACÇÃO). Lisboa, Portugal. pp. 35–44. ISBN: 972-98464-4-8. [PDF](https://paantunes.github.io/assets/pdf/04-interaccao-nego.pdf).
 
+Pinto, R., Simões, F., and Antunes, P. 2004. “Estudo Dos Requisitos Para Um Sistema de Votação Electrónica.” FCUL/PT. [PDF](https://paantunes.github.io/assets/pdf/04-evoto.pdf). 
+
 Antunes, P., and Carriço, L. 2003. “Modeling the Information Structures of Meetingware.” in Workshop de Sistemas de Informação Multimédia e Cooperativos (COOPMEDIA). Porto, Portugal. [PDF](https://paantunes.github.io/assets/pdf/03-coopmedia-mware.pdf).
 
 Antunes, P., and Costa, C. 2003. “Perceived Value: A Low-Cost Approach to Evaluate Meetingware.” in Groupware: Design, Implementation and Use. 9th International Workshop, CRIWG 2003, Autrans, France, October 2003 (Vol. 2806). Lecture Notes in Computer Science. J. Favela and D. Decouchant (eds.). Heidelberg: Springer. pp. 109–125. ISBN: 978-3-540-20117-5. DOI: 10.1007/978-3-540-39850-9_10. [PDF](https://paantunes.github.io/assets/pdf/03-criwg-pv.pdf).
@@ -44,6 +46,10 @@ Costa, C., Antunes, P., and Dias, J. 2002. “Integrating Two Organisational Sys
 
 Costa, C., Antunes, P., and Dias, J. 2002. “Evaluating MSS - A Case in the Building Construction Industry.” in 8th Americas Conference on Information Systems (AMCIS). R. Ramsower and J. Windsor (eds.). Dallas, Texas: AIS. **CORE A**. h5-index 23. [PDF](https://paantunes.github.io/assets/pdf/02-amcis.pdf).
 
+Antunes, P., and Costa, C. 2002. “A Descriptive Framework for Electronic Meeting Systems Based on the UML Language.” FCUL/PT. [PDF](https://paantunes.github.io/assets/pdf/02-ems.pdf).
+
+Antunes, P. (2002). “Groupware: Conceitos Fundamentais e Caracterização Dos Principais Blocos Construtivos.” FCUL/PT. [PDF](https://paantunes.github.io/assets/pdf/02-ems.pdf).
+
 Antunes, P., Costa, C., and Dias, J. 2001. “Applying Genre Analysis to EMS Design: The Example of a Small Accounting Firm.” in Seventh International Workshop on Groupware (CRIWG). H. Borges, M. J. (ed.). Darmstadt, Germany: IEEE. pp. 74–81. ISBN: 0-7695-1351-4. DOI: 10.1109/CRIWG.2001.951773. [PDF](https://paantunes.github.io/assets/pdf/01-criwg.pdf).
 
 Antunes, P., and Ho, T. 2001. “The Design of a GDSS Meeting Preparation Tool.” Group Decision and Negotiation (10:1). pp. 5–25. ISSN: 0926-2644. DOI: 10.1023/A:1008752727069. **ABDC A**. SCIMAGO Q2. h5-index 24. CORE B. [PDF](https://paantunes.github.io/assets/pdf/01-gdn.pdf).
@@ -57,6 +63,9 @@ Costa, C., Antunes, P., and Dias, J. 2001. “Integrating Meeting Results in Org
 Costa, C., Antunes, P., and Dias, J. 2001. “EMS/PDA: Connecting Meetings with People in Organisations.” in Proceedings of the 24th Information Systems Research Seminar in Scandinavia (IRIS). Ulvik in Hardanger, Norway. CORE B. [PDF](https://paantunes.github.io/assets/pdf/01-iris.pdf).
 
 Costa, C., Antunes, P., and Dias, J. 2001. “A Model for Organizational Integration of Meeting Outcomes.” in Contemporary Trends in Systems Development. Proceedings of the Ninth International Conference on Information Systems Development (ISD). Maung K. Sein, Bjørn-Erik Munkvold, Tore U. Ørvik, Wita Wojtkowski, W. Gregory Wojtkowski, Joze Zupancic, and Stanislaw Wrycza (eds.). Kluwer Plenum. ISBN: 978-1-4613-5506-9. DOI: 10.1007/978-1-4615-1341-4_26. **CORE A**. h5-index 10. [PDF](https://paantunes.github.io/assets/pdf/01-isd.pdf).
+
+
+Monteiro, A., Soares, N., Oliveira, R., and Antunes, P. (2001). “Sistemas Electrónicos de Votação.” FCUL/PT. [PDF](https://paantunes.github.io/assets/pdf/01-votacao.pdf).
 
 Antunes, P., Marcos, A., and Grave, L. 2000. Primeiro Workshop de Sistemas Multimédia Cooperativos e Distribuidos (COOPMEDIA). Coimbra: CCG - Centro de Computação Gráfica.
 
@@ -110,7 +119,7 @@ Antunes, P., and Guimarães, N. 1995. “NGTool - Exploring Mechanisms of Suppor
 
 Antunes, P., Guimarães, N., Segovia, J., and Cardenosa, J. 1995. “Beyond Formal Processes: Augmenting Workflow with Group Interaction Techniques.” in Proceedings of Conference on Organizational Computing Systems (COCS). San Jose, California: ACM. pp. 1–9. ISBN: 0-89791-706-5. DOI: 10.1145/224019.224020. CORE B. [PDF](https://paantunes.github.io/assets/pdf/95-coocs.pdf).
 
-Cosquer, F., Antunes, P., Guimarães, N., and Veríssimo, P. 1995. “Adaptive Synchronous Cooperation over Large Scale Networks.” Lisbon: INESC-IST. [PDF](https://paantunes.github.io/assets/pdf/95-adaptive.pdf). 
+Cosquer, F., Antunes, P., Guimarães, N., and Veríssimo, P. 1995. “Adaptive Synchronous Cooperation over Large Scale Networks.” Lisbon: INESC-IST. [PDF](https://paantunes.github.io/assets/pdf/95-adaptive.pdf).
 
 Antunes, P., and Guimarães, N. 1994. “Multiuser Interface Design in CSCW Systems.” ESPRIT Basic Research Project 6360, Broadcast. Volume: 3, Systems Engineering. Chapter: 4, Cooperative Working. ISSN: 1350-2042. [PDF](https://paantunes.github.io/assets/pdf/94-interface.pdf).
 
