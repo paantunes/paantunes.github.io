@@ -118,7 +118,7 @@ Linhares, G., Borges, M., and Antunes, P. 2009. “Negotiation-Collaboration in 
 
 Mourão, H., and Antunes, P. 2009. “Using WfMS to Support Unstructured Activities.” in Handbook of Research on Business Process Modeling. J. Cardoso and W. Van Der Aalst (eds.). Information Science Reference. ISBN: 978-1-60566-288-6. DOI: 10.4018/978-1-60566-288-6.ch016. [GitHub](https://paantunes.github.io/assets/pdf/09-igi-bpm.pdf).
 
-Sapateiro, C., and Antunes, P. 2009. “An Emergency Response Model Toward Situational Awareness Improvement.” in International Conference on Information Systems for Crisis Response and Management (ISCRAM). Göteborg, Sweden: ISCRAM. **h5-index 18**. [GitHub](https://paantunes.github.io/assets/pdf/09-iscram.pdf).
+Sapateiro, C., and Antunes, P. 2009. “An Emergency Response Model Toward Situational Awareness Improvement.” in International Conference on Information Systems for Crisis Response and Management (ISCRAM). Göteborg, Sweden: ISCRAM. h5-index 18. [GitHub](https://paantunes.github.io/assets/pdf/09-iscram.pdf).
 
 Sapateiro, C., Baloian, N., Antunes, P., and Zurita, G. 2009. “Developing Collaborative Peer-to-Peer Applications on Mobile Devices.” in Proceedings of the 2009 13th International Conference on Computer Supported Cooperative Work in Design (CSCWD). Santiago, Chile: IEEE. pp. 396–401. ISBN: 978-1-4244-3534-0. DOI: 10.1109/CSCWD.2009.4968091. CORE B. h5-index 15. [GitHub](https://paantunes.github.io/assets/pdf/09-cscwd-em.pdf).
 
