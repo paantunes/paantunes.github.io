@@ -110,6 +110,8 @@ Antunes, P., and Guimarães, N. 1995. “NGTool - Exploring Mechanisms of Suppor
 
 Antunes, P., Guimarães, N., Segovia, J., and Cardenosa, J. 1995. “Beyond Formal Processes: Augmenting Workflow with Group Interaction Techniques.” in Proceedings of Conference on Organizational Computing Systems (COCS). San Jose, California: ACM. pp. 1–9. ISBN: 0-89791-706-5. DOI: 10.1145/224019.224020. CORE B. [PDF](https://paantunes.github.io/assets/pdf/95-coocs.pdf).
 
+Cosquer, F., Antunes, P., Guimarães, N., and Veríssimo, P. 1995. “Adaptive Synchronous Cooperation over Large Scale Networks.” Lisbon: INESC-IST. [PDF](https://paantunes.github.io/assets/pdf/95-adaptive.pdf). 
+
 Antunes, P., and Guimarães, N. 1994. “Multiuser Interface Design in CSCW Systems.” ESPRIT Basic Research Project 6360, Broadcast. Volume: 3, Systems Engineering. Chapter: 4, Cooperative Working. ISSN: 1350-2042. [PDF](https://paantunes.github.io/assets/pdf/94-interface.pdf).
 
 Chambel, T., Moreno, C., Guimarães, N., and Antunes, P. 1994. “Concepts and Architecture for Loosely Coupled Integration of Hyperbases.” ESPRIT Basic Research Project 6360, Broadcast. Volume: 3, Systems Engineering. Chapter: 4, Cooperative Working. ISSN: 1350-2042. [PDF](https://paantunes.github.io/assets/pdf/94-hyperbases.pdf).
