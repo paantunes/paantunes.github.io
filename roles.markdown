@@ -21,7 +21,7 @@ permalink: /roles/
 
 2013–2015: Conveyor of the Behavior and IT Area of Strategic Distinctiveness. SIM/VUW
 
-2013: Proponent of the re-structure of the IS Undergraduate Program (which started in 2015). SIM/VUW
+2013: Co-proponent of the re-structure of the IS Undergraduate Program (which started in 2015). SIM/VUW
 
 2011–2012: Director of LASIGE. FCUL
 
