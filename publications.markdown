@@ -18,7 +18,7 @@ Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Des
 
 Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster). [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
 
-Antunes, P. 2023. “Preparing a Ph.D. Thesis Proposal in Informatics.” Faculty of Sciences of the University of Lisbon. DOI: https://doi.org/10.13140/RG.2.2.17067.00807. [PDF](https://paantunes.github.io/assets/pdf/23-tp.pdf). 
+Antunes, P. 2023. “Preparing a Ph.D. Thesis Proposal in Informatics.” Faculty of Sciences of the University of Lisbon. DOI: 10.13140/RG.2.2.17067.00807/1. [PDF](https://paantunes.github.io/assets/pdf/23-tp.pdf). 
 
 
 ## 2022
