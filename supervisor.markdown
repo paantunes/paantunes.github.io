@@ -39,7 +39,9 @@ Carriço, L. 2000. “Conceptual Maps for the Representation of Organisational K
 # Ms Theses
 
 
-Madeira, R. 2023. “Integração de Serviços de Assinatura Digital, Com Base Em Regras de Interoperabilidade,” M.Sc. Thesis. FCUL. [GitHub](https://paantunes.github.io/assets/pdf/T40.pdf).
+Borges, G. 2023. “Improving Web Application User Experience with Dynamic Sidebars,” M.Sc. Thesis. FCUL.
+
+Madeira, R. 2023. “Integração de Serviços de Assinatura Digital, Com Base Em Regras de Interoperabilidade,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/59202) [GitHub](https://paantunes.github.io/assets/pdf/T40.pdf).
 
 Artiom, A. 2022. “DevOps: Implementação Do Modelo Devops Em Equipa de Desenvolvimento,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/56773). [GitHub](https://paantunes.github.io/assets/pdf/T39.pdf).
 
