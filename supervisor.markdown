@@ -39,7 +39,7 @@ Carriço, L. 2000. “Conceptual Maps for the Representation of Organisational K
 # Ms Theses
 
 
-Borges, G. 2023. “Improving Web Application User Experience with Dynamic Sidebars,” M.Sc. Thesis. FCUL.
+Borges, G. 2023. “Improving Web Application User Experience with Dynamic Sidebars,” M.Sc. Thesis. FCUL...
 
 Madeira, R. 2023. “Integração de Serviços de Assinatura Digital, Com Base Em Regras de Interoperabilidade,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/59202) [GitHub](https://paantunes.github.io/assets/pdf/T40.pdf).
 
