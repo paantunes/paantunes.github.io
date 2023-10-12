@@ -4,243 +4,210 @@ title: revwr
 permalink: /reviewer/
 ---
 
-# Reviewer
+# Work as Reviewer
 
+# 2023
 
-# Project Reviews
+Chilean National Research and Development Agency (ANID). 2024 Regular Fondecyt Competition. Chile. Evaluated 2 projects
 
-2021: Remote Evaluator. Fund for Scientific Research (FNRS). Call: Credits and Projects 2023. Belgium
+Chilean National Science and Technology Commission (CONICYT). Research Initiation Project Competition. Chile. Evaluated 2 projects
 
-2023: External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). Research Initiation Project Competition. Chile
+Fund for Scientific Research (FNRS). Call: Credits and Projects 2023. Belgium. Evaluated 3 projects
 
-2022: External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). 2023 Regular FONDECYT National Projects Competition. Chile
+Scandinavian Journal of Information Systems. Reviewed 1 paper. ABDC A
 
-2022: External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). Initiation into Research. Chile
+Business Process Management Journal. Reviewed 2 papers. ABDC B. SCIMAGO Q1
 
-2021: Remote Evaluator. Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2021. Belgium
+14th International S-BPM ONE Conference 2023 (S-BPM). Reviewed 3 papers
 
-2020: Remote Evaluator. Fund for Scientific Research (FNRS). Call: Credits and Projects 2020. Belgium
+HCI International 2023 (HCII). Copenhagen, Denmark. Reviewed 1 poster. h5-index 45
 
-2019: Expert Project Evaluator. Fund for Scientific Research (FNRS) & Fond de Recherche du Quebec. Call: Bilateral Program for Collaborative Research Quebec - Federation Wallonie-Bruxelles. Belgium & Canada
+European Conference on Information Systems (ECIS). Reviewed 2 papers. CORE A. h5-index 37
 
-2019: External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). Initiation into Research. Chile
+11th International Conference on Distributed, Ambient and Pervasive Interactions (DAPI). Conference affiliated to HCI International (HCII). Copenhagen, Denmark. Reviewed 3 abstracts. h5-index 45
 
-2019: Remote Evaluator. Fund for Scientific Research (FNRS). Call: Credits and Projects 2019. Belgium
+# 2022
 
-2017: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: Credits and Projects 2017. Belgium
+Chilean National Science and Technology Commission (CONICYT). 2023 Regular FONDECYT National Projects Competition. Chile. Evaluated 1 project
 
-2017: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2017. Belgium
+Chilean National Science and Technology Commission (CONICYT). Initiation into Research. Chile. Evaluated 2 projects
 
-2017: External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). National Research Funding Competition. Chile
+Business Process Management Journal. Reviewed 1 paper. ABDC B. SCIMAGO Q1
 
-2017: Member of the Evaluation Committee. 2017 Call for Projects. The French National Research Agency (ANR - Agence Nationale de la Recherche). France
+Australasian Conference on Information Systems (ACIS). Melbourne, Australia. Reviewed 1 paper. ERA A
 
-2017: Remote Evaluator. Fund for Scientific Research (FNRS) and Research Foundation - Flanders (FWO). Call: Credits and Projects. Belgium
+Communications of the Association for Information Systems. Reviewed 1 paper. CORE A. SJR Q2
 
-2016: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2016. Belgium
+International Conference on Information Systems (ICIS). Copenhagen, Denmark. Reviewed 1 paper. CORE A*. h5-index 34
 
-2016: External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). FONDECYT Program: Initiation into Research. Chile
+13th Annual Conference on Subject-oriented Business Process Management (S-BPM). Hamburg, Germany. Reviewed 1 paper
 
-2015: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: Credits and Projects 2015. Belgium
+10th International Conference on Distributed, Ambient and Pervasive Interactions (DAPI). Conference affiliated to HCI International (HCII). Reviewed 2 papers. Reviewed 1 abstract. h-index 45
 
-2015: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2015. Belgium
+Scandinavian Journal of Information Systems. Reviewed 1 paper. ABDC A
 
-2015: External Project Evaluator. Chilean National Science and Technology Commission (CONICYT). FONDECYT Program: Initiation into Research. Chile
+2022 IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Hangzhou, China. Reviewed 4 papers. CORE B
 
-2015: External Project Evaluator. COST (European Cooperation in Science and Technology). COST Action proposals for the Open Call OC-2015. European Union
+# 2021
 
-2014: Expert Project Evaluator. Chilean National Science and Technology Commission (CONICYT). FONDECYT Program: Initiation into Research. Chile
+Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2021. Belgium. Evaluated 1 project
 
-2014: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: Credits and Projects 2014. Belgium
+2021 IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Dalian, China. Reviewed 2 papers. CORE B
 
-2013: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: Credits and Projects 2013. Belgium
+Communications of the Association for Information Systems. Reviewed 1 paper. CORE A. SJR Q2
 
-2013: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2013. Belgium
+55th Hawaii International Conference on System Sciences (HICSS). Hawaii, USA. Reviewed 1 paper. CORE A
 
-2013: Expert Project Evaluator. Netherlands Organisation for Scientific Research (NWO). Call: Physical Science TOP-Grants. The Netherlands
+Communications of the Association for Information Systems. Reviewed 3 papers. CORE A. SJR Q2
 
-2012: Expert Project Evaluator. Chilean National Science and Technology Commission (CONICYT). FONDECYT Program: Initiation into Research. Chile
+Information. Reviewed 1 paper
 
-2012: Expert Project Evaluator. Fund for Scientific Research (FNRS). Call: FRIA/FRESH. Belgium
+Journal of Management Information Systems. Reviewed 1 paper. CORE A*. ABDC A*. SJR Q1
 
-2012: Expert Project Evaluator. The Latin American and Caribbean Collaborative ICT Research Federation (LACCIR)
+# 2020
 
-2011: Expert Project Evaluator and Rapporteur. European Commission. IST Program, Call 7: Total Safety Management for Industrial Organizations. European Union
+Fund for Scientific Research (FNRS). Call: Credits and Projects 2020. Belgium. Evaluated 1 project
 
-2011: Expert Project Evaluator. The Latin American and Caribbean Collaborative ICT Research Federation (LACCIR)
+Information Systems Journal. Reviewed 1 paper. CORE A*. ABDC A*. SJR Q1
 
-2009: Expert Project Evaluator. The Latin American and Caribbean Collaborative ICT Research Federation (LACCIR)
+AIS Transactions on Human-Computer Interaction. Reviewed 1 paper. ABDC A
 
-2008: Expert Project Evaluator. The Latin American and Caribbean Collaborative ICT Research Federation (LACCIR)
+25th Americas Conference on Information Systems (AMCIS). Salt Lake City, Utah. Reviewed 1 paper. CORE A
 
-2007: Expert Project Evaluator. The Latin American and Caribbean Collaborative ICT Research Federation (LACCIR)
+Advanced Engineering Informatics. Reviewed 1 paper. SJR Q1
 
-2005: Expert Project Evaluator. European Commission. IST Program, Call 5: Strategic Objective 2.5.9 - Collaborative Working Environments - Integrated Projects. European Union
+12th International Conference on Subject-oriented Business Process Management (S-BPM ONE). Reviewed 2 papers
 
-2005: Expert Project Evaluator. European Commission. IST Program, Call 5: Strategic Objective 2.5.9 - Collaborative Working Environments - STREPs. European Union
+Journal of Management Information Systems. Reviewed 1 paper. CORE A*. ABDC A*. SJR Q1
 
-2005: Project Reviewer. European Commission. E-Ten Program, Area 2.8 – Education and Training. COMPETENT (Competence for Trans-European Networks, C28019) Project. European Union
+Group Decision and Negotiation. Reviewed 1 paper. CORE A. SJR Q2
 
-2004: Expert Project Evaluator. European Commission: eTEN Program, e-Health. European Union
+Journal of Strategic Information Systems. Reviewed 1 paper. CORE A. SJR Q1
 
-2004: Expert Project Evaluator. European Commission: eTEN Program, e-Learning. European Union
+Review of Managerial Science. Reviewed 1 paper. SJR Q1
 
-2003: Project Reviewer. European Commission. E-Ten Program, Area 2.8 – Education and Training. COMPETENT (Competence for Trans-European Networks, C28019) Project. European Union
+Australasian Journal of Information Systems. Reviewed 1 paper. ABDC A. CORE B
 
-2000: Expert Project Evaluator. European Commission. IST Program, Call 3: Key Action II – New Methods of Work and Electronic Commerce. European Union
+# 2019
 
-1999: Expert Project Evaluator. Chilean National Science and Technology Commission (CONICYT). FONDECYT Program. Chile
+Fund for Scientific Research (FNRS) & Fond de Recherche du Quebec. Call: Bilateral Program for Collaborative Research Quebec - Federation Wallonie-Bruxelles. Belgium & Canada. Evaluated 1 project
 
+Chilean National Science and Technology Commission (CONICYT). Initiation into Research. Chile. Evaluated 1 project
 
-# Journal Reviews (selected)
+Fund for Scientific Research (FNRS). Call: Credits and Projects 2019. Belgium. Evaluated 1 project
 
+Communications of the Association for Information Systems. Reviewed 1 paper. CORE A. SJR Q2
 
-2023: Scandinavian Journal of Information Systems. ABDC A
+Information. Reviewed 1 paper
 
-2023: Business Process Management Journal. ABDC B. SCIMAGO Q1
+European Conference on Information Systems (ECIS). Reviewed 1 paper. CORE A
 
-2022: Communications of the Association for Information Systems. CORE A. SCIMAGO Q2
+23rd Pacific Asia Conference on Information Systems (PACIS). Reviewed 1 paper. CORE A
 
-2022: Business Process Management Journal. ABDC B. SCIMAGO Q1
+11th International Conference on Subject-oriented Business Process Management (S-BPM ONE). Reviewed 1 paper
 
-2022: Scandinavian Journal of Information Systems. ABDC A
+16th International Conference on Information Systems for Crisis Response and Management (ISCRAM). Reviewed 1 paper
 
-2021: Communications of the Association for Information Systems. CORE A. SCIMAGO Q2
+# 2018
 
-2021: Journal of Management Information Systems. CORE A*. ABDC A*. SCIMAGO Q1
+Palmgrave. Reviewed 1 book
 
-2020: Journal of Management Information Systems. CORE A*. ABDC A*. SCIMAGO Q1
+Journal of Knowledge Management. Reviewed 1 paper. SJR Q1
 
-2020: Group Decision and Negotiation. CORE A. SCIMAGO Q2
+International Journal of E-Collaboration. Reviewed 1 paper. SJR Q2
 
-2020: Review of Managerial Science. SCIMAGO Q1
+22nd IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Reviewed 3 papers
 
-2020: Information Systems Journal. CORE A*. ABDC A*. SCIMAGO Q1
+10th International Conference on Subject-Oriented Business Process Management (S-BPM ONE). Reviewed 1 paper
 
-2020: AIS Transactions on Human-Computer Interaction. ABDC A
+52nd Hawaii International Conference on System Sciences (HICSS). Reviewed 1 paper. CORE A
 
-2020: Journal of Strategic Information Systems. CORE A. SCIMAGO Q1
+215th International Conference on Information Systems for Crisis Response and Management (ISCRAM). Reviewed 1 paper
 
-2020: Australasian Journal of Information Systems. ABDC A. CORE B
+22nd Pacific Asia Conference on Information Systems (PACIS). Reviewed 2 papers. CORE A
 
-2019: Communications of the Association for Information Systems. CORE A. SCIMAGO Q2
+29th Australasian Conference on Information Systems ACIS). Reviewed 1 paper (IS Philosophy and Research Methods). ERA A
 
-2018: Journal of Knowledge Management. SCIMAGO Q1
+Information Systems for Crisis Response and Management - Asia Pacific (ISCRAM Asia Pacific). Reviewed 1 paper
 
-2017: International Journal of Information Technology & Decision Making. SCIMAGO Q2
+# 2017
 
-2016: Communications of the Association for Information Systems. CORE A. SCIMAGO Q2
+Fund for Scientific Research (FNRS). Call: Credits and Projects 2017. Belgium. Evaluated 1 project
 
-2016: Computers in Human Behavior. SCIMAGO Q1
+Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2017. Belgium. Evaluated 1 project
 
-2016: Business & Information Systems Engineering. ABDC A. SCIMAGO Q1
+Chilean National Science and Technology Commission (CONICYT). National Research Funding Competition. Chile. Evaluated 2 projects
 
-2015: Journal of Network and Computer Applications. CORE A. SCIMAGO Q1
+The French National Research Agency (ANR - Agence Nationale de la Recherche). 2017 Call for Projects. France. Evaluated 1 project
 
-2014: ACM Transactions on Computer-Human Interaction. ABDC A. SCIMAGO Q2
+Fund for Scientific Research (FNRS) and Research Foundation - Flanders (FWO). Call: Credits and Projects. Belgium. Evaluated 1 project
 
-2013: Journal of Network and Computer Applications. CORE A. SCIMAGO Q1
+Administrative Sciences. Reviewed 1 paper
 
-2013: International Journal of Information Technology & Decision Making. SCIMAGO Q2
+Organizational Design and Enterprise Engineering. Reviewed 1 paper
 
-2013: Journal of Organizational Computing and Electronic Commerce. SCIMAGO Q2
+International Journal of Information Technology & Decision Making. Reviewed 1 paper. SJR Q2
 
-2013: Behavior and Information Technology. ABDC A. SCIMAGO Q2
+21st IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Reviewed 4 papers
 
-2012: Journal of Network and Computer Applications. CORE A. SCIMAGO Q1
+4th International Conference on Future Data and Security Engineering 2017 (FDSE). Reviewed 1 paper
 
-2011: International Journal of Information Technology & Decision Making. SCIMAGO Q2
+25th European Conference on Information Systems (ECIS). Reviewed 1 paper. CORE A
 
-2011: Group Decision and Negotiation. CORE A. SCIMAGO Q2
+# 2016
 
-2011: Data & Knowledge Engineering. SCIMAGO Q2
+Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2016. Belgium. Evaluated 2 projects
 
-2010: IEEE Systems Journal. SCIMAGO Q1
+Chilean National Science and Technology Commission (CONICYT). FONDECYT Program: Initiation into Research. Chile. Evaluated 1 project
 
-2009: IEEE Transactions on Software Engineering. SCIMAGO Q1
+Journal of Universal Computer Science. Reviewed 1 paper. SJR Q2
 
-2009: IEEE Transactions on Systems, Man, and Cybernetics. SCIMAGO Q1
+Computers in Human Behavior. Reviewed 1 paper. SJR Q1
 
-2008: Group Decision and Negotiation. CORE A. SCIMAGO Q2
+Business & Information Systems Engineering. Reviewed 1 paper. ABDC A. SJR Q1
 
-2006: ACM Transactions on Internet Technology. SCIMAGO Q1
+20th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Reviewed 2 papers
 
-2005: Group Decision and Negotiation. CORE A. SCIMAGO Q2
+8th International Conference on Collaboration Technologies (CollabTech). Reviewed 3 papers
 
-2004: Multimedia Tools and Applications. SCIMAGO Q2
+IEEE International Conference on Systems, Man, and Cybernetics (SMC). Reviewed 3 papers. CORE B
 
-1999: ACM Transactions on Information Systems. SCIMAGO Q1
+3rd International Conference on Future Data and Security Engineering (FDSE). Reviewed 2 papers
 
+R&D Management. Reviewed 1 paper
 
-# Conference Reviews (selected)
+Cluster Computing. Reviewed 2 papers. SJR Q2
 
+C. Anslow, P. Campos, & J. Jorge (Eds.), Collaboration Meets Interactive Surfaces (CMIS) - Theory and Practice. Springer. Reviewed 1 paper
 
-2023: European Conference on Information Systems (ECIS). CORE A
+# 2015
 
-2022: International Conference on Information Systems (ICIS). CORE A*
+Fund for Scientific Research (FNRS). Call: Credits and Projects 2015. Belgium. Evaluated 2 projects
 
-2022: Australasian Conference on Information Systems (ACIS). ERA A
+Fund for Scientific Research (FNRS). Call: Grants and Fellowships 2015. Belgium. Evaluated 1 project
 
-2021: Hawaii International Conference on System Sciences (HICSS). CORE A
+Chilean National Science and Technology Commission (CONICYT). FONDECYT Program: Initiation into Research. Chile. Evaluated 2 projects
 
-2020: Americas Conference on Information Systems (AMCIS). CORE A
+COST (European Cooperation in Science and Technology). COST Action proposals for the Open Call OC-2015. European Union
 
-2019: European Conference on Information Systems (ECIS). CORE A
+Educational Research and Reviews. Reviewed 1 paper
 
-2019: Pacific Asia Conference on Information Systems (PACIS). CORE A
+19th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Reviewed 3 papers
 
-2018: Pacific Asia Conference on Information Systems (PACIS). CORE A
+2nd International Conference on Future Data and Security Engineering (FDSE). Reviewed 2 papers
 
-2018: Hawaii International Conference on System Sciences (HICSS). CORE A
+IEEE International Conference on Systems, Man, and Cybernetics - Track on Collaborative Technologies and Applications (SMC). Reviewed 3 papers. CORE B
 
-2018: Australasian Conference on Information Systems (ACIS). ERA A
+2nd International Conference on Future Data and Security Engineering (FDSE). Reviewed 1 paper
 
-2017: European Conference on Information Systems (ECIS). CORE A
+ACM Conference on Computer Human Interaction (CHI). ACM. Reviewed 1 paper. CORE A*
 
-2015: Hawaii International Conference on System Sciences (HICSS). CORE A
+23rd European Conference on Information Systems (ECIS). Reviewed 1 paper. CORE A
 
-2015: Australasian Conference on Information Systems (ACIS). ERA A
+Australasian Conference on Information Systems (ACIS). Reviewed 1 paper. CORE A
 
-2015: European Conference on Information Systems (ECIS). CORE A
+48th Hawaiian International Conference on System Sciences (HICSS). Reviewed 1 paper. CORE A
 
-2015: ACM Conference on Human Factors in Computing Systems (CHI). CORE A*
+Journal of Network and Computer Applications. Reviewed 1 paper. CORE A. SJR Q1
 
-2013: ACM Symposium On Applied Computing (SAC). CORE B
-
-2012: ACM Symposium On Applied Computing (SAC). CORE B
-
-2012: Hawaii International Conference on System Sciences (HICSS). CORE A
-
-2011: ACM Symposium On Applied Computing (SAC). CORE B
-
-2011: Hawaii International Conference on System Sciences (HICSS). CORE A
-
-2011: International Conference on Business Process Management (BPM). CORE A
-
-2010: International Conference on Business Process Management (BPM). CORE A
-
-2010: ACM Symposium On Applied Computing (SAC). CORE B
-
-2010: Hawaii International Conference on System Sciences (HICSS). CORE A
-
-2009: International Conference on Business Process Management (BPM). CORE A
-
-2009: ACM Symposium On Applied Computing (SAC). CORE B
-
-2008: ACM Symposium On Applied Computing (SAC). CORE B
-
-2007: ACM Symposium On Applied Computing (SAC). CORE B
-
-2007: ACM Conference on Human Factors in Computing Systems (CHI). CORE A*
-
-2006: ACM Symposium On Applied Computing (SAC). CORE B
-
-2005: ACM Symposium On Applied Computing (SAC). CORE B
-
-2005: Hawaii International Conference on System Sciences (HICSS). CORE A
-
-2004: ACM Symposium On Applied Computing (SAC). CORE B
-
-2004: Hawaii International Conference on System Sciences (HICSS). CORE A
-
-2003: ACM Symposium On Applied Computing (SAC). CORE B
+# [2014-2005](reviewer2.markdown)
