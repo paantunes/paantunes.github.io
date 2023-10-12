@@ -17,13 +17,13 @@ permalink: /supervisor/
 
 Leite, F. 2019. “Development and Evaluation of a Method Supporting Auto-Representation in Judicial Systems Using Visual Narrative (In Portuguese: Desenvolvimento e Avaliação de Um Método Para Autorepresentação Em Sistemas Judiciais Utilizando a Narrativa Visual),” Ph.D. Thesis. ISCTE. [GitHub](https://paantunes.github.io/assets/pdf/T38.pdf).
 
-Ushaka, I. 2019. “An Exploratory Design Science Study on Theory Testing Using Crowdsourcing,” Ph.D. Thesis. VUW. 2020 PHIS-NZ Award for Best PhD Thesis in Information Systems in New Zealand. [GitHub](https://paantunes.github.io/assets/pdf/T37.pdf).
+Ushaka, I. 2019. “An Exploratory Design Science Study on Theory Testing Using Crowdsourcing,” Ph.D. Thesis. VUW. **2020 PHIS-NZ Award for Best PhD Thesis in Information Systems in New Zealand**. [GitHub](https://paantunes.github.io/assets/pdf/T37.pdf).
 
-Yang, H. 2018. “In A Quest to Solve Information System Agility Problems A SaaS Experience,” Ph.D. Thesis. VUW. 2019 PHIS-NZ Award for Best PhD Thesis in Information Systems in New Zealand. [GitHub](https://paantunes.github.io/assets/pdf/T36.pdf).
+Yang, H. 2018. “In A Quest to Solve Information System Agility Problems A SaaS Experience,” Ph.D. Thesis. VUW. **2019 PHIS-NZ Award for Best PhD Thesis in Information Systems in New Zealand**. [GitHub](https://paantunes.github.io/assets/pdf/T36.pdf).
 
 Simões, D. 2017. “An End-User Approach to Business Process Modeling,” Ph.D. Thesis. FCUL. [URL](http://hdl.handle.net/10451/28485). [GitHub](https://paantunes.github.io/assets/pdf/T35.pdf).
 
-Thuan, N. 2016. “Establishing Crowdsourcing as an Organisational Business Process: A Design Science Approach,” Ph.D. Thesis. VUW. 2017 PHIS-NZ award for best thesis in Information Systems in New Zealand. 2017 Dean’s Award for Doctoral Achievement. 2014 PGSA Postgraduate Research Excellence Award. [GitHub](https://paantunes.github.io/assets/pdf/T34.pdf).
+Thuan, N. 2016. “Establishing Crowdsourcing as an Organisational Business Process: A Design Science Approach,” Ph.D. Thesis. VUW. **2017 PHIS-NZ award for best thesis in Information Systems in New Zealand**. **2017 Dean’s Award for Doctoral Achievement**. **2014 PGSA Postgraduate Research Excellence Award**. [GitHub](https://paantunes.github.io/assets/pdf/T34.pdf).
 
 Sapateiro, C. 2013. “Evaluating Mobile Collaborative Applications Support of Teamwork in Critical Incidents Response Management,” Ph.D. Thesis. FCUL. [URL](https://biblios.ciencias.ulisboa.pt/detalhes/58244). [GitHub](https://paantunes.github.io/assets/pdf/T32.pdf).
 
