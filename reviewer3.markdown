@@ -12,7 +12,7 @@ European Commission: eTEN Program, e-Health. Expert Project Evaluator. European 
 
 European Commission: eTEN Program, e-Learning. Expert Project Evaluator. European Union
 
-Hawaii International Conference on Systems Sciences (HICSS). Reviewed 1 paper. CORE A
+Hawaii International Conference on Systems Sciences (HICSS). Reviewed 1 paper. **CORE A**
 
 18th European Conference on Object-Oriented Programming (ECOOP). Reviewed 1 paper
 
@@ -32,7 +32,7 @@ International Conference Applied Computing (IADIS). Reviewed 5 papers
 
 Conferência nacional sobre XML, aplicações e tecnologias associadas (XATA). Reviewed 3 papers
 
-Sixth International Conference on Coordination Models and Languages (COORDINATION). Reviewed 1 paper. CORE A
+Sixth International Conference on Coordination Models and Languages (COORDINATION). Reviewed 1 paper. **CORE A**
 
 ACM 19th Symposium on Applied Computing -Track on Organizational Engineering (SAC). Reviewed 3 papers. CORE B
 
@@ -56,7 +56,7 @@ Workshop de Sistemas de Informação Multimédia e Cooperativos (COOP-MEDIA). Re
 
 # 2002
 
-International Conference on Dependable Systems and Networks (DSN). Reviewed 1 paper. CORE A
+International Conference on Dependable Systems and Networks (DSN). Reviewed 1 paper. **CORE A**
 
 4th International Conference on Enterprise Information Systems (ICEIS). Reviewed 1 paper
 
@@ -90,7 +90,7 @@ Fifth Internation Workshop on Groupware (CRIWG). Reviewed 3 papers
 
 Workshop Computação Gráfica Multimédia e Ensino (CGME). Reviewed 2 papers
 
-ACM Transactions on Information Systems. Reviewed 1 paper. SJR Q1
+ACM Transactions on Information Systems. Reviewed 1 paper. **SJR Q1**
 
 # 1998
 

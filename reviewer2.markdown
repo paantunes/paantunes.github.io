@@ -26,7 +26,7 @@ International ISCRAM Mediterranean Conference (ISCRAM-MED). Reviewed 4 papers
 
 Journal of Universal Computer Science. Reviewed 1 paper. SJR Q2
 
-ACM Transactions on Computer-Human Interaction. Reviewed 1 paper. ABDC A. SJR Q2
+ACM Transactions on Computer-Human Interaction. Reviewed 1 paper. **ABDC A**. SJR Q2
 
 # 2013
 
@@ -54,13 +54,13 @@ International Journal of Information Systems for Crisis Response and Management.
 
 Journal of Organizational Computing and Electronic Commerce. Reviewed 1 paper. SJR Q2
 
-Behavior and Information Technology. Reviewed 1 paper. ABDC A. SJR Q2
+Behavior and Information Technology. Reviewed 1 paper. **ABDC A**. SJR Q2
 
 International Journal of Information Technology & Decision Making. Reviewed 1 paper. SJR Q2
 
 International Journal of Cooperative Information Systems. Reviewed 1 paper
 
-Journal of Network and Computer Applications. Reviewed 1 paper. SJR Q1
+Journal of Network and Computer Applications. Reviewed 1 paper. **SJR Q1**
 
 Computing and Informatics. Reviewed 1 paper
 
@@ -86,7 +86,7 @@ International Conference on Information Systems for Crisis Response Management (
 
 2012 ACM Conference on Computer Supported Cooperative Work (CSCW). Reviewed 1 paper
 
-45th Hawaiian International Conference on System Sciences (HICSS). Reviewed 1 paper. CORE A
+45th Hawaiian International Conference on System Sciences (HICSS). Reviewed 1 paper. **CORE A**
 
 Recent Patents on Computer Science. Reviewed 1 paper
 
@@ -102,9 +102,9 @@ European Commission. IST Program, Call 7: Total Safety Management for Industrial
 
 The Latin American and Caribbean Collaborative ICT Research Federation (LACCIR). Evaluated 1 project
 
-Hawaii International Conference on Systems Sciences (HICSS). Reviewed 1 paper. CORE A
+Hawaii International Conference on Systems Sciences (HICSS). Reviewed 1 paper. **CORE A**
 
-9th International Conference on Business Process Management (BPM). Reviewed 7 papers. CORE A
+9th International Conference on Business Process Management (BPM). Reviewed 7 papers. **CORE A**
 
 Data & Knowledge Engineering. Reviewed 1 paper. SJR Q2
 
@@ -130,11 +130,11 @@ ACM 26th Symposium On Applied Computing (SAC). Reviewed 3 papers. CORE B
 
 # 2010
 
-Hawaii International Conference on Systems Sciences (HICSS). Reviewed 1 paper. CORE A
+Hawaii International Conference on Systems Sciences (HICSS). Reviewed 1 paper. **CORE A**
 
 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS). Reviewed 1 paper
 
-8th International Conference on Business Process Management (BPM). Reviewed 6 papers. CORE A
+8th International Conference on Business Process Management (BPM). Reviewed 6 papers. **CORE A**
 
 IEEE Systems Journal. Reviewed 1 paper. SJR Q1
 
@@ -154,13 +154,13 @@ Journal of Universal Computer Science. Reviewed 4 papers. SJR Q2
 
 The Latin American and Caribbean Collaborative ICT Research Federation (LACCIR). Evaluated 1 project
 
-7th International Conference on Business Process Management (BPM). Reviewed 5 papers. CORE A
+7th International Conference on Business Process Management (BPM). Reviewed 5 papers. **CORE A**
 
 Formacion Universitaria. Reviewed 1 paper
 
-Expert Systems With Applications. Reviewed 1 paper. SJR Q1
+Expert Systems With Applications. Reviewed 1 paper. **SJR Q1**
 
-IEEE Transactions on Systems, Man, and Cybernetics. Reviewed 1 paper. SJR Q1
+IEEE Transactions on Systems, Man, and Cybernetics. Reviewed 1 paper. **SJR Q1**
 
 Group Decision and Negotiation, Special Issue on Collaborative Approaches for Multi Decision Makers. Reviewed 2 papers. SJR Q2
 
@@ -176,7 +176,7 @@ Journal of Universal Computer Science. Reviewed 2 papers. SJR Q2
 
 13th International Conference on Computer Supported Cooperative Work in Design (CSCWD). Reviewed 4 papers
 
-IEEE Transactions on Software Engineering. Reviewed 1 paper. SJR Q1
+IEEE Transactions on Software Engineering. Reviewed 1 paper. **SJR Q1**
 
 # 2008
 
@@ -212,7 +212,7 @@ VII Jornadas Iberoamericanas de Ingeniería de Software e Ingeniería del Conoci
 
 The Latin American and Caribbean Collaborative ICT Research Federation (LACCIR). Evaluated 1 project
 
-ACM SIGCHI Computer Human Interaction Conference (CHI). Reviewed 5 papers. CORE A*
+ACM SIGCHI Computer Human Interaction Conference (CHI). Reviewed 5 papers. **CORE A***
 
 International Conference Information Resources Management Association (IRMA). Reviewed 2 papers. CORE B
 
@@ -242,7 +242,7 @@ VI Jornadas Iberoamericanas de Ingeniería del Software e Ingeniería del Conoci
 
 Kock, N. Encyclopedia of E-Collaboration. Hershey, PA: Idea Group Reference. Reviewed 2 papers
 
-Computer Supported Cooperative Work (CSCW). Reviewed 1 paper. SJR Q1
+Computer Supported Cooperative Work (CSCW). Reviewed 1 paper. **SJR Q1**
 
 International Journal of E-Collaboration. Reviewed 2 papers
 
@@ -266,7 +266,7 @@ International Conference Applied Computing (IADIS). Reviewed 5 papers
 
 V Jornadas Iberoamericanas de Ingeniería de Software e Ingeniería del Conocimiento (JIISIC). Reviewed 5 papers
 
-ACM Transactions on Internet Technology. Reviewed 1 paper. SJR Q1
+ACM Transactions on Internet Technology. Reviewed 1 paper. **SJR Q1**
 
 # 2005
 
@@ -278,7 +278,7 @@ European Commission. E-Ten Program, Area 2.8 – Education and Training. COMPETE
 
 ACM Group 2005 Conference (GROUP). Reviewed 1 paper. CORE B
 
-Hawaii International Conference on Systems Sciences (HICSS). Reviewed 1 paper. CORE A
+Hawaii International Conference on Systems Sciences (HICSS). Reviewed 1 paper. **CORE A**
 
 9th European Conference on Research and Advanced Technology for Digital Libraries (ECDL). Reviewed 1 paper
 
