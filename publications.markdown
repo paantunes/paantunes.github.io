@@ -10,15 +10,15 @@ permalink: /publications/
 
 Antunes, P., Johnstone, D., Thuan, N., and Vreede, G. 2023. “Delivering Evidence-Based Management Services: Rising to the Challenge Using Design Science.” Knowledge Management Research & Practice (21:4). pp. 806–821. ISSN: 1477-8238. DOI: 10.1080/14778238.2022.2064350. **ABDC A**. **SCOPUS Q1**. **h5-index 29**. SCIMAGO Q2. WoS Q2. [PDF](https://paantunes.github.io/assets/pdf/23-kmrp.pdf).
 
-
 Antunes, P., Pino, J., Nkhoma, M., and Thuan, N.  2023.  “The Composite Approach as a Hybrid Approach to Business Process Modeling: Proposition and Empirical Evaluation.”  Business Process Management Journal (29:6).  pp. 1633–1654. ISSN: 1463-7154. DOI: 10.1108/BPMJ-11-2022-0569. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 44**. ABDC B. [PDF](https://paantunes.github.io/assets/pdf/23-bpm-composite.pdf).
 
 Correia, A., Grover, A., Jameel, S., Schneider, D., Antunes, P., and Fonseca, B. 2023. “A Hybrid Human-AI Tool for Scientometric.” Artificial Intelligence Review. ISSN: 0269-2821. DOI: 10.1007/s10462-023-10548-7. **SCIMAGO Q1**. **SCOPUS Q1**. **WoS Q1**. **h5-index 70**. [PDF](https://paantunes.github.io/assets/pdf/23-air.pdf).
 
 Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Design Science Education.” Journal of Information Systems Education, Special Issue on Design Science Education (34:3). pp. 256–263. ISSN: 2574-3872. SCIMAGO Q2. ABDC B. h5-index 17. [PDF](https://paantunes.github.io/assets/pdf/23-jise-editorial.pdf).
 
-Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster). [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
+Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling. Online. [GitHub](https://paantunes.github.io/assets/pdf/23-his.pdf).
 
+Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster). [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
 
 Antunes, P., Pino, J., Tate, M., and Lugmayr, A. To appear. “Business Processes and Storytelling.” in The Serious Storytelling Handbook. CRC Press.
 
