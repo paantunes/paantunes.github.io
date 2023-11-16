@@ -16,7 +16,7 @@ Correia, A., Grover, A., Jameel, S., Schneider, D., Antunes, P., and Fonseca, B.
 
 Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Design Science Education.” Journal of Information Systems Education, Special Issue on Design Science Education (34:3). pp. 256–263. ISSN: 2574-3872. SCIMAGO Q2. ABDC B. h5-index 17. [PDF](https://paantunes.github.io/assets/pdf/23-jise-editorial.pdf).
 
-Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling. Online. [GitHub](https://paantunes.github.io/assets/pdf/23-his.pdf).
+Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling. Online. [PDF](https://paantunes.github.io/assets/pdf/23-his.pdf).
 
 Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster). [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
 
@@ -64,7 +64,7 @@ Thuan, N., Phuong, H., George, M., Nkhoma, M., and Antunes, P. 2020. “Toward a
 
 Antunes, P., Pino, J., and Tate, M. 2019. “Method for Eliciting and Analyzing Business Processes Based on Storytelling Theory.” in Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS). Hawaii: AIS. ISBN: 978-0-9981331-2-6. DOI: 10.24251/HICSS.2019.669. **CORE A**. **h5-index 52**. [PDF](https://paantunes.github.io/assets/pdf/19-hicss.pdf).
 
-Antunes, P., Tate, M., and Pino, J. 2019. Business Processes and Flexibility: A Theoretical Perspective. Fremantle, Australia: AIS. DOI:  https://aisel.aisnet.org/acis2019/7/. **Best Theory Paper Award**. **ERA A**. [PDF](https://paantunes.github.io/assets/pdf/19-acis.pdf).
+Antunes, P., Tate, M., and Pino, J. 2019. Business Processes and Flexibility: A Theoretical Perspective. Fremantle, Australia: AIS. DOI: https://aisel.aisnet.org/acis2019/7/. **Best Theory Paper Award**. **ERA A**. [PDF](https://paantunes.github.io/assets/pdf/19-acis.pdf).
 
 Antunes, T., Antunes, P., Johnstone, D., Nghia, V., and Thuan, N. 2019. “A Tool for Modelling Business Behaviour Using Decision Tables.” in 19th International Symposium on Communications and Information Technologies (ISCIT). Ho Chi Minh City, Vietnam: IEEE. ISBN: 978-1-72815-009-3. DOI: 10.1109/ISCIT.2019.8905161. [PDF](https://paantunes.github.io/assets/pdf/19-iscit.pdf).
 
