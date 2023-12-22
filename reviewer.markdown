@@ -16,7 +16,7 @@ permalink: /reviewer/
 
 2023: HCI International 2024 (HCII). Washington DC, USA. Reviewed 2 posters. **h5-index 45**
 
-2023: Scandinavian Journal of Information Systems. Reviewed 1 paper. ** ABDC A**
+2023: Scandinavian Journal of Information Systems. Reviewed 1 paper. **ABDC A**
 
 2023: Business Process Management Journal. Reviewed 3 papers. ABDC B. **SCIMAGO Q1**
 
