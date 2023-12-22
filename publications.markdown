@@ -18,9 +18,9 @@ Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Des
 
 Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling. Online. [PDF](https://paantunes.github.io/assets/pdf/23-his.pdf).
 
-Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. “A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling.” in 23th International Conference on Hybrid Intelligent Systems. Online. [ResearchGate](https://www.researchgate.net/publication/375689463_A_pipeline_for_AI-based_quantitative_studies_of_science_enhanced_by_crowdsourced_inferential_modelling-machine_processing_Human-AI_interaction_Hybrid_intel-_ligent_systems_Knowledge_graphs_Quantitativ). [PDF](https://paantunes.github.io/assets/pdf/23-his.pdf).
+Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. “A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling.” in 23th International Conference on Hybrid Intelligent Systems. Online.  [PDF](https://paantunes.github.io/assets/pdf/23-his.pdf).
 
-Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. “An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster).” in Ciência 2023 - Science and Technology Summit in Portugal. [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf). 
+Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. “An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster).” in Ciência 2023 - Science and Technology Summit in Portugal. [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
 
 Antunes, P., Pino, J., Tate, M., and Lugmayr, A. To appear. “Business Processes and Storytelling.” in The Serious Storytelling Handbook. CRC Press.
 
