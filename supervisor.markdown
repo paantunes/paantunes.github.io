@@ -39,9 +39,21 @@ Carriço, L. 2000. “Conceptual Maps for the Representation of Organisational K
 # Ms Theses
 
 
-Borges, G. 2023. “Improving Web Application User Experience with Dynamic Sidebars,” M.Sc. Thesis. FCUL.
+Ferreira, D.  ongoing.  “Mobile Micro-Frontends: Architecture, Design, and Implementation in iOS,” M.Sc. Thesis.  FCUL.
+
+Fragoso, I.  ongoing.  “Immersive Story-Based Applications: Front-End Design and Development for Android,” M.Sc. Thesis.  FCUL.
+
+Lopes, J.  ongoing.  “Desenvolvimento de Solução de Gestão de Risco Para Uma Aplicação SaaS de Revenda de Software Na Cloud,” M.Sc. Thesis.  FCUL: FCUL.
+
+Melo, M.  ongoing.  “Restructuring the Web Application Interface,” M.Sc. Thesis.  FCUL: FCUL.
+
+Morosan, R.  ongoing.  “Dancing with Chaos: A Choreographed Approach to Microservice Application Design and Development,” M.Sc. Thesis.  FCUL.
+
+Susana, B.  ongoing.  “DevOps Monitoring in a Development Team,” M.Sc. Thesis.  FCUL.
 
 Madeira, R. 2023. “Integração de Serviços de Assinatura Digital, Com Base Em Regras de Interoperabilidade,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/59202) [GitHub](https://paantunes.github.io/assets/pdf/T40.pdf).
+
+Borges, G.  2023.  “Improving Web Application User Experience with Dynamic Sidebars,” M.Sc. Thesis.  FCUL.  [URL](http://hdl.handle.net/10451/61473).  [GitHub](https://paantunes.github.io/assets/pdf/T41.pdf).
 
 Artiom, A. 2022. “DevOps: Implementação Do Modelo Devops Em Equipa de Desenvolvimento,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/56773). [GitHub](https://paantunes.github.io/assets/pdf/T39.pdf).
 

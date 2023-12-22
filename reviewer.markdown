@@ -8,23 +8,25 @@ permalink: /reviewer/
 
 # 2023
 
-Chilean National Research and Development Agency (ANID). 2024 Regular Fondecyt Competition. Chile. Evaluated 2 projects
+2023: Chilean National Science and Technology Commission (CONICYT). Research Initiation Project Competition. External Project Evaluator. Chile. Evaluated 2 projects
 
-Chilean National Science and Technology Commission (CONICYT). Research Initiation Project Competition. Chile. Evaluated 2 projects
+2023: External Project Evaluator. Chilean National Research and Development Agency (ANID). 2024 Regular Fondecyt Competition. Chile. Evaluated 2 projects
 
-Fund for Scientific Research (FNRS). Call: Credits and Projects 2023. Belgium. Evaluated 3 projects
+2023: Fund for Scientific Research (FNRS). Call: Credits and Projects 2023. Remote Evaluator. Belgium. Evaluated 3 projects
 
-Scandinavian Journal of Information Systems. Reviewed 1 paper. **ABDC A**
+2023: HCI International 2024 (HCII). Washington DC, USA. Reviewed 2 posters. **h5-index 45**
 
-Business Process Management Journal. Reviewed 2 papers. ABDC B. **SCIMAGO Q1**
+2023: Scandinavian Journal of Information Systems. Reviewed 1 paper. ** ABDC A**
 
-14th International S-BPM ONE Conference 2023 (S-BPM). Reviewed 3 papers
+2023: Business Process Management Journal. Reviewed 3 papers. ABDC B. **SCIMAGO Q1**
 
-HCI International 2023 (HCII). Copenhagen, Denmark. Reviewed 1 poster. h5-index 45
+2023: 14th International S-BPM ONE Conference 2023 (S-BPM). Reviewed 3 papers
 
-European Conference on Information Systems (ECIS). Reviewed 2 papers. **CORE A**. h5-index 37
+2023: HCI International 2023 (HCII). Copenhagen, Denmark. Reviewed 1 poster. **h5-index 45**
 
-11th International Conference on Distributed, Ambient and Pervasive Interactions (DAPI). Conference affiliated to HCI International (HCII). Copenhagen, Denmark. Reviewed 3 abstracts. h5-index 45
+2023: European Conference on Information Systems (ECIS). Reviewed 2 papers. **CORE A.** **h5-index 37**
+
+2023: 11th International Conference on Distributed, Ambient and Pervasive Interactions (DAPI). Conference affiliated to HCI International (HCII). Copenhagen, Denmark. Reviewed 3 abstracts. **h5-index 45**
 
 # 2022
 
