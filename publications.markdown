@@ -16,8 +16,6 @@ Correia, A., Grover, A., Jameel, S., Schneider, D., Antunes, P., and Fonseca, B.
 
 Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Design Science Education.” Journal of Information Systems Education, Special Issue on Design Science Education (34:3). pp. 256–263. ISSN: 2574-3872. SCIMAGO Q2. ABDC B. h5-index 17. [PDF](https://paantunes.github.io/assets/pdf/23-jise-editorial.pdf).
 
-Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling. Online. [PDF](https://paantunes.github.io/assets/pdf/23-his.pdf).
-
 Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. “A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling.” in 23th International Conference on Hybrid Intelligent Systems. Online.  [PDF](https://paantunes.github.io/assets/pdf/23-his.pdf).
 
 Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. “An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster).” in Ciência 2023 - Science and Technology Summit in Portugal. [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
