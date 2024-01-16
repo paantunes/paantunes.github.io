@@ -6,7 +6,16 @@ permalink: /publications/
 
 # Publications
 
+## 2024
+
+
+Thuan, N., and Antunes, P. To appear. “A Conceptual Model for Educating Design Thinking Dispositions.” International Journal of Technology and Design Education. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 37**. WoS Q3.  
+
+Antunes, P., Pino, J., Tate, M., and Lugmayr, A. To appear. “Business Processes and Storytelling.” in The Serious Storytelling Handbook. CRC Press.
+
+
 ## 2023
+
 
 Antunes, P., Johnstone, D., Thuan, N., and Vreede, G. 2023. “Delivering Evidence-Based Management Services: Rising to the Challenge Using Design Science.” Knowledge Management Research & Practice (21:4). pp. 806–821. ISSN: 1477-8238. DOI: 10.1080/14778238.2022.2064350. **ABDC A**. **SCOPUS Q1**. **h5-index 29**. SCIMAGO Q2. WoS Q2. [PDF](https://paantunes.github.io/assets/pdf/23-kmrp.pdf).
 
@@ -19,8 +28,6 @@ Thuan, N., Tate, M., Drechsler, A., and Antunes, P. 2023. “Introduction to Des
 Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, B., and Grover, A. 2023. “A Pipeline for AI-Based Quantitative Studies of Science Enhanced by Crowdsourced Inferential Modelling.” in 23th International Conference on Hybrid Intelligent Systems. Online.  [PDF](https://paantunes.github.io/assets/pdf/23-his.pdf).
 
 Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. “An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster).” in Ciência 2023 - Science and Technology Summit in Portugal. [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
-
-Antunes, P., Pino, J., Tate, M., and Lugmayr, A. To appear. “Business Processes and Storytelling.” in The Serious Storytelling Handbook. CRC Press.
 
 Antunes, P. 2023. “Preparing a Ph.D. Thesis Proposal in Informatics.” Faculty of Sciences of the University of Lisbon. DOI: 10.13140/RG.2.2.17067.00807/1. [PDF](https://paantunes.github.io/assets/pdf/23-tp.pdf).
 
