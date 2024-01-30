@@ -9,7 +9,7 @@ permalink: /publications/
 ## 2024
 
 
-Thuan, N., and Antunes, P.  2024.  “A Conceptual Model for Educating Design Thinking Dispositions.”  International Journal of Technology and Design Education (to appear). ISSN: 1573-1804. DOI: https://doi.org/10.1007/s10798-024-09881-x. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 37**. [URL](https://link.springer.com/article/10.1007/s10798-024-09881-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240130&utm_content=10.1007/s10798-024-09881-x#article-info).
+Thuan, N., and Antunes, P.  2024.  “A Conceptual Model for Educating Design Thinking Dispositions.”  International Journal of Technology and Design Education. ISSN: 1573-1804. DOI: https://doi.org/10.1007/s10798-024-09881-x. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 37**. [PDF](https://link.springer.com/article/10.1007/s10798-024-09881-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240130&utm_content=10.1007/s10798-024-09881-x#article-info).
 
 Antunes, P., Pino, J., Tate, M., and Lugmayr, A. To appear. “Business Processes and Storytelling.” in The Serious Storytelling Handbook. CRC Press.
 
