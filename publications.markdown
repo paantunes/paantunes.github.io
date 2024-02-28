@@ -13,7 +13,7 @@ Antunes, P., and Tate, M. 2024. “‘What’s Going On’ with BizDevOps: A Qua
 
 Thuan, N., and Antunes, P.  2024.  “A Conceptual Model for Educating Design Thinking Dispositions.”  International Journal of Technology and Design Education. ISSN: 1573-1804. DOI: https://doi.org/10.1007/s10798-024-09881-x. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 37**. [PDF](https://link.springer.com/article/10.1007/s10798-024-09881-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240130&utm_content=10.1007/s10798-024-09881-x#article-info).
 
-Antunes, P., Pino, J., Tate, M., and Lugmayr, A. To appear. “Business Processes and Storytelling.” in The Serious Storytelling Handbook. CRC Press. 
+Antunes, P., Pino, J., Tate, M., and Lugmayr, A. To appear. “Business Processes and Storytelling.” in The Serious Storytelling Handbook. CRC Press.
 
 
 ## 2023
@@ -36,10 +36,9 @@ Antunes, P. 2023. “Preparing a Ph.D. Thesis Proposal in Informatics.” Facult
 
 ## 2022
 
+Antunes, P., and Tate, M. 2022. “Business Process Conceptualizations and the Flexibility-Support Tradeoff.” Business Process Management Journal (28:3). pp. 856–875. ISSN: 1463-7154. DOI: 10.1108/BPMJ-10-2021-0677. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 41**. ABDC B. [PDF](https://paantunes.github.io/assets/pdf/22-bpm.pdf).
 
 Antunes, P., and Tate, M. 2022. “Examining the Canvas as a Domain-Independent Artifact.” Information Systems and E-Business Management (20). pp. 495–514. ISSN: 1617-9854. DOI: 10.1007/s10257-022-00556-5. **h5-index 32**. SCIMAGO Q2. WoS Q2. ABDC B. SCOPUS Q2. [PDF](https://paantunes.github.io/assets/pdf/22-iseb-canvas.pdf).
-
-Antunes, P., and Tate, M. 2022. “Business Process Conceptualizations and the Flexibility-Support Tradeoff.” Business Process Management Journal (28:3). pp. 856–875. ISSN: 1463-7154. DOI: 10.1108/BPMJ-10-2021-0677. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 41**. ABDC B. [PDF](https://paantunes.github.io/assets/pdf/22-bpm.pdf).
 
 Antunes, P., Thuan, N., and Johnstone, D. 2022. “Nature and Purpose of Visual Artifacts in Design Science Research.” Information Systems and E-Business Management (20). pp. 515–550. ISSN: 1617-9846. DOI: 10.1007/s10257-022-00559-2. **h5-index 32**. SCIMAGO Q2. WoS Q2. ABDC B. SCOPUS Q2. [PDF](https://paantunes.github.io/assets/pdf/22-iseb-artifacts.pdf).
 
@@ -70,6 +69,7 @@ Thuan, N., Phuong, H., George, M., Nkhoma, M., and Antunes, P. 2020. “Toward a
 
 ## 2019
 
+Thuan, N., Drechsler, A., and Antunes, P. 2019. “Construction of Design Science Research Questions.” Communications of the Association for Information Systems (44). ISSN: 1529-3181. DOI: 10.17705/1CAIS.04420. **CORE A**. **ABDC A**. **h5-index 30**. SCIMAGO Q2. SCOPUS Q2. [PDF](https://paantunes.github.io/assets/pdf/19-cais.pdf).
 
 Antunes, P., Pino, J., and Tate, M. 2019. “Method for Eliciting and Analyzing Business Processes Based on Storytelling Theory.” in Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS). Hawaii: AIS. ISBN: 978-0-9981331-2-6. DOI: 10.24251/HICSS.2019.669. **CORE A**. **h5-index 52**. [PDF](https://paantunes.github.io/assets/pdf/19-hicss.pdf).
 
@@ -84,8 +84,6 @@ Enwereuzo, I., Antunes, P., and Johnstone, D. 2019. “Patterns of Testing Theor
 Enwereuzo, I., Antunes, P., Johnstone, D., and de Vreede, G. 2019. “Design and Development of a DSS Supporting the Integration of Crowdsourcing in Theory Testing: A Design Science Perspective.” in Pacific Asia Conference on Information Systems (PACIS). Xi’an, China: AIS. DOI: aisel.aisnet.org/pacis2019/172. **CORE A**. **h5-index 27**. [PDF](https://paantunes.github.io/assets/pdf/19-pacis.pdf).
 
 Leite, F., Antunes, P., Guimarães, N., and Pino, J. 2019. “Method Supporting the Adoption of Visual Stories in Judicial Systems.” in 27th European Conference on Information Systems (ECIS). Stockholm, Sweden: AIS. DOI: aisel.aisnet.org/ecis2019_rp/73. **CORE A**. **h5-index 34**. [PDF](https://paantunes.github.io/assets/pdf/19-ecis.pdf).
-
-Thuan, N., Drechsler, A., and Antunes, P. 2019. “Construction of Design Science Research Questions.” Communications of the Association for Information Systems (44). ISSN: 1529-3181. DOI: 10.17705/1CAIS.04420. **CORE A**. **ABDC A**. **h5-index 30**. SCIMAGO Q2. SCOPUS Q2. [PDF](https://paantunes.github.io/assets/pdf/19-cais.pdf).
 
 
 ## 2018
