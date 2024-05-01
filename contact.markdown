@@ -6,7 +6,7 @@ permalink: /contact/
 
 # Contact
 
-![photo](/assets/img/atacama.jpg "Title")
+![photo](/assets/img/shrimp.jpg "Title")
 
 # Virtual
 

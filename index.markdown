@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![photo](/assets/img/shrimp.jpg "Title")
+![photo](/assets/img/lx2024.jpg "Title")
 
 # Overview
 
