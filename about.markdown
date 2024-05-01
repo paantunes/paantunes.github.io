@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-![photo](/assets/img/stamp.jpg "Title")
+![photo](/assets/img/atacama.jpg "Title")
 
 # Education
 
