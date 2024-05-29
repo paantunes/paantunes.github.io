@@ -43,11 +43,11 @@ Ferreira, D.  ongoing.  “Mobile Micro-Frontends: Architecture, Design, and Imp
 
 Fragoso, I.  ongoing.  “Immersive Story-Based Applications: Front-End Design and Development for Android,” M.Sc. Thesis.  FCUL.
 
-Melo, M.  ongoing.  “Restructuring the Web Application Interface,” M.Sc. Thesis.  FCUL.
-
 Morosan, R.  ongoing.  “Dancing with Chaos: A Choreographed Approach to Microservice Application Design and Development,” M.Sc. Thesis.  FCUL.
 
 Susana, B.  ongoing.  “DevOps Monitoring in a Development Team,” M.Sc. Thesis.  FCUL.
+
+Melo, M.  2024.  “Restructuring the Web Application Interface - Meta-design,” M.Sc. Thesis.  FCUL.
 
 Madeira, R. 2023. “Integração de Serviços de Assinatura Digital, Com Base Em Regras de Interoperabilidade,” M.Sc. Thesis. FCUL. [URL](http://hdl.handle.net/10451/59202) [GitHub](https://paantunes.github.io/assets/pdf/T40.pdf).
 
