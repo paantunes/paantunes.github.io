@@ -10,7 +10,7 @@ permalink: /reviewer/
 
 2024: Fund for Scientific Research (FNRS). Call: Grants & Fellowships Call 2024. Remote Evaluator. Belgium. Evaluated 1 project
 
-2024: International Conference on Information Systems (ICIS). Bangkok, Thailand. Reviewed 1 paper. **CORE A* **. **h5-index 45**
+2024: International Conference on Information Systems (ICIS). Bangkok, Thailand. Reviewed 1 paper. **CORE A\***. **h5-index 45**
 
 2024: 15th International S-BPM ONE Conference 2024 (S-BPM). Weiden, Germany. Reviewed 2 papers
 
@@ -38,7 +38,7 @@ permalink: /reviewer/
 
 2023: HCI International 2023 (HCII). Copenhagen, Denmark. Reviewed 1 poster. **h5-index 45**
 
-2023: European Conference on Information Systems (ECIS). Reviewed 2 papers. **CORE A.** **h5-index 37**
+2023: European Conference on Information Systems (ECIS). Reviewed 2 papers. **CORE A**. **h5-index 37**
 
 2023: 11th International Conference on Distributed, Ambient and Pervasive Interactions (DAPI). Conference affiliated to HCI International (HCII). Copenhagen, Denmark. Reviewed 3 abstracts. **h5-index 45**
 
@@ -54,7 +54,7 @@ Australasian Conference on Information Systems (ACIS). Melbourne, Australia. Rev
 
 Communications of the Association for Information Systems. Reviewed 1 paper. **CORE A**. SJR Q2
 
-International Conference on Information Systems (ICIS). Copenhagen, Denmark. Reviewed 1 paper. **CORE A* **. h5-index 34
+International Conference on Information Systems (ICIS). Copenhagen, Denmark. Reviewed 1 paper. **CORE A\***. h5-index 34
 
 13th Annual Conference on Subject-oriented Business Process Management (S-BPM). Hamburg, Germany. Reviewed 1 paper
 
@@ -78,13 +78,13 @@ Communications of the Association for Information Systems. Reviewed 3 papers. **
 
 Information. Reviewed 1 paper
 
-Journal of Management Information Systems. Reviewed 1 paper. **CORE A* **. **ABDC A* **. **SJR Q1**
+Journal of Management Information Systems. Reviewed 1 paper. **CORE A\***. **ABDC A\***. **SJR Q1**
 
 # 2020
 
 Fund for Scientific Research (FNRS). Call: Credits and Projects 2020. Belgium. Evaluated 1 project
 
-Information Systems Journal. Reviewed 1 paper. **CORE A* **. **ABDC A* **. **SJR Q1**
+Information Systems Journal. Reviewed 1 paper. **CORE A\***. **ABDC A\***. **SJR Q1**
 
 AIS Transactions on Human-Computer Interaction. Reviewed 1 paper. **ABDC A**
 
@@ -94,7 +94,7 @@ Advanced Engineering Informatics. Reviewed 1 paper. **SJR Q1**
 
 12th International Conference on Subject-oriented Business Process Management (S-BPM ONE). Reviewed 2 papers
 
-Journal of Management Information Systems. Reviewed 1 paper. **CORE A* **. **ABDC A* **. **SJR Q1**
+Journal of Management Information Systems. Reviewed 1 paper. **CORE A\***. **ABDC A\***. **SJR Q1**
 
 Group Decision and Negotiation. Reviewed 1 paper. **CORE A**. SJR Q2
 
@@ -216,7 +216,7 @@ IEEE International Conference on Systems, Man, and Cybernetics - Track on Collab
 
 2nd International Conference on Future Data and Security Engineering (FDSE). Reviewed 1 paper
 
-ACM Conference on Computer Human Interaction (CHI). ACM. Reviewed 1 paper. **CORE A* **
+ACM Conference on Computer Human Interaction (CHI). ACM. Reviewed 1 paper. **CORE A\***
 
 23rd European Conference on Information Systems (ECIS). Reviewed 1 paper. **CORE A**
 
