@@ -22,7 +22,7 @@ Silva, T. Implementation of BizDevOps as a Service. FCUL
 
 Ferreira, D. Mobile Micro-Frontends: Architecture, Design, and Implementation in iOS. FCUL. 2023 Scholarship from LaSIGE.
 
-# 2020-24
+# 2020-2024
 
 Melo, M.  2024.  “Restructuring the Web Application Interface - Meta-Design,” M.Sc. Thesis.  FCUL.
 
@@ -32,7 +32,7 @@ Madeira, R.  2023.  “Integração de Serviços de Assinatura Digital, Com Base
 
 Artiom, A.  2022.  “DevOps: Implementação Do Modelo Devops Em Equipa de Desenvolvimento,” M.Sc. Thesis.  FCUL.  [URL](http://hdl.handle.net/10451/56773).  [PDF](https://paantunes.github.io/assets/pdf/T39.pdf).
 
-# 2015-19
+# 2015-2019
 
 Leite, F.  2019.  “Development and Evaluation of a Method Supporting Auto-Representation in Judicial Systems Using Visual Narrative (In Portuguese: Desenvolvimento e Avaliação de Um Método Para Autorepresentação Em Sistemas Judiciais Utilizando a Narrativa Visual),” Ph.D. Thesis.  ISCTE.  [PDF](https://paantunes.github.io/assets/pdf/T38.pdf).
 
@@ -50,7 +50,7 @@ Yin, G.  2016.  “A Comparative Study of Applying the Storytelling Method to th
 
 Yin, G.  2015.  “Service Failure Classification in the Control/Response Framework,” Honours Research Project.  VUW.
 
-# 2010-14
+# 2010-2014
 
 Durga, A.  2014.  “Integrating Social Media and Business Process Improvement: Value Propositions and Opportunities for Corporates,” Master in Information Management - Research Project/Thesis.  VUW.  [PDF](https://paantunes.github.io/assets/pdf/T33.pdf).
 
@@ -70,7 +70,7 @@ Martins, A.  2010.  “Avaliação de Um Protótipo de Suporte a Reuniões Elect
 
 Vilhena, R.  2010.  “Desenvolvimento de Uma Aplicação Para Monitorização Da Actividade Funcional Em Base de Dados Oracle,” M.Sc. Thesis.  FCUL.  [URL](http://hdl.handle.net/10451/5490).  [PDF](https://paantunes.github.io/assets/pdf/T25.pdf).
 
-# 2000-09
+# 2001-2009
 
 Linhares, G.  2009.  “Suporte Por Computador a Negociação Colaborativa Nas Revisões Técnicas Formais,” M.Sc. Thesis.  Brazil: UFRJ.  [PDF](https://paantunes.github.io/assets/pdf/T29.pdf).
 
@@ -108,7 +108,7 @@ Canário, J., and Silva, R.  2001.  “Planeamento de Reuniões Electrónicas,�
 
 Gomes, D.  2001.  “Tarântula - Sistema de Recolha de Documentos Na WWW,” Final Course Project.  FCUL.
 
-Carriço, L.  2000.  “Conceptual Maps for the Representation of Organisational Knowledge (in Portuguese),” Ph.D. Thesis.  IST.
+# 1997-2000
 
 Ferreira, R., and Giva, S.  2000.  “Megagest,” Final Course Project.  IST.  [PDF](https://paantunes.github.io/assets/pdf/T08.pdf).
 
@@ -118,7 +118,7 @@ Ho, T.  2000.  “Ferramentas de Suporte à Facilitação Em Processos de Decis�
 
 Pereira, C., and Barcelos, D.  2000.  “Facilitação Remota de Grupos Electrónicos,” Final Course Project.  IST.  [PDF](https://paantunes.github.io/assets/pdf/T09.pdf).
 
-# 1997-1999
+Carriço, L.  2000.  “Conceptual Maps for the Representation of Organisational Knowledge (in Portuguese),” Ph.D. Thesis.  IST.
 
 Barrocas, N.  1999.  “Ferramentas de Apoio Ao Planeamento e Condução de Reuniões Electrónicas,” Final Course Project.  IST.  [PDF](https://paantunes.github.io/assets/pdf/T05.pdf).
 
