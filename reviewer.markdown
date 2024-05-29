@@ -6,6 +6,22 @@ permalink: /reviewer/
 
 # Work as Reviewer
 
+# 2024
+
+2024: Fund for Scientific Research (FNRS). Call: Grants & Fellowships Call 2024. Remote Evaluator. Belgium. Evaluated 1 project
+
+2024: International Conference on Information Systems (ICIS). Bangkok, Thailand. Reviewed 1 paper. **CORE A***. **h5-index 45**
+
+2024: 15th International S-BPM ONE Conference 2024 (S-BPM). Weiden, Germany. Reviewed 2 papers
+
+2024: Scandinavian Journal of Information Systems. Reviewed 1 paper. **ABDC A**
+
+2024: HCI International 2024 (HCII). Washington DC, USA. Reviewed 1 poster. **h5-index 45**
+
+2024: 2024 27th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Tianjin, China. Reviewed 4 papers. CORE B
+
+2024: 12th International Conference on Distributed, Ambient and Pervasive Interactions (DAPI). Conference affiliated to HCI International (HCII). Washington DC, USA. Reviewed 2 abstracts. **h5-index 45**
+
 # 2023
 
 2023: Chilean National Science and Technology Commission (CONICYT). Research Initiation Project Competition. External Project Evaluator. Chile. Evaluated 2 projects
@@ -13,8 +29,6 @@ permalink: /reviewer/
 2023: External Project Evaluator. Chilean National Research and Development Agency (ANID). 2024 Regular Fondecyt Competition. Chile. Evaluated 2 projects
 
 2023: Fund for Scientific Research (FNRS). Call: Credits and Projects 2023. Remote Evaluator. Belgium. Evaluated 3 projects
-
-2023: HCI International 2024 (HCII). Washington DC, USA. Reviewed 2 posters. **h5-index 45**
 
 2023: Scandinavian Journal of Information Systems. Reviewed 1 paper. **ABDC A**
 
