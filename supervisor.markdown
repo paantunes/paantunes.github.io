@@ -12,15 +12,15 @@ permalink: /supervisor/
 
 # Ongoing
 
-Morosan, R. Dancing with Chaos: A Choreographed Approach to Microservice Application Design and Development. FCUL
+Morosan, R. Dancing with Chaos: A Choreographed Approach to Microservice Application Design and Development. M.Sc. Thesis. FCUL
 
-Susana, B. DevOps Monitoring in a Development Team. FCUL
+Susana, B. DevOps Monitoring in a Development Team. M.Sc. Thesis. FCUL
 
-Fragoso, I. Immersive Story-Based Applications: Front-End Design and Development for Android. FCUL
+Fragoso, I. Immersive Story-Based Applications: Front-End Design and Development for Android. M.Sc. Thesis. FCUL
 
-Silva, T. Implementation of BizDevOps as a Service. FCUL
+Silva, T. Implementation of BizDevOps as a Service. Ph.D. Thesis. FCUL
 
-Ferreira, D. Mobile Micro-Frontends: Architecture, Design, and Implementation in iOS. FCUL. 2023 Scholarship from LaSIGE.
+Ferreira, D. Mobile Micro-Frontends: Architecture, Design, and Implementation in iOS. M.Sc. Thesis. FCUL. 2023 Scholarship from LaSIGE.
 
 # 2020-2024
 

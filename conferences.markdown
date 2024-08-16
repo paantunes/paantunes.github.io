@@ -58,6 +58,11 @@ permalink: /conferences/
 
 # Program Committee Member
 
+2024: 15th International S-BPM ONE Conference 2024 (S-BPM). Weiden, Germany
+
+2024: 2024 IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Tianjin, China
+
+2024: 12th International Conference on Distributed, Ambient and Pervasive Interactions (DAPI). Conference affiliated to HCI International (HCII). Washington DC, USA
 
 2023: 14th International S-BPM ONE Conference 2023 (S-BPM). Rostock, Germany
 
