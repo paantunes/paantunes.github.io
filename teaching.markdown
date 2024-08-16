@@ -38,14 +38,19 @@ The project assignments are open and will be defined in collaboration with stude
 
 # Timeline
 
+2024–2025: Information Systems Analysis and Design. Degree in Informatics Engineering, FCUL
 
-2022–2023: Business Organization and Management. Master in Informatics Engineering, FCUL/PT
+2024–2025: Product Conception. Degree in Information and Communications Technology, FCUL
 
-2022–2023: Information Systems Analysis and Design. Degree in Informatics Engineering, FCUL/PT
+2024–2025: Web Applications. Master in Informatics Engineering, FCUL
 
-2022–2023: Product Conception. Degree in Information and Communications Technology, FCUL/PT
+2024: Product and Service Design. Master Program. University of Chile, Faculty of Economy and Business, Chile
 
-2022–2023: Web Applications. Master in Informatics Engineering, FCUL/PT
+2023–2024: Information Systems Analysis and Design. Degree in Informatics Engineering, FCUL
+
+2023–2024: Product Conception. Degree in Information and Communications Technology, FCUL
+
+2023–2024: Web Applications. Master in Informatics Engineering, FCUL
 
 2021–2022: Business Organization and Management. Master in Informatics Engineering, FCUL/PT
 
