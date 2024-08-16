@@ -8,13 +8,17 @@ permalink: /reviewer/
 
 # 2024
 
-2024: Fund for Scientific Research (FNRS). Call: Grants & Fellowships Call 2024. Remote Evaluator. Belgium. Evaluated 1 project
+2024: Fund for Scientific Research (FNRS). Call: Credits and Projects 2024. Remote Evaluator. Belgium. Evaluated 1 project
+
+2024: Fund for Scientific Research (FNRS). Call: Inceptive Grant for Scientific Research. Remote Evaluator. Belgium. Evaluated 1 project
+
+2024: Data & Knowledge Engineering. Reviewed 1 paper. **ABDC A**. SCIMAGO Q2. **h5-index 26**
 
 2024: International Conference on Information Systems (ICIS). Bangkok, Thailand. Reviewed 1 paper. **CORE A\***. **h5-index 45**
 
 2024: 15th International S-BPM ONE Conference 2024 (S-BPM). Weiden, Germany. Reviewed 2 papers
 
-2024: Scandinavian Journal of Information Systems. Reviewed 1 paper. **ABDC A**
+2024: Scandinavian Journal of Information Systems. Reviewed 2 papers. **ABDC A**
 
 2024: HCI International 2024 (HCII). Washington DC, USA. Reviewed 1 poster. **h5-index 45**
 
