@@ -13,7 +13,7 @@ Antunes, P., and Tate, M. 2024. “‘What’s Going On’ with BizDevOps: A Qua
 
 Thuan, N., and Antunes, P. 2024. “A Conceptual Model for Educating Design Thinking Dispositions.” International Journal of Technology and Design Education. ISSN: 1573-1804. DOI: https://doi.org/10.1007/s10798-024-09881-x. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 37**. [PDF](https://paantunes.github.io/assets/pdf/24-ijtde-dispositions.pdf).
 
-Antunes, P., and Guimarães, N. 2024. “Guiding the Implementation of Data Privacy with Microservices.” International Journal of Information Security (to appear). ISSN: 1615-5262. DOI: https://doi.org/10.1007/s10207-024-00907-y. **SCIMAGO Q1**. **h5-index 36**.
+Antunes, P., and Guimarães, N. 2024. “Guiding the Implementation of Data Privacy with Microservices.” International Journal of Information Security. ISSN: 1615-5262. DOI: https://doi.org/10.1007/s10207-024-00907-y. **SCIMAGO Q1**. **h5-index 36**.  [PDF](https://paantunes.github.io/assets/pdf/24-ijis-privacy.pdf).
 
 
 ## 2023
