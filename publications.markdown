@@ -6,6 +6,12 @@ permalink: /publications/
 
 # Publications
 
+## 2025
+
+
+Minh, T., Nguyen, T., McClelland, R., Antunes, P., and Thuan, N. 2025. “Exploring the Dichotomy Between Brand Addiction and Brand Love: A Comprehensive Analysis.” Asia Pacific Journal of Marketing and Logistics (to appear). ISSN: 1355-5855. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 60**. WoS Q2.
+
+
 ## 2024
 
 
