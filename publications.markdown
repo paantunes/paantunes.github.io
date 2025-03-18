@@ -9,13 +9,13 @@ permalink: /publications/
 ## 2025
 
 
-Minh, T., Nguyen, T., McClelland, R., Antunes, P., and Thuan, N.  2025.  “Exploring the Dichotomy Between Brand Addiction and Brand Love: A Comprehensive Analysis.”  Asia Pacific Journal of Marketing and Logistics (to appear).  ISSN: 1355-5855.  DOI: https://doi.org/10.1108/APJML-11-2024-1661. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 60**. WoS Q2.
+Minh, T., Nguyen, T., McClelland, R., Antunes, P., and Thuan, N.  2025.  “Exploring the Dichotomy Between Brand Addiction and Brand Love: A Comprehensive Analysis.”  Asia Pacific Journal of Marketing and Logistics.  ISSN: 1355-5855.  DOI: https://doi.org/10.1108/APJML-11-2024-1661. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 60**. WoS Q2.  [PDF](https://paantunes.github.io/assets/pdf/25-apjml-brand.pdf).
 
 
 ## 2024
 
 
-Antunes, P., and Tate, M. 2024. “‘What’s Going On’ with BizDevOps: A Qualitative Review of BizDevOps Practice.” Computers in Industry (157–158: 104081). ISSN: 0166-3615. DOI: https://doi.org/10.1016/j.compind.2024.104081. **SCIMAGO Q1**. **SCOPUS Q1**. **WoS Q1**. **h5-index 90**. [PDF](https://paantunes.github.io/assets/pdf/24-cii-bizdevops.pdf).
+Antunes, P., and Tate, M. 2024. “‘What’s Going On’ with BizDevOps: A Qualitative Review of BizDevOps Practice.” Computers in Industry (157–158: 104081). ISSN: 0166-3615. DOI: https://doi.org/10.1016/j.compind.2024.104081. **SCIMAGO Q1**. **SCOPUS Q1**. **WoS Q1**. **h5-index 90**.  [PDF](https://paantunes.github.io/assets/pdf/24-cii-bizdevops.pdf).
 
 Thuan, N., and Antunes, P. 2024. “A Conceptual Model for Educating Design Thinking Dispositions.” International Journal of Technology and Design Education. ISSN: 1573-1804. DOI: https://doi.org/10.1007/s10798-024-09881-x. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 37**. [PDF](https://paantunes.github.io/assets/pdf/24-ijtde-dispositions.pdf).
 
