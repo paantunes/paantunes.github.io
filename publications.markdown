@@ -11,7 +11,7 @@ permalink: /publications/
 
 Minh, T., Nguyen, T., McClelland, R., Antunes, P., and Thuan, N.  2025.  “Exploring the Dichotomy Between Brand Addiction and Brand Love: A Comprehensive Analysis.”  Asia Pacific Journal of Marketing and Logistics.  ISSN: 1355-5855.  DOI: https://doi.org/10.1108/APJML-11-2024-1661. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 60**. WoS Q2.  [PDF](https://paantunes.github.io/assets/pdf/25-apjml-brand.pdf).
 
-Antunes, P. 2025. “Preparing a Ph.D. Thesis Proposal in Informatics.” Faculty of Sciences of the University of Lisbon. DOI: 10.13140/RG.2.2.17067.00807/1.  [PDF](https://www.researchgate.net/publication/373531617_Preparing_a_PhD_Thesis_Proposal_in_Informatics). [PDF](https://paantunes.github.io/assets/pdf/25-tp.pdf).
+Antunes, P. 2025. “Preparing a Ph.D. Thesis Proposal in Informatics.” Faculty of Sciences of the University of Lisbon. DOI: 10.13140/RG.2.2.17067.00807/1.  [Researchgate](https://www.researchgate.net/publication/373531617_Preparing_a_PhD_Thesis_Proposal_in_Informatics). [PDF](https://paantunes.github.io/assets/pdf/25-tp.pdf).
 
 
 ## 2024
@@ -39,8 +39,11 @@ Correia, A., Kärkkäinen, T., Jameel, S., Schneider, D., Antunes, P., Fonseca, 
 
 Correia, A., Fonseca, B., Schneider, D., Antunes, P., Jameel, S., and Grover, A. 2023. “An Illustration of a RLHF-Based Model for Research Evaluation and Strategic Decision-Making (Poster).” in Ciência 2023 - Science and Technology Summit in Portugal. [PDF](https://paantunes.github.io/assets/pdf/23-poster-ciencia.pdf).
 
+Antunes, P. 2023. “Preparing a Ph.D. Thesis Proposal in Informatics.” Faculty of Sciences of the University of Lisbon. [PDF](https://paantunes.github.io/assets/pdf/23-tp.pdf).
+
 
 ## 2022
+
 
 Antunes, P., and Tate, M. 2022. “Business Process Conceptualizations and the Flexibility-Support Tradeoff.” Business Process Management Journal (28:3). pp. 856–875. ISSN: 1463-7154. DOI: 10.1108/BPMJ-10-2021-0677. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 41**. ABDC B. [PDF](https://paantunes.github.io/assets/pdf/22-bpm.pdf).
 
