@@ -8,8 +8,7 @@ permalink: /publications/
 
 ## 2025
 
-
-Antunes, P., Johnstone, D., and Nguyen, T.  2025.  “Construction of Conceptual Frameworks in Research: An Information Systems Design Perspective.” Communications of the Association for Information Systems (to appear). **ABDC A**. **h5-index 39**. Scimago Q2. Scopus Q2.
+Antunes, P., Johnstone, D., and Nguyen, T.  2025.  “Construction of Conceptual Frameworks in Research: An Information Systems Design Perspective.”  Communications of the Association for Information Systems (57).  ISSN: 1529-3181.  **ABDC A**. **h5-index 39**. Scimago Q2. Scopus Q2.  [URL](https://aisel.aisnet.org/cais/vol57/iss1/3). [PDF](https://paantunes.github.io/assets/pdf/25-cais-frameworks.pdf).
 
 Minh, T., Nguyen, T., McClelland, R., Antunes, P., and Thuan, N.  2025.  “Exploring the Dichotomy Between Brand Addiction and Brand Love: A Comprehensive Analysis.”  Asia Pacific Journal of Marketing and Logistics.  ISSN: 1355-5855.  DOI: https://doi.org/10.1108/APJML-11-2024-1661. **SCIMAGO Q1**. **SCOPUS Q1**. **h5-index 60**. WoS Q2.  [PDF](https://paantunes.github.io/assets/pdf/25-apjml-brand.pdf).
 
