@@ -11,6 +11,16 @@ layout: home
 
 Pedro Antunes is mainly interested in the creation of innovative, first-of-a-kind information systems artifacts, in particular those involving complex social-technical contexts. He is a strong advocate of design science research and design thinking. His contributions address design theory, meta-theory and methodology. Currently at the Faculty of Sciences of the U. of Lisbon, Portugal. Previously at Victoria U. of Wellington, New Zealand.
 
+# Current research interests
+
+- BizDevOps
+- BizDevOps and crowdsourcing
+- Microservices choreography
+- Design of microservices-based and event-based systems
+- Data protection in microservices architectures
+- Design thinking education
+- Systems resilience
+
 # Profile
 
 - [DBLP](https://dblp.org/pid/97/768.html)
