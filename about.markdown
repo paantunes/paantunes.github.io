@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-![photo](/assets/img/atacama.jpg "Title")
+![photo](/assets/img/pedro-antunes-2025-01.jpg "Title")
 
 # Education
 
