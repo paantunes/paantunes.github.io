@@ -12,7 +12,7 @@ permalink: /contact/
 
 Institutional email: Join [padantunes] with @ and [ciencias.ulisboa.pt]
 
-XX Institutional page: <https://ciencias.ulisboa.pt/perfil/padantunes>  
+Institutional page: <https://ciencias.ulisboa.pt/perfil/padantunes>  
 
 # Physical
 
