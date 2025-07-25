@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![photo](/assets/img/lx2024.jpg "Title")
+![photo](/assets/img/pedro-antunes-2025-01.jpg "Title")
 
 # Overview
 

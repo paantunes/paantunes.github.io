@@ -6,7 +6,7 @@ permalink: /contact/
 
 # Contact
 
-![photo](/assets/img/shrimp.jpg "Title")
+![photo](/assets/img/pedro-antunes-2025-15.jpg "Title")
 
 # Virtual
 

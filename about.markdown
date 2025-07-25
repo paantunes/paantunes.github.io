@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-![photo](/assets/img/pedro-antunes-2025-01.jpg "Title")
+![photo](/assets/img/pedro-antunes-2025-22.jpg "Title")
 
 # Education
 
