@@ -10,7 +10,7 @@ permalink: /contact/
 
 # Virtual
 
-Institutional email: <padantunes@ciencias.ulisboa.pt>  
+Institutional email: Join [padantunes] with @ and [ciencias.ulisboa.pt]
 Institutional page: <https://ciencias.ulisboa.pt/perfil/padantunes>  
 
 # Physical
