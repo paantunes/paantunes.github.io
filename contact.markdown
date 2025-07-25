@@ -6,7 +6,7 @@ permalink: /contact/
 
 # Contact
 
-![photo](/assets/img/pedro-antunes-2025-15.jpg "Title")
+![photo](/assets/img/pedro-antunes-2025-15.jpg "Title"){width=444 height=666}
 
 # Virtual
 
