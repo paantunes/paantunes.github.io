@@ -36,10 +36,10 @@ permalink: /awards/
 2017: Best New Zealand PhD Thesis in Information Systems - Awarded by PHIS-NZ to Thuan Nguyen
 
 
-![photo](/assets/img/supervisor-award.jpg "Supervisor Award")
+<img src="/assets/img/supervisor-award.jpg" alt="Photo" style="width:40%; height:auto;">
 
-![photo](/assets/img/acis-award.jpg "ACIS Award")
+<img src="/assets/img/cscwd-award.jpg" alt="Photo" style="width:40%; height:auto;">
 
-![photo](/assets/img/thci-award.jpg "Best Reviewer Award")
+<img src="/assets/img/thci-award.jpg" alt="Photo" style="width:40%; height:auto;">
 
-![photo](/assets/img/cscwd-award.jpg "CSCWD Award")
+<img src="/assets/img/cscwd-award.jpg" alt="Photo" style="width:40%; height:auto;">

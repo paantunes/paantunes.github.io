@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![photo](/assets/img/pedro-antunes-2025-01.jpg "Title")
+<img src="/assets/img/pedro-antunes-2025-01.jpg" alt="Photo" style="width:40%; height:auto;">
 
 # Overview
 

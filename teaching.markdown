@@ -6,7 +6,7 @@ permalink: /teaching/
 
 # Teaching
 
-![photo](/assets/img/talk1.jpg)
+<img src="/assets/img/talk1.jpg" alt="Photo" style="width:40%; height:auto;">
 
 # Key Courses
 

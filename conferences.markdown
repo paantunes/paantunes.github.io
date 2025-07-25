@@ -6,7 +6,7 @@ permalink: /conferences/
 
 # Conferences
 
-![photo](/assets/img/talk2.jpg)
+<img src="/assets/img/talk2.jpg" alt="Photo" style="width:40%; height:auto;">
 
 # Organizing & Chairing
 
