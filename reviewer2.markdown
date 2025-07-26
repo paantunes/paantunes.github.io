@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reviewer 2014-2005
+title: reviewer 2014-2005
 permalink: /reviewer2/
 ---
 

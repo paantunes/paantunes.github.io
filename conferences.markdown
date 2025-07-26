@@ -1,6 +1,6 @@
 ---
 layout: page
-title: confs
+title: conferences
 permalink: /conferences/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: revwr
+title: reviewer
 permalink: /reviewer/
 ---
 

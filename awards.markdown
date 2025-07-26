@@ -1,6 +1,6 @@
 ---
 layout: page
-title: awrds
+title: awards
 permalink: /awards/
 ---
 

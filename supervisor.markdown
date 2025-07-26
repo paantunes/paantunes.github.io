@@ -1,6 +1,6 @@
 ---
 layout: page
-title: suprv
+title: supervisor
 permalink: /supervisor/
 ---
 
