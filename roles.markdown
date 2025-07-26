@@ -4,7 +4,6 @@ title: roles
 permalink: /roles/
 ---
 
-# Roles
 
 # Leadership Roles
 

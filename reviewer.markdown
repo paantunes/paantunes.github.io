@@ -4,7 +4,6 @@ title: reviewer
 permalink: /reviewer/
 ---
 
-# Work as Reviewer
 
 # 2025
 

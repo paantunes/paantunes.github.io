@@ -4,7 +4,6 @@ title: reviewer 2014-2005
 permalink: /reviewer2/
 ---
 
-# Work as Reviewer
 
 # 2014
 

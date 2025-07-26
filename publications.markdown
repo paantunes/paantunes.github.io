@@ -4,7 +4,6 @@ title: publications
 permalink: /publications/
 ---
 
-# Publications
 
 ## 2025
 

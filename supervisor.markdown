@@ -4,7 +4,6 @@ title: supervisor
 permalink: /supervisor/
 ---
 
-# Supervisor
 
 # Highlights
 

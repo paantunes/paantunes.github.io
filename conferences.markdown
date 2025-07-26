@@ -4,7 +4,6 @@ title: conferences
 permalink: /conferences/
 ---
 
-# Conferences
 
 <img src="/assets/img/talk2.jpg" alt="Photo" style="width:40%; height:auto;">
 

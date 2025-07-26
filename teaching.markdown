@@ -4,7 +4,6 @@ title: teaching
 permalink: /teaching/
 ---
 
-# Teaching
 
 <img src="/assets/img/talk1.jpg" alt="Photo" style="width:40%; height:auto;">
 

@@ -4,8 +4,6 @@ title: awards
 permalink: /awards/
 ---
 
-# Awards
-
 2021: 2020 Best Reviewer Award. AIS Transactions on Human-Computer Interaction, Association for Information Systems. SCOPUS Q2
 
 2019: Best Theory Paper Award (Business Processes and Flexibility: A Theoretical Perspective). Australasian Conference on Information Systems. Fremantle, Australia
@@ -24,10 +22,7 @@ permalink: /awards/
 
 2009: Best Paper Award (Tackling Collaborative-Design of Mobile Prototypes). 13th CSCWD, Santiago, Chile
 
-
-
 # Related - Students' Awards
-
 
 2020: Best New Zealand PhD Thesis in Information Systems - Awarded by PHIS-NZ to Ijeoma Ushaka
 
