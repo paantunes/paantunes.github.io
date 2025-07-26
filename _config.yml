@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pedro Antunes' Page
-# email: [padantunes] @ [ciencias.ulisboa.pt]
+title: Pedro Antunes
+email: [padantunes] @ [ciencias.ulisboa.pt]
 description: >- # this means to ignore newlines until "baseurl:"
   Associate Professor with Habilitation at Faculty of Sciences of University of Lisbon, Portugal
 baseurl: "" # the subpath of your site, e.g. /blog
