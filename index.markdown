@@ -23,10 +23,10 @@ Pedro Antunes is mainly interested in the creation of innovative, first-of-a-kin
 
 # Research highlights
 
-- [Design Science]({% link /assets/pdf/design-science.pdf %})
-- [Business Process Crowdsourcing]({% link /assets/pdf/crowdsourcing.pdf %})
-- [Process Stories]({% link /assets/pdf/process-stories.pdf %})
-- [Process Flexibility]({% link /assets/pdf/process-flexibility.pdf %})
+- [Design Science](/assets/pdf/design-science.pdf)
+- [Business Process Crowdsourcing](/assets/pdf/crowdsourcing.pdf)
+- [Process Stories]({/assets/pdf/process-stories.pdf)
+- [Process Flexibility](/assets/pdf/process-flexibility.pdf)
 
 # Profile
 
@@ -40,4 +40,4 @@ Pedro Antunes is mainly interested in the creation of innovative, first-of-a-kin
 
 # Details
 
-- [CV (long)]({% link /assets/pdf/cv-long-3.pdf %})
+- [CV (long)](/assets/pdf/cv-long-3.pdf)
