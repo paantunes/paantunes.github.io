@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  publications 2004-1990
+title:  Publications 2004-1990
 permalink: /publications3/
 ---
 

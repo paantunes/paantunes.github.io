@@ -1,6 +1,6 @@
 ---
 layout: page
-title: roles
+title: Roles
 permalink: /roles/
 ---
 

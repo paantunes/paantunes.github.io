@@ -1,6 +1,6 @@
 ---
 layout: page
-title: editorial
+title: Editorial
 permalink: /editorial/
 ---
 
