@@ -16,6 +16,6 @@ permalink: /awards/
 
 # Awards received by supervised students
 
-| 2020: Best New Zealand PhD Thesis in Information Systems, Awarded by PHIS-NZ to Ijeoma Ushaka | <img src="/assets/img/ijay-award.jpg" alt="Photo">
+| 2020: Best New Zealand PhD Thesis in Information Systems, Awarded by PHIS-NZ to Ijeoma Ushaka | <img src="/assets/img/ijay-award.jpg" alt="Photo" style="width:50%; height:auto;">
 | 2019: Best New Zealand PhD Thesis in Information Systems, Awarded by PHIS-NZ to Haibo Yang |    
 | 2017: Best New Zealand PhD Thesis in Information Systems, Awarded by PHIS-NZ to Thuan Nguyen | <img src="/assets/img/thuan-award.jpg" alt="Photo" style="width:50%; height:auto;">  
