@@ -12,7 +12,7 @@ permalink: /awards/
 | 2016: Victoria’s Supervisor Award. New Zealand: Victoria University of Wellington | <img src="/assets/img/supervisor-award.jpg" alt="Photo" style="width:40%; height:auto;"> |
 | 2013: Best Paper Award (Modeling Highly Collaborative Processes). 17th IEEE CSCWD, Whistler, BC, Canada | |
 | 2011: Best Paper Award (Using Microworlds to Study Teamwork at the Cognitive Level). VIII SBSC, Paraty, Brazil | |
-| 2009: Best Paper Award (Tackling Collaborative-Design of Mobile Prototypes). 13th CSCWD, Santiago, Chile | |
+| 2009: Best Paper Award (Tackling Collaborative-Design of Mobile Prototypes). 13th CSCWD, Santiago, Chile | <img src="/assets/img/2009-award.jpg" alt="Photo" style="width:40%; height:auto;"> |
 
 # Awards received by supervised students
 
