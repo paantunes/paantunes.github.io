@@ -6,11 +6,19 @@ permalink: /reviewer/
 
 # Work as Reviewer
 
+# 2025
+
+2025: Fund for Scientific Research (FNRS). Call: Grants & Fellowships. Remote Evaluator. Belgium. Evaluated 1 project
+
+2025: International Conference on Information Systems (ICIS). Nashville, US. Reviewed 1 paper. CORE A*. h5-index 39
+
 # 2024
 
 2024: Fund for Scientific Research (FNRS). Call: Credits and Projects 2024. Remote Evaluator. Belgium. Evaluated 1 project
 
 2024: Fund for Scientific Research (FNRS). Call: Inceptive Grant for Scientific Research. Remote Evaluator. Belgium. Evaluated 1 project
+
+2024: DATA BASE for Advances in Information Systems. Reviewed 1 paper. ABDC A. JCR Q1. Scimago Q2.
 
 2024: Data & Knowledge Engineering. Reviewed 1 paper. **ABDC A**. SCIMAGO Q2. **h5-index 26**
 
