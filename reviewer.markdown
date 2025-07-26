@@ -10,7 +10,7 @@ permalink: /reviewer/
 
 2025: Fund for Scientific Research (FNRS). Call: Grants & Fellowships. Remote Evaluator. Belgium. Evaluated 1 project
 
-2025: International Conference on Information Systems (ICIS). Nashville, US. Reviewed 1 paper. CORE A*. h5-index 39
+2025: International Conference on Information Systems (ICIS). Nashville, US. Reviewed 1 paper. **CORE A\***. h5-index 39
 
 # 2024
 
