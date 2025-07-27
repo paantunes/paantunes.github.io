@@ -9,7 +9,7 @@ layout: home
 
 # Overview
 
-Pedro Antunes is mainly interested in the creation of innovative, first-of-a-kind information systems artifacts, in particular those involving complex social-technical contexts. He is a strong advocate of design science research and design thinking. His contributions address design theory, meta-theory and methodology. He his currently working at the Faculty of Sciences of the University of Lisbon, Portugal. He has also worked at Victoria University of Wellington, New Zealand, and Instituto Superior Técnico, Technical University of Lisbon, Portugal. 
+Pedro Antunes is mainly interested in the creation of innovative, first-of-a-kind information systems artifacts, in particular those involving complex social-technical contexts. He is a strong advocate of design science research and design thinking. His contributions address design theory, meta-theory and methodology.  
 
 # Current research interests
 
