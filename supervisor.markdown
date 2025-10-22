@@ -11,9 +11,13 @@ permalink: /supervisor/
 
 # Ongoing
 
-Susana, B. DevOps Monitoring in a Development Team. M.Sc. Thesis. FCUL
-
 Silva, T. Implementation of BizDevOps as a Service. Ph.D. Thesis. FCUL
+
+Prazeres, G. DevOps Approach to Microservices Composition. M.Sc. Thesis. FCUL
+
+# 2025
+
+Susana, B. DevOps Monitoring in a Development Team. M.Sc. Thesis. FCUL
 
 # 2020-2024
 

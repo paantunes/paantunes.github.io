@@ -7,6 +7,12 @@ permalink: /reviewer/
 
 # 2025
 
+2025: AIS Transactions on Human-Computer Interaction. Reviewed 1 paper. **ABDC A**. Scimago Q2. Scopus Q2.
+
+2025: Journal of Strategic Information Systems. Reviewed 1 paper. **ABDC A**. **JCR Q1**. **Scimago Q1**.
+
+2025: Fund for Scientific Research (FNRS). Call: Incentive Grant for Scientific Research. Remote Evaluator. Belgium. Evaluated 1 project
+
 2025: Fund for Scientific Research (FNRS). Call: Grants & Fellowships. Remote Evaluator. Belgium. Evaluated 1 project
 
 2025: International Conference on Information Systems (ICIS). Nashville, US. Reviewed 1 paper. **CORE A\***. h5-index 39
