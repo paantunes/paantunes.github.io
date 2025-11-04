@@ -4,8 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+## To appear
+
+
+Antunes, P., Pino, J., Tate, M., & Lugmayr, A. Business Processes and Storytelling. The Serious Storytelling Handbook. CRC Press / Taylor & Francis.
+
 
 ## 2025
+
 
 Antunes, P., Johnstone, D., and Nguyen, T.  2025.  “Construction of Conceptual Frameworks in Research: An Information Systems Design Perspective.”  Communications of the Association for Information Systems (57).  ISSN: 1529-3181.  **ABDC A**. **h5-index 39**. Scimago Q2. Scopus Q2.  [Source](https://aisel.aisnet.org/cais/vol57/iss1/3). [PDF](https://paantunes.github.io/assets/pdf/25-cais-frameworks.pdf).
 
