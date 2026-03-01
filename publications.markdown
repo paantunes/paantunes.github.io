@@ -12,7 +12,7 @@ Antunes, P., Pino, J., Tate, M., & Lugmayr, A. Business Processes and Storytelli
 ## 2026
 
 
-Antunes, P., Nguyen, T., and Tate, M.  2026.  “BizDevOps Blueprint: A Light Model Supporting BizDevOps Teams Planning Digital Services.”  First Monday. **SCOPUS Q1**. **SCIMAGO Q1**. **h5-index 36**.
+Antunes, P., Nguyen, T., and Tate, M.  2026.  “BizDevOps Blueprint: A Light Model Supporting BizDevOps Teams Planning Digital Services.”  First Monday. **SCOPUS Q1**. **SCIMAGO Q1**. **h5-index 36**. [PDF](https://firstmonday.org/ojs/index.php/fm/article/view/13818). [PDF](https://paantunes.github.io/assets/pdf/26-fm-blueprint.pdf).
 
 
 ## 2025
