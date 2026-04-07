@@ -9,10 +9,13 @@ permalink: /publications/
 
 Antunes, P., Pino, J., Tate, M., & Lugmayr, A. Business Processes and Storytelling. The Serious Storytelling Handbook. CRC Press / Taylor & Francis.
 
+
 ## 2026
 
 
 Antunes, P., Nguyen, T., and Tate, M.  2026.  “BizDevOps Blueprint: A Light Model Supporting BizDevOps Teams Planning Digital Services.”  First Monday. **SCOPUS Q1**. **SCIMAGO Q1**. **h5-index 36**. [PDF](https://firstmonday.org/ojs/index.php/fm/article/view/13818). [PDF](https://paantunes.github.io/assets/pdf/26-fm-blueprint.pdf).
+
+Antunes, P., and Drechsler, A. 2026. “Generating Design Knowledge Without Doing Design: The Design Researcher as Curator.” in The 21st International Conference on Design Science Research in Information Systems and Technology. Münster, Germany: Springer. **CORE A (2018)**. h5-index 15. [PDF](https://paantunes.github.io/assets/pdf/26-desrist-curator.pdf).
 
 
 ## 2025
@@ -89,21 +92,22 @@ Thuan, N., Phuong, H., George, M., Nkhoma, M., and Antunes, P. 2020. “Toward a
 
 ## 2019
 
-Thuan, N., Drechsler, A., and Antunes, P. 2019. “Construction of Design Science Research Questions.” Communications of the Association for Information Systems (44). ISSN: 1529-3181. DOI: 10.17705/1CAIS.04420. **CORE A**. **ABDC A**. **h5-index 30**. SCIMAGO Q2. SCOPUS Q2. [PDF](https://paantunes.github.io/assets/pdf/19-cais.pdf).
 
-Antunes, P., Pino, J., and Tate, M. 2019. “Method for Eliciting and Analyzing Business Processes Based on Storytelling Theory.” in Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS). Hawaii: AIS. ISBN: 978-0-9981331-2-6. DOI: 10.24251/HICSS.2019.669. **CORE A**. **h5-index 52**. [PDF](https://paantunes.github.io/assets/pdf/19-hicss.pdf).
+Thuan, N., Drechsler, A., and Antunes, P. 2019. “Construction of Design Science Research Questions.” Communications of the Association for Information Systems (44). ISSN: 1529-3181. DOI: 10.17705/1CAIS.04420. **ERA A**. **ABDC A**. **h5-index 30**. SCIMAGO Q2. SCOPUS Q2. [PDF](https://paantunes.github.io/assets/pdf/19-cais.pdf).
+
+Antunes, P., Pino, J., and Tate, M. 2019. “Method for Eliciting and Analyzing Business Processes Based on Storytelling Theory.” in Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS). Hawaii: AIS. ISBN: 978-0-9981331-2-6. DOI: 10.24251/HICSS.2019.669. **CORE A (2018)**. **h5-index 52**. [PDF](https://paantunes.github.io/assets/pdf/19-hicss.pdf).
 
 Antunes, P., Tate, M., and Pino, J. 2019. Business Processes and Flexibility: A Theoretical Perspective. Fremantle, Australia: AIS. DOI: https://aisel.aisnet.org/acis2019/7/. **Best Theory Paper Award**. **ERA A**. [PDF](https://paantunes.github.io/assets/pdf/19-acis.pdf).
 
 Antunes, T., Antunes, P., Johnstone, D., Nghia, V., and Thuan, N. 2019. “A Tool for Modelling Business Behaviour Using Decision Tables.” in 19th International Symposium on Communications and Information Technologies (ISCIT). Ho Chi Minh City, Vietnam: IEEE. ISBN: 978-1-72815-009-3. DOI: 10.1109/ISCIT.2019.8905161. [PDF](https://paantunes.github.io/assets/pdf/19-iscit.pdf).
 
-Enwereuzo, I., Antunes, P., and Johnstone, D. 2019. “Towards the Development of a DSS Supporting the Integration of Crowdsourcing in Theory Testing: Analytical Framework Design.” in 25th Americas Conference on Information Systems (AMCIS). Cancun, Mexico: AIS. ISBN: 978-0-9966831-8-0. DOI: aisel.aisnet.org/acis2017/66. **CORE A**. **h5-index 26**. [PDF](https://paantunes.github.io/assets/pdf/19-amcis-cs.pdf).
+Enwereuzo, I., Antunes, P., and Johnstone, D. 2019. “Towards the Development of a DSS Supporting the Integration of Crowdsourcing in Theory Testing: Analytical Framework Design.” in 25th Americas Conference on Information Systems (AMCIS). Cancun, Mexico: AIS. ISBN: 978-0-9966831-8-0. DOI: aisel.aisnet.org/acis2017/66. **CORE A (2018)**. **h5-index 26**. [PDF](https://paantunes.github.io/assets/pdf/19-amcis-cs.pdf).
 
-Enwereuzo, I., Antunes, P., and Johnstone, D. 2019. “Patterns of Testing Theory with Human Subjects: A Design Science Perspective.” in 25th Americas Conference on Information Systems (AMCIS). Cancun, Mexico: AIS. ISBN: 978-0-9966831-8-0. DOI: aisel.aisnet.org/amcis2019/systems_analysis_design/systems_analysis_design/3. **CORE A**. **h5-index 26**. [PDF](https://paantunes.github.io/assets/pdf/19-amcis-tt.pdf).
+Enwereuzo, I., Antunes, P., and Johnstone, D. 2019. “Patterns of Testing Theory with Human Subjects: A Design Science Perspective.” in 25th Americas Conference on Information Systems (AMCIS). Cancun, Mexico: AIS. ISBN: 978-0-9966831-8-0. DOI: aisel.aisnet.org/amcis2019/systems_analysis_design/systems_analysis_design/3. **CORE A (2018)**. **h5-index 26**. [PDF](https://paantunes.github.io/assets/pdf/19-amcis-tt.pdf).
 
-Enwereuzo, I., Antunes, P., Johnstone, D., and de Vreede, G. 2019. “Design and Development of a DSS Supporting the Integration of Crowdsourcing in Theory Testing: A Design Science Perspective.” in Pacific Asia Conference on Information Systems (PACIS). Xi’an, China: AIS. DOI: aisel.aisnet.org/pacis2019/172. **CORE A**. **h5-index 27**. [PDF](https://paantunes.github.io/assets/pdf/19-pacis.pdf).
+Enwereuzo, I., Antunes, P., Johnstone, D., and de Vreede, G. 2019. “Design and Development of a DSS Supporting the Integration of Crowdsourcing in Theory Testing: A Design Science Perspective.” in Pacific Asia Conference on Information Systems (PACIS). Xi’an, China: AIS. DOI: aisel.aisnet.org/pacis2019/172. **CORE A (2018)**. **h5-index 27**. [PDF](https://paantunes.github.io/assets/pdf/19-pacis.pdf).
 
-Leite, F., Antunes, P., Guimarães, N., and Pino, J. 2019. “Method Supporting the Adoption of Visual Stories in Judicial Systems.” in 27th European Conference on Information Systems (ECIS). Stockholm, Sweden: AIS. DOI: aisel.aisnet.org/ecis2019_rp/73. **CORE A**. **h5-index 34**. [PDF](https://paantunes.github.io/assets/pdf/19-ecis.pdf).
+Leite, F., Antunes, P., Guimarães, N., and Pino, J. 2019. “Method Supporting the Adoption of Visual Stories in Judicial Systems.” in 27th European Conference on Information Systems (ECIS). Stockholm, Sweden: AIS. DOI: aisel.aisnet.org/ecis2019_rp/73. **CORE A (2018)**. **h5-index 34**. [PDF](https://paantunes.github.io/assets/pdf/19-ecis.pdf).
 
 
 ## 2018
@@ -111,9 +115,9 @@ Leite, F., Antunes, P., Guimarães, N., and Pino, J. 2019. “Method Supporting 
 
 Antunes, P., Baloian, N., Zurita, G., and Pino, J. 2018. “Supporting People-Driven, Dynamic and Geo-Located Work Processes.” in 10th International Conference on Subject-Oriented Business Process Management (S-BPM ONE). C. Stary (ed.). Linz, Austria: ACM. pp. 137–146. ISBN: 978-1-4503-5360-1. DOI: 10.1145/3178248.3178260. [PDF](https://paantunes.github.io/assets/pdf/18-sbpm.pdf).
 
-Dakova, J., Chiu, Y., and Antunes, P. 2018. “A Pluralistic Approach to Information Valuation.” in 22nd Pacific Asia Conference on Information Systems (PACIS). Yokohama, Japan: AIS. DOI: aisel.aisnet.org/pacis2018/116. **CORE A**. **h5-index 27**. [PDF](https://paantunes.github.io/assets/pdf/18-pacis.pdf).
+Dakova, J., Chiu, Y., and Antunes, P. 2018. “A Pluralistic Approach to Information Valuation.” in 22nd Pacific Asia Conference on Information Systems (PACIS). Yokohama, Japan: AIS. DOI: aisel.aisnet.org/pacis2018/116. **CORE A (2018)**. **h5-index 27**. [PDF](https://paantunes.github.io/assets/pdf/18-pacis.pdf).
 
-Enwereuzo, I., Antunes, P., and Johnstone, D. 2018. “On the Adoption of Crowdsourcing for Theory Testing.” in 26th European Conference on Information Systems (ECIS). Portsmouth, UK: AIS. DOI: aisel.aisnet.org/ecis2018_rp/179. **CORE A**. **h5-index 34**. [PDF](https://paantunes.github.io/assets/pdf/18-ecis.pdf).
+Enwereuzo, I., Antunes, P., and Johnstone, D. 2018. “On the Adoption of Crowdsourcing for Theory Testing.” in 26th European Conference on Information Systems (ECIS). Portsmouth, UK: AIS. DOI: aisel.aisnet.org/ecis2018_rp/179. **CORE A (2018)**. **h5-index 34**. [PDF](https://paantunes.github.io/assets/pdf/18-ecis.pdf).
 
 Simões, D., Antunes, P., and Carriço, L. 2018. “Eliciting and Modelling Business Process Stories.” Business & Information Systems Engineering (60:2). pp. 115–132. ISSN: 2363-7005. DOI: 10.1007/s12599-017-0475-3. **ABDC A**. **WoS Q1**. **SCIMAGO Q1**. **h5-index 37**. **SCOPUS Q1**. [PDF](https://paantunes.github.io/assets/pdf/18-bise.pdf).
 
