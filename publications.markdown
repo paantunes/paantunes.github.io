@@ -15,7 +15,7 @@ Antunes, P., Pino, J., Tate, M., & Lugmayr, A. Business Processes and Storytelli
 
 Antunes, P., Nguyen, T., and Tate, M.  2026.  “BizDevOps Blueprint: A Light Model Supporting BizDevOps Teams Planning Digital Services.”  First Monday. **SCOPUS Q1**. **SCIMAGO Q1**. **h5-index 36**. [PDF](https://firstmonday.org/ojs/index.php/fm/article/view/13818). [PDF](https://paantunes.github.io/assets/pdf/26-fm-blueprint.pdf).
 
-Antunes, P., and Drechsler, A. 2026. “Generating Design Knowledge Without Doing Design: The Design Researcher as Curator.” in The 21st International Conference on Design Science Research in Information Systems and Technology. Münster, Germany: Springer. **CORE A (2018)**. h5-index 15. [PDF](https://paantunes.github.io/assets/pdf/26-desrist-curator.pdf).
+Antunes, P., and Drechsler, A. 2026. “Generating Design Knowledge Without Doing Design: The Design Researcher as Curator.” in The 21st International Conference on Design Science Research in Information Systems and Technology. Münster, Germany: Springer. **CORE A (2018)**. h5-index 15. **Runner Up Best Paper.** [PDF](https://paantunes.github.io/assets/pdf/26-desrist-curator.pdf).
 
 
 ## 2025
