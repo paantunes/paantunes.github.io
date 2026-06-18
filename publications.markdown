@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-<img src="/assets/img/26-desrist.jpg" alt="Photo" style="width:100%; height:auto;">
+<img src="/assets/img/26-desrist.jpg" alt="Photo" style="width:80%; height:auto;">
 
 
 ## To appear
