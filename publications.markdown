@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+
+<img src="/assets/img/26-desrist.jpg" alt="Photo" style="width:60%; height:auto;">
+
+
 ## To appear
 
 
