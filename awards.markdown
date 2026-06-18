@@ -8,7 +8,7 @@ permalink: /awards/
 
 | **Personal awards** | |
 | -------------------------------- | --- |  
-| 2026: Runner Up Best Paper (Generating Design Knowledge Without Doing Design: The Design Researcher as Curator). The 21st International Conference on Design Science Research in Information Systems and Technology. Münster, Germany. | <img src="/assets/img/desrist-award.jpg" alt="Photo" style="width:60%; height:auto;"> |
+| 2026: Runner Up Best Paper (Generating Design Knowledge Without Doing Design: The Design Researcher as Curator). The 21st International Conference on Design Science Research in Information Systems and Technology. Münster, Germany. | <img src="/assets/img/desrist-award.jpg" alt="Photo" style="width:60%; height:auto;">  <img src="/assets/img/26-desrist.jpg alt="Photo" style="width:60%; height:auto;"> |
 | 2021: 2020 Best Reviewer Award. AIS Transactions on Human-Computer Interaction, Association for Information Systems. SCOPUS Q2. | <img src="/assets/img/thci-award.jpg" alt="Photo" style="width:60%; height:auto;">  |
 | 2019: Best Theory Paper Award (Business Processes and Flexibility: A Theoretical Perspective). Australasian Conference on Information Systems. Fremantle, Australia. | <img src="/assets/img/acis-award.jpg" style="width:60%; height:auto;">  |
 | 2019: Scored ‘A’ in 2018 PBRF. PBRF is the New Zealand process that assesses the research performance of tertiary education organizations. ‘A’ is the top category and means: “evidence of research outputs of a world-class standard and research-related activity that shows a high level of peer recognition and esteem”. New Zealand. |  |   
