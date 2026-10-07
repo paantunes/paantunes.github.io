@@ -11,10 +11,10 @@ permalink: /publications/
 ## To appear
 
 
-Antunes, P., Zurita, G., and Rodríguez, M.  2026.  “Assessing Student Performance in Design Thinking: A Conceptual Framework.”  International Journal of Design Creativity and Innovation.  ISSN: 2165-0349.
+Antunes, P., Zurita, G., and Rodríguez, M. 2026. “Assessing Student Performance in Design Thinking: A Conceptual Framework.” International Journal of Design Creativity and Innovation. ISSN: 2165-0349. DOI: https://doi.org/10.1080/21650349.2026.2746579. **Scimago Q1**. **WoS Q1**.
 
 
-Antunes, P., Pino, J., Tate, M., & Lugmayr, A. Business Processes and Storytelling. The Serious Storytelling Handbook. CRC Press / Taylor & Francis.
+Antunes, P., Pino, J., Tate, M., & Lugmayr, A. Business Processes and Storytelling. The Serious Storytelling Handbook.
 
 
 ## 2026
